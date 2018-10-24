@@ -1,0 +1,4 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {0.1}Introduction}{5}{section.0.1}
+\contentsline {section}{\numberline {0.2}Helium Nanodroplets}{8}{section.0.2}
+\contentsline {chapter}{\numberline {1}Bibliography}{12}{chapter.1}
