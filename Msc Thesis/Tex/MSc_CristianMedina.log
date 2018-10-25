@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  22 OCT 2018 19:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  25 OCT 2018 17:57
 entering extended mode
 **./MSc_CristianMedina.tex
 (MSc_CristianMedina.tex
@@ -1038,7 +1038,51 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfig@top=\skip78
 \subfig@bottom=\skip79
 )
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.
+sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+"
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.st
+y"
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen183
+\captionmargin@=\dimen184
+\captionwidth=\dimen185
+\caption@tempdima=\dimen186
+\caption@indent=\dimen187
+\caption@parindent=\dimen188
+\caption@hangindent=\dimen189
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count291
+Package caption Info: float package is loaded.
+Package caption Info: sidecap package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+
+! Package subcaption Error: This package can't be used in cooperation
+(subcaption)                with the subfigure package.
+
+See the subcaption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \subcaption@CheckCompatibility
+                                   
+If you do not understand this error, please take a closer look
+at the documentation of the `subcaption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.
@@ -1059,10 +1103,10 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\framed.sty"
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip80
-\fb@frw=\dimen183
-\fb@frh=\dimen184
-\FrameRule=\dimen185
-\FrameSep=\dimen186
+\fb@frw=\dimen190
+\fb@frh=\dimen191
+\FrameRule=\dimen192
+\FrameSep=\dimen193
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\empheq.st
 y"
@@ -1077,46 +1121,46 @@ Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
  ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count291
-\calc@Bcount=\count292
-\calc@Adimen=\dimen187
-\calc@Bdimen=\dimen188
+\calc@Acount=\count292
+\calc@Bcount=\count293
+\calc@Adimen=\dimen194
+\calc@Bdimen=\dimen195
 \calc@Askip=\skip81
 \calc@Bskip=\skip82
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count293
+\calc@Ccount=\count294
 \calc@Cskip=\skip83
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count294
-\l_MT_multwidth_dim=\dimen189
+\g_MT_multlinerow_int=\count295
+\l_MT_multwidth_dim=\dimen196
 \origjot=\skip84
-\l_MT_shortvdotswithinadjustabove_dim=\dimen190
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen191
-\l_MT_above_intertext_sep=\dimen192
-\l_MT_below_intertext_sep=\dimen193
-\l_MT_above_shortintertext_sep=\dimen194
-\l_MT_below_shortintertext_sep=\dimen195
+\l_MT_shortvdotswithinadjustabove_dim=\dimen197
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen198
+\l_MT_above_intertext_sep=\dimen199
+\l_MT_below_intertext_sep=\dimen256
+\l_MT_above_shortintertext_sep=\dimen257
+\l_MT_below_shortintertext_sep=\dimen258
 )
-\l_EQ_equationtype_int=\count295
-\l_EQ_alignmentmode_int=\count296
-\l_EQ_totalwidth_dim=\dimen196
-\l_EQ_displaywidth_dim=\dimen197
-\l_EQ_temp_linewidth_dim=\dimen198
-\EmphEqdelimitershortfall=\dimen199
-\EmphEqdelimiterfactor=\count297
-\g_EQ_toptag_height_dim=\dimen256
-\g_EQ_bottomtag_depth_dim=\dimen257
-\g_EQ_toprow_height_dim=\dimen258
-\g_EQ_bottomrow_depth_dim=\dimen259
-\g_EQ_widesttag_dim=\dimen260
+\l_EQ_equationtype_int=\count296
+\l_EQ_alignmentmode_int=\count297
+\l_EQ_totalwidth_dim=\dimen259
+\l_EQ_displaywidth_dim=\dimen260
+\l_EQ_temp_linewidth_dim=\dimen261
+\EmphEqdelimitershortfall=\dimen262
+\EmphEqdelimiterfactor=\count298
+\g_EQ_toptag_height_dim=\dimen263
+\g_EQ_bottomtag_depth_dim=\dimen264
+\g_EQ_toprow_height_dim=\dimen265
+\g_EQ_bottomrow_depth_dim=\dimen266
+\g_EQ_widesttag_dim=\dimen267
 \EQ_mathdisplay_box=\box57
 \EQ_tag_box=\box58
-\g_EQ_temprow_int=\count298
+\g_EQ_temprow_int=\count299
 )
 
 Class scrreprt Warning: Usage of package `fancyhdr' together
@@ -1162,24 +1206,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\floatflt\floatflt.s
 ty"
 Package: floatflt 1997/07/16 v. 1.31
-\c@OptionTest=\count299
+\c@OptionTest=\count300
 \figbox=\box59
 \tabbox=\box60
 \pagebox=\box61
-\ffigcount=\count300
-\ftabcount=\count301
-\fftest=\count302
-\hangcount=\count303
-\nosuccesstryfig=\count304
-\nosuccesstrytab=\count305
-\figgutter=\dimen261
-\tabgutter=\dimen262
-\htdone=\dimen263
-\pageht=\dimen264
-\startpageht=\dimen265
-\tabbredd=\dimen266
-\floatfltwidth=\dimen267
-\fltitemwidth=\dimen268
+\ffigcount=\count301
+\ftabcount=\count302
+\fftest=\count303
+\hangcount=\count304
+\nosuccesstryfig=\count305
+\nosuccesstrytab=\count306
+\figgutter=\dimen268
+\tabgutter=\dimen269
+\htdone=\dimen270
+\pageht=\dimen271
+\startpageht=\dimen272
+\tabbredd=\dimen273
+\floatfltwidth=\dimen274
+\fltitemwidth=\dimen275
 \outputpretest=\toks28
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\t
@@ -1191,8 +1235,8 @@ s.sty"
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
 util-common.tex"
 \pgfutil@everybye=\toks29
-\pgfutil@tempdima=\dimen269
-\pgfutil@tempdimb=\dimen270
+\pgfutil@tempdima=\dimen276
+\pgfutil@tempdimb=\dimen277
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
 util-common-lists.tex"))
@@ -1226,20 +1270,20 @@ keys.code.tex"
 keysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks32
 ))
-\pgf@x=\dimen271
-\pgf@y=\dimen272
-\pgf@xa=\dimen273
-\pgf@ya=\dimen274
-\pgf@xb=\dimen275
-\pgf@yb=\dimen276
-\pgf@xc=\dimen277
-\pgf@yc=\dimen278
+\pgf@x=\dimen278
+\pgf@y=\dimen279
+\pgf@xa=\dimen280
+\pgf@ya=\dimen281
+\pgf@xb=\dimen282
+\pgf@yb=\dimen283
+\pgf@xc=\dimen284
+\pgf@yc=\dimen285
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count306
-\c@pgf@countb=\count307
-\c@pgf@countc=\count308
-\c@pgf@countd=\count309
+\c@pgf@counta=\count307
+\c@pgf@countb=\count308
+\c@pgf@countc=\count309
+\c@pgf@countd=\count310
 \t@pgf@toka=\toks33
 \t@pgf@tokb=\toks34
 \t@pgf@tokc=\toks35
@@ -1261,8 +1305,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
 gfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count310
-\pgfsyssoftpath@bigbuffer@items=\count311
+\pgfsyssoftpath@smallbuffer@items=\count311
+\pgfsyssoftpath@bigbuffer@items=\count312
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
 gfsysprotocol.code.tex"
@@ -1280,8 +1324,8 @@ alc.code.tex"
 til.code.tex")
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathp
 arser.code.tex"
-\pgfmath@dimen=\dimen279
-\pgfmath@count=\count312
+\pgfmath@dimen=\dimen286
+\pgfmath@count=\count313
 \pgfmath@box=\box63
 \pgfmath@toks=\toks36
 \pgfmath@stack@operand=\toks37
@@ -1307,37 +1351,37 @@ unctions.misc.code.tex")
 unctions.integerarithmetics.code.tex")))
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
 loat.code.tex"
-\c@pgfmathroundto@lastzeros=\count313
+\c@pgfmathroundto@lastzeros=\count314
 ))
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen280
-\pgf@picmaxx=\dimen281
-\pgf@picminy=\dimen282
-\pgf@picmaxy=\dimen283
-\pgf@pathminx=\dimen284
-\pgf@pathmaxx=\dimen285
-\pgf@pathminy=\dimen286
-\pgf@pathmaxy=\dimen287
-\pgf@xx=\dimen288
-\pgf@xy=\dimen289
-\pgf@yx=\dimen290
-\pgf@yy=\dimen291
-\pgf@zx=\dimen292
-\pgf@zy=\dimen293
+\pgf@picminx=\dimen287
+\pgf@picmaxx=\dimen288
+\pgf@picminy=\dimen289
+\pgf@picmaxy=\dimen290
+\pgf@pathminx=\dimen291
+\pgf@pathmaxx=\dimen292
+\pgf@pathminy=\dimen293
+\pgf@pathmaxy=\dimen294
+\pgf@xx=\dimen295
+\pgf@xy=\dimen296
+\pgf@yx=\dimen297
+\pgf@yy=\dimen298
+\pgf@zx=\dimen299
+\pgf@zy=\dimen300
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen294
-\pgf@path@lasty=\dimen295
+\pgf@path@lastx=\dimen301
+\pgf@path@lasty=\dimen302
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen296
-\pgf@shorten@start@additional=\dimen297
+\pgf@shorten@end@additional=\dimen303
+\pgf@shorten@start@additional=\dimen304
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcorescopes.code.tex"
@@ -1345,19 +1389,19 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box64
 \pgf@hbox=\box65
 \pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count314
+\pgf@picture@serial@count=\count315
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen298
+\pgflinewidth=\dimen305
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen299
-\pgf@pt@y=\dimen300
-\pgf@pt@temp=\dimen301
+\pgf@pt@x=\dimen306
+\pgf@pt@y=\dimen307
+\pgf@pt@temp=\dimen308
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcorequick.code.tex"
@@ -1374,13 +1418,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen302
+\pgfarrowsep=\dimen309
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen303
-\pgf@sys@shading@range@num=\count315
+\pgf@max=\dimen310
+\pgf@sys@shading@range@num=\count316
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
 fcoreimage.code.tex"
@@ -1415,8 +1459,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\p
 gfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen304
-\pgf@nodesepend=\dimen305
+\pgf@nodesepstart=\dimen311
+\pgf@nodesepend=\dimen312
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\p
 gfcomp-version-1-18.sty"
@@ -1438,8 +1482,8 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
 code.tex")
-\pgffor@iter=\dimen306
-\pgffor@skip=\dimen307
+\pgffor@iter=\dimen313
+\pgffor@skip=\dimen314
 \pgffor@stack=\toks39
 \pgffor@toks=\toks40
 ))
@@ -1450,32 +1494,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgf
 libraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count316
-\pgfplotmarksize=\dimen308
+\pgf@plot@mark@count=\count317
+\pgfplotmarksize=\dimen315
 )
-\tikz@lastx=\dimen309
-\tikz@lasty=\dimen310
-\tikz@lastxsaved=\dimen311
-\tikz@lastysaved=\dimen312
-\tikzleveldistance=\dimen313
-\tikzsiblingdistance=\dimen314
+\tikz@lastx=\dimen316
+\tikz@lasty=\dimen317
+\tikz@lastxsaved=\dimen318
+\tikz@lastysaved=\dimen319
+\tikzleveldistance=\dimen320
+\tikzsiblingdistance=\dimen321
 \tikz@figbox=\box69
 \tikz@figbox@bg=\box70
 \tikz@tempbox=\box71
 \tikz@tempbox@bg=\box72
-\tikztreelevel=\count317
-\tikznumberofchildren=\count318
-\tikznumberofcurrentchild=\count319
-\tikz@fig@count=\count320
+\tikztreelevel=\count318
+\tikznumberofchildren=\count319
+\tikznumberofcurrentchild=\count320
+\tikz@fig@count=\count321
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
 dulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count321
-\pgfmatrixcurrentcolumn=\count322
-\pgf@matrix@numberofcolumns=\count323
+\pgfmatrixcurrentrow=\count322
+\pgfmatrixcurrentcolumn=\count323
+\pgf@matrix@numberofcolumns=\count324
 )
-\tikz@expandcount=\count324
+\tikz@expandcount=\count325
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
 \tikz\libraries\tikzlibrarytopaths.code.tex"
@@ -1498,17 +1542,17 @@ Package ifvtex Info: VTeX not detected.
 ty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count325
-\Gm@cntv=\count326
-\c@Gm@tempcnt=\count327
-\Gm@bindingoffset=\dimen315
-\Gm@wd@mp=\dimen316
-\Gm@odd@mp=\dimen317
-\Gm@even@mp=\dimen318
-\Gm@layoutwidth=\dimen319
-\Gm@layoutheight=\dimen320
-\Gm@layouthoffset=\dimen321
-\Gm@layoutvoffset=\dimen322
+\Gm@cnth=\count326
+\Gm@cntv=\count327
+\c@Gm@tempcnt=\count328
+\Gm@bindingoffset=\dimen322
+\Gm@wd@mp=\dimen323
+\Gm@odd@mp=\dimen324
+\Gm@even@mp=\dimen325
+\Gm@layoutwidth=\dimen326
+\Gm@layoutheight=\dimen327
+\Gm@layouthoffset=\dimen328
+\Gm@layoutvoffset=\dimen329
 \Gm@dimlist=\toks41
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
@@ -1581,9 +1625,9 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen323
-\Hy@linkcounter=\count328
-\Hy@pagecounter=\count329
+\@linkdim=\dimen330
+\Hy@linkcounter=\count329
+\Hy@pagecounter=\count330
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
 "
@@ -1591,7 +1635,7 @@ File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count330
+\Hy@SavedSpaceFactor=\count331
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
 fg"
@@ -1604,12 +1648,12 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count331
+\c@Hy@tempcnt=\count332
 LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen324
-\Fld@menulength=\count332
-\Field@Width=\dimen325
-\Fld@charsize=\dimen326
+\XeTeXLinkMargin=\dimen331
+\Fld@menulength=\count333
+\Field@Width=\dimen332
+\Fld@charsize=\dimen333
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -1619,17 +1663,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count333
-\c@Item=\count334
-\c@Hfootnote=\count335
+\Hy@abspage=\count334
+\c@Item=\count335
+\c@Hfootnote=\count336
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
 f"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count336
-\c@bookmark@seq@number=\count337
+\Fld@listcount=\count337
+\c@bookmark@seq@number=\count338
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
 heck.sty"
@@ -1647,34 +1691,34 @@ LaTeX Warning: Unused global option(s):
 (ExpAufbau.aux) (Messungen.aux))
 \openout1 = `MSc_CristianMedina.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
 i"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
-\scratchdimen=\dimen327
+\scratchcounter=\count339
+\scratchdimen=\dimen334
 \scratchbox=\box73
-\nofMPsegments=\count339
-\nofMParguments=\count340
+\nofMPsegments=\count340
+\nofMParguments=\count341
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count341
-\MPscratchDim=\dimen328
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
+\MPscratchCnt=\count342
+\MPscratchDim=\dimen335
+\MPnumerator=\count343
+\makeMPintoPDFobject=\count344
 \everyMPtoPDFconversion=\toks43
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
@@ -1798,6 +1842,11 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedRightParindent=\skip111
 \JustifyingParindent=\skip112
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatflt package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1834,7 +1883,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring OFF on input line 84.
+Package hyperref Info: Link coloring OFF on input line 85.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
 y"
@@ -1844,26 +1893,26 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 string.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count344
+\c@section@level=\count345
 )
-LaTeX Info: Redefining \ref on input line 84.
-LaTeX Info: Redefining \pageref on input line 84.
-LaTeX Info: Redefining \nameref on input line 84.
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
  (MSc_CristianMedina.out) (MSc_CristianMedina.out)
 \@outlinefile=\write5
 \openout5 = `MSc_CristianMedina.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 84.
+LaTeX Font Info:    Try loading font information for U+msa on input line 85.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 84.
+LaTeX Font Info:    Try loading font information for U+msb on input line 85.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<logo.jpg, id=18, 185.0112pt x 185.0112pt>
+<logo.jpg, id=34, 185.0112pt x 185.0112pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg  used on input line 90.
@@ -1890,253 +1939,13 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ]
 \openout2 = `Introduction.aux'.
 
- (Introduction.tex
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...er pulses with peak intensitiesof up to 10^
-                                                  {21} $W/cm^{2}$  are avail...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...ith peak intensitiesof up to 10^{21} $W/cm^
-                                                  {2}$  are available nowada...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-[5
+ (Introduction.tex [5
 
 
-]
-! Undefined control sequence.
-<argument> \textasciiacute 
-                           
-l.16 ...ailed explanation on the correlation met´
-                                                  hod for the VMI-TOF meassu...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) [6] [7]
+]) [6]
 \openout2 = `Theorie.aux'.
 
  (Theorie.tex
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \\c
-       hapter{Theoretical Background}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Citation `whittle_matrix_1954' on page 8 undefined on input line
- 8.
-
-! Undefined control sequence.
-<recently read> \citep 
-                       
-l.8 ...d in 1937 by \textit{Kapitza et. all}\citep
-                                                  {kapitza_viscosity_1938}, ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 ... by \textit{Kapitza et. all}\citep{kapitza_
-                                                  viscosity_1938}, have as c...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.8 ...itza et. all}\citep{kapitza_viscosity_1938}
-                                                  , have as consequence one ...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-l.9 ...m, molecules and clusters isolation. \citep
-                                                  {stienkemeier_spectroscopy...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\spacefactor' in math mode.
-\cite@adjust ... \@tempa \@zero@skip \spacefactor 
-                                                  1001 \fi \ifnum \spacefact...
-l.9 ...oscopy_2006}\cite{toennies_superfluid_2004}
-                                                  .
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Improper \spacefactor.
-\cite@adjust ...ctor 1001 \fi \ifnum \spacefactor 
-                                                  >\@m \ \else \hskip \@temp...
-l.9 ...oscopy_2006}\cite{toennies_superfluid_2004}
-                                                  .
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...oscopy_2006}\cite{toennies_superfluid_2004}
-                                                  .
-Please use the math alphabet \mathbf instead of the \bfseries command. 
-
-
-LaTeX Warning: Citation `toennies_superfluid_2004' on page 8 undefined on input
- line 9.
-
-! You can't use `\spacefactor' in math mode.
-\@cite ...ivesfalse \citemid {#2}\fi \spacefactor 
-                                                  \@m }\citeright \@restore@...
-l.9 ...oscopy_2006}\cite{toennies_superfluid_2004}
-                                                  .
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no � in font cmex10!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.10 ...er of a few nthousands od atoms up to $10^
-                                                  {8}$ of atoms, and can go ...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Citation `toennies_spectroscopy_1998' on page 8 undefined on inp
-ut line 10.
-
-
-LaTeX Warning: Citation `enss_low-temperature_2005' on page 8 undefined on inpu
-t line 10.
-
-
-LaTeX Warning: Citation `nauta_nonequilibrium_1999' on page 8 undefined on inpu
-t line 12.
-
-
-LaTeX Warning: Citation `grebenev_superfluidity_1998' on page 8 undefined on in
-put line 13.
-
-! Undefined control sequence.
-l.13 ... barely influenced by the He matrix \citep
-                                                  {toennies_superfluid_2004}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.13 ...fluenced by the He matrix \citep{toennies_
-                                                  superfluid_2004}.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.13 ...He matrix \citep{toennies_superfluid_2004}
-                                                  .
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (2615.20392pt too wide) in paragraph at lines 8--14
-\T1/cmr/m/n/12 1937 by \T1/cmr/m/it/12 Kapitza et. all\T1/cmr/m/n/12 kapitza$[]
-\OML/cmm/m/it/12 iscosity[]\OT1/cmr/m/n/12 938\OML/cmm/m/it/12 ; haveasconseque
-nceoneofthemostpowerfulandflexibletoolinnanophysics; theheliumnanodroplets:Heli
-umnanodropshaveuniquepropertiesthatmakesitverysuitablefortheclusterandnanophysi
-csexperimentsinthelastdecades:Forexample; theydonotexhibitanyopticaltransitions
-intheentireinfrared; visibleandultravioletrange:Theycanreadilypickupatomsandmol
-eculesandcanformcomplexesfromthespeciesembeddedintheirinteriors; orontheirsurfa
-cesandactasaidealmatrixforatom; moleculesandclustersisolation:[]
- []
-
-
-Overfull \hbox (15.98044pt too wide) in paragraph at lines 8--14
-\OT1/cmr/m/n/12 1001[[]]\OML/cmm/m/it/12 :Hedropletsiyecangofronaclusterofafewn
-thousandsodatomsupto$\T1/cmr/m/n/12 10$[]$ of atoms,
- []
-
-[8
-
-
-]) [9]
-\openout2 = `Methoden.aux'.
-
-
-No file Methoden.tex.
-\openout2 = `ExpAufbau.aux'.
-
-No file ExpAufbau.tex.
-\openout2 = `Messungen.aux'.
-
-No file Messungen.tex.
-(MSc_CristianMedina.lof)
-\tf@lof=\write7
-\openout7 = `MSc_CristianMedina.lof'.
-
- [10
-
-
-
-
-
-
-
-
-] (MSc_CristianMedina.lot)
-\tf@lot=\write8
-\openout8 = `MSc_CristianMedina.lot'.
-
- (MSc_CristianMedina.bbl
-[11
-
-]
 chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
@@ -2153,18 +1962,114 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface .
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 16.
+[7
+
+
+
+] [8]
+<../Images/jet_scketch.png, id=154, 346.29375pt x 221.32687pt>
+File: ../Images/jet_scketch.png Graphic file (type png)
+<use ../Images/jet_scketch.png>
+Package pdftex.def Info: ../Images/jet_scketch.png  used on input line 42.
+(pdftex.def)             Requested size: 256.07741pt x 163.67123pt.
+<../Images/waanderwaal_hehe.PNG, id=157, 501.37312pt x 582.67688pt>
+File: ../Images/waanderwaal_hehe.PNG Graphic file (type png)
+<use ../Images/waanderwaal_hehe.PNG>
+Package pdftex.def Info: ../Images/waanderwaal_hehe.PNG  used on input line 49.
+
+(pdftex.def)             Requested size: 213.39568pt x 248.00337pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <../Images/jet_scketch.png>]
+<../Images/expansion_regimes.PNG, id=171, 1102.1175pt x 652.68843pt>
+File: ../Images/expansion_regimes.PNG Graphic file (type png)
+<use ../Images/expansion_regimes.PNG>
+Package pdftex.def Info: ../Images/expansion_regimes.PNG  used on input line 74
+.
+(pdftex.def)             Requested size: 341.43306pt x 202.20184pt.
+
+
+Package caption Warning: \label without proper reference on input line 72.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:ExpRegim' on page 10 undefined on input line 78.
+
+[10 <../Images/waanderwaal_hehe.PNG>]) [11 <../Images/expansion_regimes.PNG>]
+\openout2 = `Methoden.aux'.
+
+
+No file Methoden.tex.
+\openout2 = `ExpAufbau.aux'.
+
+No file ExpAufbau.tex.
+\openout2 = `Messungen.aux'.
+
+No file Messungen.tex.
+(MSc_CristianMedina.lof)
+\tf@lof=\write7
+\openout7 = `MSc_CristianMedina.lof'.
+
+ [12
+
+
+
+
+
+
+
+
+] (MSc_CristianMedina.lot)
+\tf@lot=\write8
+\openout8 = `MSc_CristianMedina.lot'.
+
+ (MSc_CristianMedina.bbl
+[13
+
+]
+chapter 2.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 23.
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 7522) in paragraph at lines 20--24
+[14
+
+]
+
+! Package inputenc Error: Unicode char λ (U+3BB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...ck Viscosity of Liquid Helium below the λ
+                                                  -Point.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 104--108
 []\T1/cmr/m/sc/12 Mikaberidze\T1/cmr/m/n/12 , A. :  \T1/cmr/m/it/12 Atomic and 
-molec-u-lar clus-ters in in-tense
+molec-u-lar clus-ters in in-tense laser
  []
 
-) [12
 
-] [13
+Underfull \hbox (badness 6808) in paragraph at lines 104--108
+\T1/cmr/m/it/12 pulses\T1/cmr/m/n/12 .  []$\T1/cmtt/m/n/12 https : / / www . pk
+s . mpg . de / mpi -[] doc / rostgruppe / dissertation /
+ []
+
+[15]
+Underfull \hbox (badness 1038) in paragraph at lines 162--168
+[]\T1/cmr/m/sc/12 Weinberger\T1/cmr/m/n/12 , P. :  The dis-cov-ery of ther-mo-d
+y-nam-ics.  93, Nr. 20,
+ []
+
+) [16] [17
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 184--195
@@ -2176,61 +2081,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--195
 
  []
 
-[14]
+[18]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 196.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
  (MSc_CristianMedina.aux (Introduction.aux) (Theorie.aux) (Methoden.aux)
 (ExpAufbau.aux) (Messungen.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 196.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
+Package rerunfilecheck Info: File `MSc_CristianMedina.out' has not changed.
+(rerunfilecheck)             Checksum: 58E6C3F30480EC44EC944D9BAE483210;427.
 
-
-Package rerunfilecheck Warning: File `MSc_CristianMedina.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MSc_CristianMedina.out':
-(rerunfilecheck)             Before: 774166FA95425A907C09443514704D32;143
-(rerunfilecheck)             After:  6DA0481BAA38C94CA21228120C042B0E;205.
 
 LaTeX Warning: There were undefined references.
 
- )
-(\end occurred inside a group at level 2)
-
-### simple group (level 2) entered at line 13 ({)
-### simple group (level 1) entered at line 8 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 34238 strings out of 493305
- 665832 string characters out of 3130238
- 802863 words of memory out of 3000000
- 37218 multiletter control sequences out of 15000+200000
- 547768 words of font info for 61 fonts, out of 3000000 for 9000
+ 35340 strings out of 493305
+ 686816 string characters out of 3130238
+ 821815 words of memory out of 3000000
+ 38272 multiletter control sequences out of 15000+200000
+ 550070 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,7n,71p,9099b,847s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
-en\ec\dpi600\ectt1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\eccc1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\nano\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\nano\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\nano\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\User
-s\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2488.pk>
- <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
-x2488.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
-pi600\ecrm1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\ecrm1440.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\jknappen\ec\dpi600\ecrm2074.pk><C:/Users/nano/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nano/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/nano/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
-/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
-><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb>
-Output written on MSc_CristianMedina.pdf (14 pages, 314627 bytes).
+ 64i,9n,71p,9099b,925s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+crm0800.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\ectt1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
+nappen\ec\dpi600\eccc1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\nano\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\nano\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\nan
+o\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\
+Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2488
+.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecbx2488.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecrm1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecrm2074.pk><C:/Users/nano/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nano/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nano/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr6.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nano/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/nano/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on MSc_CristianMedina.pdf (18 pages, 568761 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 42 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 722 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

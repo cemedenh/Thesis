@@ -8,7 +8,23 @@ The style file: abbrvdin.bst
 Database file #1: thesis.bib
 Warning--entry type for "mikaberidze_atomic_1981" isn't style-file defined
 --line 113 of file thesis.bib
+Warning--neither address nor publication date in atkins_liquid_2014
+Warning--there's no year in buchenau_mass_1990
+Warning--there's no year in van_delft_discovery_2010
 Warning--there's no year in fennel_laser-driven_2010
+Warning--there's no year in grebenev_superfluidity_1998
+Warning--there's no year in hagena_cluster_1972
+Warning--there's no year in halperin_properties_1978
+Warning--there's no year in harms_density_1998
+Warning--there's no year in kapitza_viscosity_1938
+Warning--there's no year in lewis_helium_2014
+Warning--there's no year in nauta_nonequilibrium_1999
 Warning--there's no year in stebbings_generation_2011
+Warning--there's no year in stienkemeier_spectroscopy_2006
+Warning--there's no year in swenson_liquid-solid_1950
+Warning--there's no year in toennies_spectroscopy_1998
+Warning--there's no year in toennies_superfluid_2004
+Warning--there's no year in weinberger_discovery_2013
+Warning--there's no year in whittle_matrix_1954
 Warning--there's no year in zhao_tailoring_2012
-(There were 4 warnings)
+(There were 20 warnings)
