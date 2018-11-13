@@ -17,6 +17,7 @@ Warning--neither address nor publication date in atkins_liquid_2014
 Warning--neither address nor publication date in berkowitz_photoabsorption_1979
 Warning--there's no year in bunermann_modeling_2011
 Warning--there's no year in buchenau_mass_1990
+Warning--neither address nor publication date in connerade_highly_1998
 Warning--there's no year in van_delft_discovery_2010
 Warning--there's no year in einstein_uber_1905
 Warning--there's no year in fennel_laser-driven_2010
@@ -27,14 +28,18 @@ Warning--neither address nor publication date in griffiths_introduction_2013
 Warning--there's no year in hagena_cluster_1972
 Warning--there's no year in halperin_properties_1978
 Warning--there's no year in harms_density_1998
+Warning--there's no year in kamenev_introduction_nodate
 Warning--there's no year in kapitza_viscosity_1938
 Warning--there's no year in karnakov_strong_2009
 Warning--there's no year in keldysh_ionization_1965
+Warning--neither address nor publication date in krishnan_ignition_2012
 Warning--there's no year in krishnan_doped_2011
 Warning--there's no year in lewerenz_successive_1995
 Warning--there's no year in lewis_helium_2014
 Warning--there's no year in mainfray_multiphoton_nodate
 Warning--there's no year in nauta_nonequilibrium_1999
+Warning--there's no year in popruzhenko_keldysh_2014
+Warning--there's no year in protopapas_atomic_1997
 Warning--empty publisher in rafipoor_two-color_2017
 Warning--there's no year in rhodes_multiphoton_1985
 Warning--neither address nor publication date in schmidt_electron_1997
@@ -48,4 +53,4 @@ Warning--there's no year in toennies_superfluid_2004
 Warning--there's no year in weinberger_discovery_2013
 Warning--there's no year in whittle_matrix_1954
 Warning--there's no year in zhao_tailoring_2012
-(There were 40 warnings)
+(There were 45 warnings)
