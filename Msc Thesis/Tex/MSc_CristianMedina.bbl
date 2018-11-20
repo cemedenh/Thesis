@@ -67,7 +67,15 @@
 \newblock DOI 10.1063/1.3490499. --
 \newblock ISSN 0031--9228
 
-\bibitem[9]{einstein_uber_1905}
+\bibitem[9]{ditmire_interaction_1996}
+\textsc{Ditmire}, T.  ; \textsc{Donnelly}, T.  ; \textsc{Rubenchik}, A.~M. ;
+  \textsc{Falcone}, R.~W.  ; \textsc{Perry}, M.~D.:
+\newblock Interaction of intense laser pulses with atomic clusters.
+\newblock  53, Nr. 5, 3379--3402.
+\newblock  \url{http://dx.doi.org/10.1103/PhysRevA.53.3379}. --
+\newblock DOI 10.1103/PhysRevA.53.3379
+
+\bibitem[10]{einstein_uber_1905}
 \textsc{Einstein}, A. :
 \newblock Über einen die Erzeugung und Verwandlung des Lichtes betreffenden
   heuristischen Gesichtspunkt.
@@ -76,13 +84,13 @@
 \newblock DOI 10.1002/andp.19053220607. --
 \newblock ISSN 1521--3889
 
-\bibitem[10]{enss_low-temperature_2005}
+\bibitem[11]{enss_low-temperature_2005}
 \textsc{Enss}, C.  ; \textsc{Hunklinger}, S. :
 \newblock \emph{Low-Temperature Physics}.
 \newblock Springer-Verlag \url{//www.springer.com/de/book/9783540231646}. --
 \newblock ISBN 978--3--540--23164--6
 
-\bibitem[11]{fennel_laser-driven_2010}
+\bibitem[12]{fennel_laser-driven_2010}
 \textsc{Fennel}, T.  ; \textsc{Meiwes-Broer}, K.-H.  ; \textsc{Tiggesbäumker},
   J.  ; \textsc{Reinhard}, P.-G.  ; \textsc{Dinh}, P.~M.  ; \textsc{Suraud}, E.
   :
@@ -91,14 +99,14 @@
 \newblock  \url{http://dx.doi.org/10.1103/RevModPhys.82.1793}. --
 \newblock DOI 10.1103/RevModPhys.82.1793
 
-\bibitem[12]{fermi_quantum_1932}
+\bibitem[13]{fermi_quantum_1932}
 \textsc{Fermi}, E. :
 \newblock Quantum Theory of Radiation.
 \newblock  4, Nr. 1, 87--132.
 \newblock  \url{http://dx.doi.org/10.1103/RevModPhys.4.87}. --
 \newblock DOI 10.1103/RevModPhys.4.87
 
-\bibitem[13]{gough_infrared_1985}
+\bibitem[14]{gough_infrared_1985}
 \textsc{Gough}, T.~E. ; \textsc{Mengel}, M.  ; \textsc{Rowntree}, P.~A.  ;
   \textsc{Scoles}, G. :
 \newblock Infrared spectroscopy at the surface of clusters: {SF}6 on Ar.
@@ -107,7 +115,7 @@
 \newblock DOI 10.1063/1.449757. --
 \newblock ISSN 0021--9606
 
-\bibitem[14]{grebenev_superfluidity_1998}
+\bibitem[15]{grebenev_superfluidity_1998}
 \textsc{Grebenev}, S.  ; \textsc{Toennies}, J.~P.  ; \textsc{Vilesov}, A.~F.:
 \newblock Superfluidity Within a Small Helium-4 Cluster: The Microscopic
   Andronikashvili Experiment.
@@ -116,14 +124,19 @@
 \newblock DOI 10.1126/science.279.5359.2083. --
 \newblock ISSN 0036--8075, 1095--9203
 
-\bibitem[15]{griffiths_introduction_2013}
+\bibitem[16]{griffiths_introduction_2013}
 \textsc{Griffiths}, D.~J.:
 \newblock \emph{Introduction to electrodynamics}.
 \newblock Fourth edition.
 \newblock Pearson. --
 \newblock ISBN 978--0--321--85656--2
 
-\bibitem[16]{hagena_cluster_1972}
+\bibitem[17]{gruner_femtosekundenspektroskopie_2013}
+\textsc{Grüner}, B. :
+\newblock \emph{Femtosekundenspektroskopie an dotierten Heliumnanotröpfchen:
+  Dissipative Vibrationsdynamik und Charakterisierung eines Nanoplasmas}
+
+\bibitem[18]{hagena_cluster_1972}
 \textsc{Hagena}, O.~F. ; \textsc{Obert}, W. :
 \newblock Cluster Formation in Expanding Supersonic Jets: Effect of Pressure,
   Temperature, Nozzle Size, and Test Gas.
@@ -132,7 +145,7 @@
 \newblock DOI 10.1063/1.1677455. --
 \newblock ISSN 0021--9606
 
-\bibitem[17]{halperin_properties_1978}
+\bibitem[19]{halperin_properties_1978}
 \textsc{Halperin}, W.~P. ; \textsc{Rasmussen}, F.~B. ; \textsc{Archie}, C.~N.
   ; \textsc{Richardson}, R.~C.:
 \newblock Properties of melting 3He: Specific heat, entropy, latent heat, and
@@ -142,19 +155,19 @@
 \newblock DOI 10.1007/BF00116046. --
 \newblock ISSN 1573--7357
 
-\bibitem[18]{harms_density_1998}
+\bibitem[20]{harms_density_1998}
 \textsc{Harms}, J.  ; \textsc{Toennies}, J.~P.  ; \textsc{Dalfovo}, F. :
 \newblock Density of superfluid helium droplets.
 \newblock  58, Nr. 6, 3341--3350.
 \newblock  \url{http://dx.doi.org/10.1103/PhysRevB.58.3341}. --
 \newblock DOI 10.1103/PhysRevB.58.3341
 
-\bibitem[19]{kamenev_introduction_nodate}
+\bibitem[21]{kamenev_introduction_nodate}
 \textsc{Kamenev}, A. :
 \newblock Introduction to the Keldysh Formalism.
 \newblock
 
-\bibitem[20]{kapitza_viscosity_1938}
+\bibitem[22]{kapitza_viscosity_1938}
 \textsc{Kapitza}, P. :
 \newblock Viscosity of Liquid Helium below the λ-Point.
 \newblock  141, Nr. 3558, 74.
@@ -162,7 +175,7 @@
 \newblock DOI 10.1038/141074a0. --
 \newblock ISSN 1476--4687
 
-\bibitem[21]{karnakov_strong_2009}
+\bibitem[23]{karnakov_strong_2009}
 \textsc{Karnakov}, B.~M. ; \textsc{Mur}, V.~D. ; \textsc{Popruzhenko}, S.~V.  ;
   \textsc{Popov}, V.~S.:
 \newblock Strong field ionization by ultrashort laser pulses: Application of
@@ -172,13 +185,13 @@
 \newblock DOI 10.1016/j.physleta.2009.10.058. --
 \newblock ISSN 0375--9601
 
-\bibitem[22]{keldysh_ionization_1965}
+\bibitem[24]{keldysh_ionization_1965}
 \textsc{{KELDYSH}}, L.~V.:
 \newblock Ionization in the field of a strong electromagnetic wave.
 \newblock  20, 1307.
 \newblock \url{https://ci.nii.ac.jp/naid/10006486551/}
 
-\bibitem[23]{krishnan_ignition_2012}
+\bibitem[25]{krishnan_ignition_2012}
 \textsc{Krishnan}, S.~R. ; \textsc{Fechner}, L.  ; \textsc{Kremer}, M.  ;
   \textsc{Sharma}, V.  ; \textsc{Fischer}, B.  ; \textsc{Camus}, N.  ;
   \textsc{Jha}, J.  ; \textsc{Krishnamurthy}, M.  ; \textsc{Pfeifer}, T.  ;
@@ -191,12 +204,20 @@
   Heidelberg (Springer Proceedings in Physics). --
 \newblock ISBN 978--3--642--28948--4, S. 385--390
 
-\bibitem[24]{krishnan_doped_2011}
+\bibitem[26]{krishnan_doped_2011}
 \textsc{Krishnan}, S.~R.:
 \newblock Doped helium nanodroplets in intense few-cycle infrared pulses.
 \newblock  \url{http://inis.iaea.org/Search/search.aspx?orig_q=RN:43095633}
 
-\bibitem[25]{lewerenz_successive_1995}
+\bibitem[27]{last_quasiresonance_1999}
+\textsc{Last}, I.  ; \textsc{Jortner}, J. :
+\newblock Quasiresonance ionization of large multicharged clusters in a strong
+  laser field.
+\newblock  60, Nr. 3, 2215--2221.
+\newblock  \url{http://dx.doi.org/10.1103/PhysRevA.60.2215}. --
+\newblock DOI 10.1103/PhysRevA.60.2215
+
+\bibitem[28]{lewerenz_successive_1995}
 \textsc{Lewerenz}, M.  ; \textsc{Schilling}, B.   ; \textsc{Toennies}, J.~P.:
 \newblock Successive capture and coagulation of atoms and molecules to small
   clusters in large liquid helium clusters.
@@ -205,7 +226,7 @@
 \newblock DOI 10.1063/1.469231. --
 \newblock ISSN 0021--9606
 
-\bibitem[26]{lewis_helium_2014}
+\bibitem[29]{lewis_helium_2014}
 \textsc{Lewis}, W.~K. ; \textsc{Harruff-Miller}, B.~A. ; \textsc{Leatherman},
   P.  ; \textsc{Gord}, M.~A.  ; \textsc{Bunker}, C.~E.:
 \newblock Helium droplet calorimetry of strongly bound species: Carbon clusters
@@ -215,18 +236,18 @@
 \newblock DOI 10.1063/1.4895670. --
 \newblock ISSN 0034--6748, 1089--7623
 
-\bibitem[27]{mainfray_multiphoton_nodate}
+\bibitem[30]{mainfray_multiphoton_nodate}
 \textsc{Mainfray}, G. :
 \newblock {MULTIPHOTON} {IONIZATION} {OF} {ATOMS}.
 \newblock
 
-\bibitem[28]{mikaberidze_atomic_1981}
+\bibitem[31]{mikaberidze_atomic_1981}
 \textsc{Mikaberidze}, A. :
 \newblock \emph{Atomic and molecular clusters in intense laser pulses}.
 \newblock
   \url{https://www.pks.mpg.de/mpi-doc/rostgruppe/dissertation/mikaberidze_dissertation.pdf}
 
-\bibitem[29]{nauta_nonequilibrium_1999}
+\bibitem[32]{nauta_nonequilibrium_1999}
 \textsc{Nauta}, K.  ; \textsc{Miller}, R.~E.:
 \newblock Nonequilibrium Self-Assembly of Long Chains of Polar Molecules in
   Superfluid Helium.
@@ -235,7 +256,7 @@
 \newblock DOI 10.1126/science.283.5409.1895. --
 \newblock ISSN 0036--8075, 1095--9203
 
-\bibitem[30]{popruzhenko_keldysh_2014}
+\bibitem[33]{popruzhenko_keldysh_2014}
 \textsc{Popruzhenko}, S.~V.:
 \newblock Keldysh theory of strong field ionization: history, applications,
   difficulties and perspectives.
@@ -244,7 +265,7 @@
 \newblock DOI 10.1088/0953--4075/47/20/204001. --
 \newblock ISSN 0953--4075
 
-\bibitem[31]{protopapas_atomic_1997}
+\bibitem[34]{protopapas_atomic_1997}
 \textsc{Protopapas}, M.  ; \textsc{Keitel}, C.~H.  ; \textsc{Knight}, P.~L.:
 \newblock Atomic physics with super-high intensity lasers.
 \newblock  60, Nr. 4, 389--486.
@@ -252,12 +273,12 @@
 \newblock DOI 10.1088/0034--4885/60/4/001. --
 \newblock ISSN 0034--4885, 1361--6633
 
-\bibitem[32]{rafipoor_two-color_2017}
+\bibitem[35]{rafipoor_two-color_2017}
 \textsc{Rafipoor}, A. J.~M.:
 \newblock \emph{Two-Color Photoionization Experiments with Ultrashort Light
   Pulses on Small Atomic Systems}
 
-\bibitem[33]{rhodes_multiphoton_1985}
+\bibitem[36]{rhodes_multiphoton_1985}
 \textsc{Rhodes}, C.~K.:
 \newblock Multiphoton Ionization of Atoms.
 \newblock  229, Nr. 4720, 1345--1351.
@@ -265,13 +286,21 @@
 \newblock DOI 10.1126/science.229.4720.1345. --
 \newblock ISSN 0036--8075, 1095--9203
 
-\bibitem[34]{schmidt_electron_1997}
+\bibitem[37]{saalmann_mechanisms_2006}
+\textsc{Saalmann}, U.  ; \textsc{Siedschlag}, C.   ; \textsc{Rost}, J.~M.:
+\newblock Mechanisms of cluster ionization in strong laser pulses.
+\newblock  39, Nr. 4, R39--R77.
+\newblock  \url{http://dx.doi.org/10.1088/0953-4075/39/4/R01}. --
+\newblock DOI 10.1088/0953--4075/39/4/R01. --
+\newblock ISSN 0953--4075, 1361--6455
+
+\bibitem[38]{schmidt_electron_1997}
 \textsc{Schmidt}, V. :
 \newblock \emph{Electron Spectrometry of Atoms using Synchrotron Radiation}.
 \newblock Cambridge University Press. --
 \newblock ISBN 978--0--521--55053--6
 
-\bibitem[35]{stebbings_generation_2011}
+\bibitem[39]{stebbings_generation_2011}
 \textsc{Stebbings}, S.~L. ; \textsc{Süßmann}, F.  ; \textsc{Yang}, Y.-Y.  ;
   \textsc{Scrinzi}, A.  ; \textsc{Durach}, M.  ; \textsc{Rusina}, A.  ;
   \textsc{Stockman}, M.~I.  ; \textsc{Kling}, M.~F.:
@@ -283,7 +312,7 @@
 \newblock DOI 10.1088/1367--2630/13/7/073010. --
 \newblock ISSN 1367--2630
 
-\bibitem[36]{stienkemeier_spectroscopy_2006}
+\bibitem[40]{stienkemeier_spectroscopy_2006}
 \textsc{Stienkemeier}, F.  ; \textsc{Lehmann}, K.~K.:
 \newblock Spectroscopy and dynamics in helium nanodroplets.
 \newblock  39, Nr. 8, R127--R166.
@@ -291,7 +320,7 @@
 \newblock DOI 10.1088/0953--4075/39/8/R01. --
 \newblock ISSN 0953--4075, 1361--6455
 
-\bibitem[37]{stringari_systematics_1987}
+\bibitem[41]{stringari_systematics_1987}
 \textsc{Stringari}, S.  ; \textsc{Treiner}, J. :
 \newblock Systematics of liquid helium clusters.
 \newblock  87, Nr. 8, 5021--5027.
@@ -299,14 +328,14 @@
 \newblock DOI 10.1063/1.452818. --
 \newblock ISSN 0021--9606
 
-\bibitem[38]{swenson_liquid-solid_1950}
+\bibitem[42]{swenson_liquid-solid_1950}
 \textsc{Swenson}, C.~A.:
 \newblock The Liquid-Solid Transformation in Helium near Absolute Zero.
 \newblock  79, Nr. 4, 626--631.
 \newblock  \url{http://dx.doi.org/10.1103/PhysRev.79.626}. --
 \newblock DOI 10.1103/PhysRev.79.626
 
-\bibitem[39]{tchaplyguine_variable_2004}
+\bibitem[43]{tchaplyguine_variable_2004}
 \textsc{Tchaplyguine}, M.  ; \textsc{Lundwall}, M.  ; \textsc{Gisselbrecht}, M.
    ; \textsc{Öhrwall}, G.  ; \textsc{Feifel}, R.  ; \textsc{Sorensen}, S.  ;
   \textsc{Svensson}, S.  ; \textsc{Mårtensson}, N.   ; \textsc{Björneholm},
@@ -317,14 +346,14 @@
 \newblock  \url{http://dx.doi.org/10.1103/PhysRevA.69.031201}. --
 \newblock DOI 10.1103/PhysRevA.69.031201
 
-\bibitem[40]{toennies_spectroscopy_1998}
+\bibitem[44]{toennies_spectroscopy_1998}
 \textsc{Toennies}, J.~P. ; \textsc{Vilesov}, A.~F.:
 \newblock Spectroscopy of Atoms and Molecules in Liquid Helium.
 \newblock  49, Nr. 1, 1--41.
 \newblock  \url{http://dx.doi.org/10.1146/annurev.physchem.49.1.1}. --
 \newblock DOI 10.1146/annurev.physchem.49.1.1
 
-\bibitem[41]{toennies_superfluid_2004}
+\bibitem[45]{toennies_superfluid_2004}
 \textsc{Toennies}, J.~P. ; \textsc{Vilesov}, A.~F.:
 \newblock Superfluid Helium Droplets: A Uniquely Cold Nanomatrix for Molecules
   and Molecular Complexes.
@@ -333,7 +362,7 @@
 \newblock DOI 10.1002/anie.200300611. --
 \newblock ISSN 1521--3773
 
-\bibitem[42]{weinberger_discovery_2013}
+\bibitem[46]{weinberger_discovery_2013}
 \textsc{Weinberger}, P. :
 \newblock The discovery of thermodynamics.
 \newblock  93, Nr. 20, 2576--2612.
@@ -341,7 +370,7 @@
 \newblock DOI 10.1080/14786435.2013.784402. --
 \newblock ISSN 1478--6435
 
-\bibitem[43]{whittle_matrix_1954}
+\bibitem[47]{whittle_matrix_1954}
 \textsc{Whittle}, E.  ; \textsc{Dows}, D.~A.  ; \textsc{Pimentel}, G.~C.:
 \newblock Matrix Isolation Method for the Experimental Study of Unstable
   Species.
@@ -350,7 +379,7 @@
 \newblock DOI 10.1063/1.1739957. --
 \newblock ISSN 0021--9606, 1089--7690
 
-\bibitem[44]{zhao_tailoring_2012}
+\bibitem[48]{zhao_tailoring_2012}
 \textsc{Zhao}, K.  ; \textsc{Zhang}, Q.  ; \textsc{Chini}, M.  ; \textsc{Wu},
   Y.  ; \textsc{Wang}, X.   ; \textsc{Chang}, Z. :
 \newblock Tailoring a 67 attosecond pulse through advantageous phase-mismatch.
