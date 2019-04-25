@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: MSc_CristianMedina.au
 A level-1 auxiliary file: Introduction.aux
 A level-1 auxiliary file: Theorie.aux
 A level-1 auxiliary file: Methoden.aux
-A level-1 auxiliary file: ExpAufbau.aux
+A level-1 auxiliary file: expset.aux
 A level-1 auxiliary file: Messungen.aux
 The style file: abbrvdin.bst
 Database file #1: thesis.bib
@@ -12,43 +12,61 @@ Warning--entry type for "becker_vuv_1996" isn't style-file defined
 --line 796 of file thesis.bib
 Warning--entry type for "gruner_femtosekundenspektroskopie_2013" isn't style-file defined
 --line 998 of file thesis.bib
+Warning--entry type for "erk_nobel_2009" isn't style-file defined
+--line 1069 of file thesis.bib
+Warning--entry type for "noauthor_helium_nodate" isn't style-file defined
+--line 1131 of file thesis.bib
 Warning--I didn't find a database entry for "stienkemeier_spsectroscopy_2006"
+Warning--to sort, need author or key in noauthor_helium_nodate
 Warning--to sort, need author or key in becker_vuv_1996
 Warning--empty publisher in a._bethe_quantum_1957
 Warning--neither address nor publication date in atkins_liquid_2014
 Warning--neither address nor publication date in berkowitz_photoabsorption_1979
 Warning--there's no year in bunermann_modeling_2011
 Warning--there's no year in buchenau_mass_1990
+Warning--there's no year in christen_supersonic_2010-1
 Warning--neither address nor publication date in connerade_highly_1998
 Warning--there's no year in van_delft_discovery_2010
 Warning--there's no year in ditmire_interaction_1996
 Warning--there's no year in einstein_uber_1905
+Warning--there's no year in eppink_velocity_1997
+Warning--empty year in erk_nobel_2009
 Warning--there's no year in fennel_laser-driven_2010
 Warning--there's no year in fermi_quantum_1932
+Warning--empty booktitle in gaveau_reaction_2001
+Warning--empty publisher in gaveau_reaction_2001
 Warning--there's no year in gough_infrared_1985
 Warning--there's no year in grebenev_superfluidity_1998
 Warning--neither address nor publication date in griffiths_introduction_2013
 Warning--empty year in gruner_femtosekundenspektroskopie_2013
 Warning--there's no year in hagena_cluster_1972
+Warning--there's no year in hagena_cluster_1972-1
 Warning--there's no year in halperin_properties_1978
 Warning--there's no year in harms_density_1998
+Warning--there's no year in haught_formation_1970
+Warning--there's no year in heidenreich_charging_2016
 Warning--there's no year in kamenev_introduction_nodate
 Warning--there's no year in kapitza_viscosity_1938
 Warning--there's no year in karnakov_strong_2009
 Warning--there's no year in keldysh_ionization_1965
+Warning--there's no year in knuth_average_1999
 Warning--neither address nor publication date in krishnan_ignition_2012
 Warning--there's no year in krishnan_doped_2011
 Warning--there's no year in last_quasiresonance_1999
 Warning--there's no year in lewerenz_successive_1995
 Warning--there's no year in lewis_helium_2014
+Warning--there's no year in madison_role_2004
 Warning--there's no year in mainfray_multiphoton_nodate
+Warning--there's no year in meija_atomic_2016
 Warning--there's no year in nauta_nonequilibrium_1999
+Warning--there's no year in von_pietrowski_fluorescence_1997
 Warning--there's no year in popruzhenko_keldysh_2014
 Warning--there's no year in protopapas_atomic_1997
 Warning--empty publisher in rafipoor_two-color_2017
 Warning--there's no year in rhodes_multiphoton_1985
 Warning--there's no year in saalmann_mechanisms_2006
 Warning--neither address nor publication date in schmidt_electron_1997
+Warning--there's no year in schomas_compact_2017
 Warning--there's no year in stebbings_generation_2011
 Warning--there's no year in stienkemeier_spectroscopy_2006
 Warning--there's no year in stringari_systematics_1987
@@ -56,7 +74,9 @@ Warning--there's no year in swenson_liquid-solid_1950
 Warning--there's no year in tchaplyguine_variable_2004
 Warning--there's no year in toennies_spectroscopy_1998
 Warning--there's no year in toennies_superfluid_2004
+Warning--there's no year in wabnitz_multiple_2002
 Warning--there's no year in weinberger_discovery_2013
 Warning--there's no year in whittle_matrix_1954
+Warning--there's no year in young_phase_nodate
 Warning--there's no year in zhao_tailoring_2012
-(There were 50 warnings)
+(There were 68 warnings)

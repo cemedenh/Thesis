@@ -1,11 +1,19 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Scheme for a nozzle expansion}}{9}{figure.caption.4}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Waan der Wall He-He potential}}{10}{figure.caption.5}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Phase diagram for Expantion regimens}}{11}{figure.caption.6}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Expantion droplets Regimens}}{12}{figure.caption.7}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Relaxation processes for photoionization}}{16}{figure.caption.8}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Ionization regimes}}{17}{figure.caption.9}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Ponderomotive 3 steps}}{20}{figure.caption.10}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Cluster potential regimes}}{22}{figure.caption.11}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces $^{4}He$ Phase transition at Ultra cold temperatures. $^{4}He$ is the more common isotope of helium. It remains liquid at zero temperature if the pressure is below $2.5 MPa$. The liquid has a phase transition to a superfluid phase, also known as He-II, at the temperature of $2.17 K$ (at vapor pressure). Taken from \cite {noauthor_helium_nodate}\relax }}{9}{figure.caption.4}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Scheme for a nozzle expansion}}{10}{figure.caption.5}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Waan der Wall He-He potential}}{10}{figure.caption.6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Dimensionless phase diagram for He, H2 and Ar. where T is dimensionless $T'=(T -T_{tp})/(T_{cr}-T_{tp})$, same as entropy $S'=(S-S_{cr})/\Delta Stp$ and $x=fraction$ of the fluid in the gaseous phase, where the subscripts cr and tp refer to the critical point and the triple point, and $\Delta S$ is the entropy change for vaporization. The curves are drawn as guides to the eye not exact measuments, taken from \cite {knuth_average_1999}.\relax }}{11}{figure.caption.7}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Phase diagram for Expantion regimens}}{12}{figure.caption.8}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Expantion droplets Regimens}}{13}{figure.caption.9}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, $T-S$ phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{15}{figure.caption.10}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, T$-$S phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{16}{figure.caption.11}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Relaxation processes for photoionization}}{19}{figure.caption.12}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Ionization regimes}}{21}{figure.caption.13}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Ponderomotive 3 steps}}{24}{figure.caption.14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Cluster potential regimes}}{25}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces MCP scketckht cut}}{32}{figure.caption.17}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces TOF cup}}{34}{figure.caption.18}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Trigger Scheme}}{36}{figure.caption.20}
 \addvspace {10\p@ }

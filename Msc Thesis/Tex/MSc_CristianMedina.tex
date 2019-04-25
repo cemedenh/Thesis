@@ -21,9 +21,10 @@
 \usepackage{sidecap}
 \usepackage{booktabs,array}
 \newcolumntype{N}{>{\bfseries\footnotesize}l}
-
+\usepackage[table,xcdraw]{xcolor}
 \usepackage{subfigure}
 \usepackage{subcaption}
+\usepackage{grffile}
 \usepackage{xcolor}
 \usepackage{framed, color}
 \usepackage{empheq}
@@ -155,8 +156,10 @@ The correlated data is acquired by triggering the VMI camera and the TOF oscillo
 \include{Introduction}
 \newpage  
 \include{Theorie}
-\newpage\include{Methoden}
-\include{ExpAufbau}
+\newpage
+\include{Methoden}
+\newpage
+\include{expset}
 \newpage
 \include{Messungen}
 \newpage
