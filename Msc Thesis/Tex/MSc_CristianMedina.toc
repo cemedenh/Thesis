@@ -13,12 +13,12 @@
 \contentsline {subsection}{\numberline {1.2.4}Ponderomative energy}{22}{subsection.1.2.4}
 \contentsline {subsection}{\numberline {1.2.5}Cluster Ionization}{23}{subsection.1.2.5}
 \contentsline {subsubsection}{\numberline {1.2.5.1}Cluster expansion}{26}{subsubsection.1.2.5.1}
-\contentsline {chapter}{\numberline {2}Experimental setup}{27}{chapter.2}
+\contentsline {chapter}{\numberline {2}Experimental set-up}{27}{chapter.2}
 \contentsline {section}{\numberline {2.1}Source chamber}{27}{section.2.1}
 \contentsline {section}{\numberline {2.2}Dopping chamber}{28}{section.2.2}
 \contentsline {section}{\numberline {2.3}Detection chamber}{30}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Velocity map imaging VMI}{30}{subsection.2.3.1}
-\contentsline {section}{\numberline {2.4}Time of flight spectrometer}{31}{section.2.4}
+\contentsline {section}{\numberline {2.4}Time of flight spectrometer}{32}{section.2.4}
 \contentsline {section}{\numberline {2.5}Lt detector}{33}{section.2.5}
-\contentsline {section}{\numberline {2.6}Camera and trigger protocol}{35}{section.2.6}
-\contentsline {chapter}{\numberline {3}Bibliography}{41}{chapter.3}
+\contentsline {section}{\numberline {2.6}Camera and trigger protocol}{33}{section.2.6}
+\contentsline {chapter}{\numberline {3}Bibliography}{39}{chapter.3}
