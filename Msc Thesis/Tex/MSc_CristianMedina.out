@@ -7,18 +7,27 @@
 \BOOKMARK [3][-]{subsubsection.1.1.1.2}{Composite Clusters}{subsection.1.1.1}% 7
 \BOOKMARK [2][-]{subsection.1.1.2}{Neon Droplets}{section.1.1}% 8
 \BOOKMARK [1][-]{section.1.2}{Cluster-Intense Fields Interaction}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.2.1}{PhotoIonization for single atoms}{section.1.2}% 10
-\BOOKMARK [2][-]{subsection.1.2.2}{Multhiphoton and tunelling Ionization}{section.1.2}% 11
-\BOOKMARK [2][-]{subsection.1.2.3}{kelysh Theory}{section.1.2}% 12
-\BOOKMARK [2][-]{subsection.1.2.4}{Ponderomative energy}{section.1.2}% 13
-\BOOKMARK [2][-]{subsection.1.2.5}{Cluster Ionization}{section.1.2}% 14
-\BOOKMARK [3][-]{subsubsection.1.2.5.1}{Cluster expansion}{subsection.1.2.5}% 15
-\BOOKMARK [0][-]{chapter.2}{Experimental set-up}{}% 16
-\BOOKMARK [1][-]{section.2.1}{Source chamber}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.2}{Dopping chamber}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.3}{Detection chamber}{chapter.2}% 19
-\BOOKMARK [2][-]{subsection.2.3.1}{Velocity map imaging VMI}{section.2.3}% 20
-\BOOKMARK [1][-]{section.2.4}{Time of flight spectrometer}{chapter.2}% 21
-\BOOKMARK [1][-]{section.2.5}{Lt detector}{chapter.2}% 22
-\BOOKMARK [1][-]{section.2.6}{Camera and trigger protocol}{chapter.2}% 23
-\BOOKMARK [0][-]{chapter.3}{Bibliography}{}% 24
+\BOOKMARK [1][-]{section.1.3}{PhotoIonization for single atoms}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{Multhiphoton and tunnelling Ionization}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.2}{kelysh Theory}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.3}{Ponderomative energy}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.4}{Cluster Ionization}{section.1.3}% 14
+\BOOKMARK [3][-]{subsubsection.1.3.4.1}{Cluster expansion}{subsection.1.3.4}% 15
+\BOOKMARK [1][-]{section.1.4}{VMI spectrometer}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.4.1}{Velocity distribution in VMI}{section.1.4}% 17
+\BOOKMARK [0][-]{chapter.2}{Experimental setup}{}% 18
+\BOOKMARK [1][-]{section.2.1}{Source chamber}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.2}{Dopping chamber}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Detection chamber}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{Velocity map imaging VMI}{section.2.3}% 22
+\BOOKMARK [1][-]{section.2.4}{Time of flight spectrometer}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.5}{Lt detector}{chapter.2}% 24
+\BOOKMARK [0][-]{chapter.3}{Acquisition and calibration methods.}{}% 25
+\BOOKMARK [1][-]{section.3.1}{Camera and trigger protocol}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.2}{Calibration methods}{chapter.3}% 27
+\BOOKMARK [2][-]{subsection.3.2.1}{VMI calibration}{section.3.2}% 28
+\BOOKMARK [2][-]{subsection.3.2.2}{Laser intensity calibration}{section.3.2}% 29
+\BOOKMARK [1][-]{section.3.3}{Coulomb Explosion Model}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.4}{data analisis}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.4.1}{Event recognision}{section.3.4}% 32
+\BOOKMARK [0][-]{chapter.4}{Bibliography}{}% 33

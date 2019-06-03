@@ -1,19 +1,32 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces $^{4}He$ Phase transition at Ultra cold temperatures. $^{4}He$ is the more common isotope of helium. It remains liquid at zero temperature if the pressure is below $2.5 MPa$. The liquid has a phase transition to a superfluid phase, also known as He-II, at the temperature of $2.17 K$ (at vapor pressure). Taken from \cite {noauthor_helium_nodate}\relax }}{9}{figure.caption.4}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Scheme for a nozzle expansion}}{10}{figure.caption.5}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Waan der Wall He-He potential}}{10}{figure.caption.6}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Dimensionless phase diagram for He, H2 and Ar. where T is dimensionless $T'=(T -T_{tp})/(T_{cr}-T_{tp})$, same as entropy $S'=(S-S_{cr})/\Delta Stp$ and $x=fraction$ of the fluid in the gaseous phase, where the subscripts cr and tp refer to the critical point and the triple point, and $\Delta S$ is the entropy change for vaporization. The curves are drawn as guides to the eye not exact measuments, taken from \cite {knuth_average_1999}.\relax }}{11}{figure.caption.7}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Phase diagram for Expantion regimens}}{12}{figure.caption.8}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Expantion droplets Regimens}}{13}{figure.caption.9}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, $T-S$ phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{15}{figure.caption.10}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, T$-$S phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{16}{figure.caption.11}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces Relaxation processes for photoionization}}{19}{figure.caption.12}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces Ionization regimes}}{21}{figure.caption.13}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Ponderomotive 3 steps}}{24}{figure.caption.14}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces Cluster potential regimes}}{25}{figure.caption.15}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces $^{4}He$ Phase transition at Ultra cold temperatures. $^{4}He$ is the more common isotope of helium. It remains liquid at zero temperature if the pressure is below $2.5 MPa$. The liquid has a phase transition to a superfluid phase, also known as He-II, at the temperature of $2.17 K$ (at vapor pressure). Taken from \cite {noauthor_helium_nodate}\relax }}{10}{figure.caption.4}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Scheme for a nozzle expansion}}{11}{figure.caption.5}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Waan der Wall He-He potential}}{11}{figure.caption.6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Dimensionless phase diagram for He, H2 and Ar. where T is dimensionless $T'=(T -T_{tp})/(T_{cr}-T_{tp})$, same as entropy $S'=(S-S_{cr})/\Delta Stp$ and $x=fraction$ of the fluid in the gaseous phase, where the subscripts cr and tp refer to the critical point and the triple point, and $\Delta S$ is the entropy change for vaporization. The curves are drawn as guides to the eye not exact measuments, taken from \cite {knuth_average_1999}.\relax }}{12}{figure.caption.7}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Phase diagram for Expantion regimens}}{13}{figure.caption.8}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Expantion droplets Regimens}}{14}{figure.caption.9}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces animation of the He creation , doping and evaporation. From left to rigth, we see the He droplet production; after been released by the supersonic jet, the Cluster formation, the pickup process of the dopant and finally the He srinking process.\relax }}{16}{figure.caption.10}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, $T-S$ phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{17}{figure.caption.11}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, T$-$S phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{18}{figure.caption.12}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Relaxation processes for photoionization}}{21}{figure.caption.13}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Ionization regimes}}{22}{figure.caption.14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Ponderomotive 3 steps}}{25}{figure.caption.15}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Cluster potential regimes}}{27}{figure.caption.16}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces sketch of the Coulomb explosion for a doped cluster due the excitation of a pulsed laserfield. At the beggining of the process the laser ionized the droplet, until some femtoseconds (up to 500fs) after, the system colapce and result into a coluomb explotion.\relax }}{28}{figure.caption.17}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Representation of particle trajectories A, B and C of the ionization volume to the detector plane, which, in spite of initially different velocity the finish on the same point of the detector plane. Withdrawn from \cite {fechner_lutz_aufbau_2011}\relax }}{30}{figure.caption.18}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces At the top of the graphic some basic functions $f_{k}$ in different colors, which can be used for the Inverse-Abel transform in the BAsex method. On the bottom, the corresponding Abel-transformed functions Fk. Taken from \cite {fechner_lutz_aufbau_2011}\relax }}{31}{figure.caption.19}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces MCP sketch cut}}{31}{figure.caption.17}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces TOF cup}}{32}{figure.caption.18}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Trigger Scheme}}{35}{figure.caption.20}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Sketch of the vacuum chambers, including the main parts of the setup\relax }}{33}{figure.caption.20}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cut of the Oven design, including part of the rod and the crucible.\relax }}{35}{figure.caption.21}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces MCP sketch cut}}{37}{figure.caption.23}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces TOF cup}}{39}{figure.caption.24}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Example images of MIr Vmi signal. On the left, a uniform blop, on the rigth a "donut " shape signal with high density signal on the borders of the edges. \relax }}{42}{figure.caption.25}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Trigger Scheme}}{43}{figure.caption.27}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces energy calibration of the VMI spectrometer with SIMION. Electrons with discrete kinetic energy are emitted perpendicular to the spectrometer axis.\relax }}{44}{figure.caption.28}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces energy calibration of the VMI spectrometer with the ATI method. The fringes are seperated by one photon energy, in this case 1.55eV\relax }}{45}{figure.caption.29}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces (a) Photoelectron image of potassium excited and ionized by linear polarized 404nm light, (b) abel inverted image and (c) corresponding photoelectron spectrum, not yet calibrated on the energy\relax }}{46}{figure.caption.30}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Difference of mean pixel values to determine the radius of the central feature in the VMI images\relax }}{49}{figure.caption.31}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Example of ramdom signal images fitted to ir corresponding radius.\relax }}{50}{figure.caption.32}
 \addvspace {10\p@ }
