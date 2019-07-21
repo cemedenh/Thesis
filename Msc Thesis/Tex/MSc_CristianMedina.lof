@@ -1,32 +1,64 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces $^{4}He$ Phase transition at Ultra cold temperatures. $^{4}He$ is the more common isotope of helium. It remains liquid at zero temperature if the pressure is below $2.5 MPa$. The liquid has a phase transition to a superfluid phase, also known as He-II, at the temperature of $2.17 K$ (at vapor pressure). Taken from \cite {noauthor_helium_nodate}\relax }}{10}{figure.caption.4}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Helium phase diagram}}{10}{figure.caption.4}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Scheme for a nozzle expansion}}{11}{figure.caption.5}
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Waan der Wall He-He potential}}{11}{figure.caption.6}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Dimensionless phase diagram for He, H2 and Ar. where T is dimensionless $T'=(T -T_{tp})/(T_{cr}-T_{tp})$, same as entropy $S'=(S-S_{cr})/\Delta Stp$ and $x=fraction$ of the fluid in the gaseous phase, where the subscripts cr and tp refer to the critical point and the triple point, and $\Delta S$ is the entropy change for vaporization. The curves are drawn as guides to the eye not exact measuments, taken from \cite {knuth_average_1999}.\relax }}{12}{figure.caption.7}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Phase diagram for Expantion regimens}}{13}{figure.caption.8}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Expantion droplets Regimens}}{14}{figure.caption.9}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces animation of the He creation , doping and evaporation. From left to rigth, we see the He droplet production; after been released by the supersonic jet, the Cluster formation, the pickup process of the dopant and finally the He srinking process.\relax }}{16}{figure.caption.10}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, $T-S$ phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{17}{figure.caption.11}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces on the left. Neon phase diagram. taken from \cite {young_phase_nodate},on the right, T$-$S phase diagram of Ne. The critical point is located at $T_{c}= 44.49 K$ and a molar entropy of $S_{c}=30.76 J/(mol K)$. The dashed lines represent regions. Taken from \cite {christen_supersonic_2010-1} \relax }}{18}{figure.caption.12}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces Relaxation processes for photoionization}}{21}{figure.caption.13}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Ionization regimes}}{22}{figure.caption.14}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces Ponderomotive 3 steps}}{25}{figure.caption.15}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Cluster potential regimes}}{27}{figure.caption.16}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces sketch of the Coulomb explosion for a doped cluster due the excitation of a pulsed laserfield. At the beggining of the process the laser ionized the droplet, until some femtoseconds (up to 500fs) after, the system colapce and result into a coluomb explotion.\relax }}{28}{figure.caption.17}
-\contentsline {figure}{\numberline {1.15}{\ignorespaces Representation of particle trajectories A, B and C of the ionization volume to the detector plane, which, in spite of initially different velocity the finish on the same point of the detector plane. Withdrawn from \cite {fechner_lutz_aufbau_2011}\relax }}{30}{figure.caption.18}
-\contentsline {figure}{\numberline {1.16}{\ignorespaces At the top of the graphic some basic functions $f_{k}$ in different colors, which can be used for the Inverse-Abel transform in the BAsex method. On the bottom, the corresponding Abel-transformed functions Fk. Taken from \cite {fechner_lutz_aufbau_2011}\relax }}{31}{figure.caption.19}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces helium isentropic diagram}}{12}{figure.caption.7}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Phase diagram for Expansion regimens}}{13}{figure.caption.8}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Expansion droplets Regimens}}{14}{figure.caption.9}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Helium creation, doping and evaporation sketch}}{16}{figure.caption.10}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Neon phase-Isentropic diagrams}}{17}{figure.caption.11}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Relaxation processes for photoionization}}{20}{figure.caption.12}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Ionization regimes}}{21}{figure.caption.13}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Ponderomotive 3 steps}}{24}{figure.caption.14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Cluster potential regimes}}{26}{figure.caption.15}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces sketch of the Coulomb explosion for a doped cluster due the excitation of a pulsed laser field. At the beginning of the process the laser ionized the droplet, until some femtoseconds (up to 500fs) after, the system collapse and result into a coulomb explosion.\relax }}{27}{figure.caption.16}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Representation of particle trajectories A, B and C of the ionization volume to the detector plane, which, in spite of initially different velocity the finish on the same point of the detector plane. Withdrawn from \cite {fechner_lutz_aufbau_2011}\relax }}{29}{figure.caption.17}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces At the top of the graphic some basic functions $f_{k}$ in different colors, which can be used for the Inverse-Abel transform in the Basex method. On the bottom, the corresponding Abel-transformed functions Fk. Taken from \cite {fechner_lutz_aufbau_2011}\relax }}{30}{figure.caption.18}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Sketch of the vacuum chambers, including the main parts of the setup\relax }}{33}{figure.caption.20}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Cut of the Oven design, including part of the rod and the crucible.\relax }}{35}{figure.caption.21}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces MCP sketch cut}}{37}{figure.caption.23}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces TOF cup}}{39}{figure.caption.24}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Sketch of the vacuum chambers, including the main parts of the setup\relax }}{32}{figure.caption.19}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cut of the Oven design, including part of the rod and the crucible.\relax }}{34}{figure.caption.20}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces MCP sketch cut}}{36}{figure.caption.22}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces TOF cup}}{37}{figure.caption.23}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Example images of MIr Vmi signal. On the left, a uniform blop, on the rigth a "donut " shape signal with high density signal on the borders of the edges. \relax }}{42}{figure.caption.25}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Trigger Scheme}}{43}{figure.caption.27}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces energy calibration of the VMI spectrometer with SIMION. Electrons with discrete kinetic energy are emitted perpendicular to the spectrometer axis.\relax }}{44}{figure.caption.28}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces energy calibration of the VMI spectrometer with the ATI method. The fringes are seperated by one photon energy, in this case 1.55eV\relax }}{45}{figure.caption.29}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces (a) Photoelectron image of potassium excited and ionized by linear polarized 404nm light, (b) abel inverted image and (c) corresponding photoelectron spectrum, not yet calibrated on the energy\relax }}{46}{figure.caption.30}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Difference of mean pixel values to determine the radius of the central feature in the VMI images\relax }}{49}{figure.caption.31}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Example of ramdom signal images fitted to ir corresponding radius.\relax }}{50}{figure.caption.32}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces VMI raw images example}}{40}{figure.caption.24}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Trigger Scheme}}{41}{figure.caption.26}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Correlation signals example}}{42}{figure.caption.27}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces energy calibration of the VMI spectrometer with SIMION. Electrons with discrete kinetic energy are emitted perpendicular to the spectrometer axis.\relax }}{43}{figure.caption.28}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces (a) Photoelectron image of potassium excited and ionized by linear polarized 404nm light, (b) Abel inverted image and (c) corresponding photoelectron spectrum, not yet calibrated on the energy\relax }}{44}{figure.caption.29}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Abel inverse transform example}}{46}{figure.caption.30}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Difference of mean pixel values to determine the radius of the central feature in the VMI images\relax }}{47}{figure.caption.31}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Fit-Abel transform agreement}}{48}{figure.caption.32}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Example signal finder}}{48}{figure.caption.33}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Islam Model fit}}{51}{figure.caption.34}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces He-Xe dop, raw image}}{53}{figure.caption.35}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Xenon ion charge calibration for NIR}}{54}{figure.caption.37}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces NIR Helium, signal rate and energy distribution}}{55}{figure.caption.38}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces NIR Helium. Histograms for Energy and electrons)}}{56}{figure.caption.39}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces NIR He, Signal rate and Energy Distribution}}{58}{figure.caption.41}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces NIR droplet size scan}}{59}{figure.caption.42}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces MIR TOF spectra He }}{60}{figure.caption.43}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces He-Xe droplet size distribution}}{61}{figure.caption.45}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces He-Xe, signal rate droplet size}}{62}{figure.caption.46}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces MIR He droplet scan histograms}}{63}{figure.caption.47}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces He-Ar Dop distribution}}{63}{figure.caption.48}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces MIR He-Ar doping, signal rate and histograms}}{64}{figure.caption.49}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces He_h2O energy distribution}}{65}{figure.caption.50}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces MIR He-water doping, signal rate and histograms}}{66}{figure.caption.51}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces MIR He intensity scan}}{67}{figure.caption.52}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces MIR He pulse scan. Mean values and Histograms}}{68}{figure.caption.53}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces MIR He pulse scan. Signal rate and Energy distribution}}{70}{figure.caption.55}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces MIR He pulse scan. Mean values and Histograms}}{71}{figure.caption.56}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces MIR He-Xe-Ca doping}}{72}{figure.caption.58}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces MIR He-Xe-Ca doping Signal rate}}{73}{figure.caption.59}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces MIR He-Xe-Ca doping Mean Num Electrons}}{74}{figure.caption.60}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces MIR He-Xe-Ca doping Mean Max energy}}{75}{figure.caption.61}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces MIR Neon raw samples}}{76}{figure.caption.62}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces MIR Ne-Xe doping scan. Signal rate and Energy distribution}}{77}{figure.caption.63}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces MIR Neon Doping scan. Mean values and Histograms}}{78}{figure.caption.64}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces MIR Ne-Xe cluster Size scan. Signal rate and Energy distribution}}{79}{figure.caption.65}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces MIR Neon Size scan. Mean values and Histograms}}{79}{figure.caption.66}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces MIR Ne Pulse duration scan. Signal rate and Energy distribution}}{81}{figure.caption.68}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces MIR Neon pulse duration. Mean values and Histograms}}{81}{figure.caption.69}
 \addvspace {10\p@ }

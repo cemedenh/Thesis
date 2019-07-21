@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  3 JUN 2019 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  21 JUL 2019 20:07
 entering extended mode
 **./MSc_CristianMedina.tex
 (MSc_CristianMedina.tex
@@ -1041,33 +1041,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure
-.sty"
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip75
-\subfigcapskip=\skip76
-\subfigcaptopadj=\dimen181
-\subfigbottomskip=\skip77
-\subfigcapmargin=\dimen182
-\subfiglabelskip=\skip78
-\c@subfigure=\count288
-\c@lofdepth=\count289
-\c@subtable=\count290
-\c@lotdepth=\count291
-
-****************************************
-* Local config file subfigure.cfg used *
-****************************************
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure
-.cfg")
-\subfig@top=\skip79
-\subfig@bottom=\skip80
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.
-sty"
-Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
-
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
 "
 Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
@@ -1076,37 +1049,25 @@ Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 y"
 Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen183
-\captionmargin@=\dimen184
-\captionwidth=\dimen185
-\caption@tempdima=\dimen186
-\caption@indent=\dimen187
-\caption@parindent=\dimen188
-\caption@hangindent=\dimen189
+\captionmargin=\dimen181
+\captionmargin@=\dimen182
+\captionwidth=\dimen183
+\caption@tempdima=\dimen184
+\caption@indent=\dimen185
+\caption@parindent=\dimen186
+\caption@hangindent=\dimen187
 )
 Package caption Info: KOMA-Script document class.
-\c@ContinuedFloat=\count292
+\c@ContinuedFloat=\count288
 Package caption Info: float package is loaded.
 Package caption Info: sidecap package is loaded.
-Package caption Info: subfigure package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-
-! Package subcaption Error: This package can't be used in cooperation
-(subcaption)                with the subfigure package.
-
-See the subcaption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 \subcaption@CheckCompatibility
-                                   
-If you do not understand this error, please take a closer look
-at the documentation of the `subcaption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.
+sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count289
+\c@subtable=\count290
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grffile.st
 y"
@@ -1166,11 +1127,11 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\framed.sty"
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip81
-\fb@frw=\dimen190
-\fb@frh=\dimen191
-\FrameRule=\dimen192
-\FrameSep=\dimen193
+\OuterFrameSep=\skip75
+\fb@frw=\dimen188
+\fb@frh=\dimen189
+\FrameRule=\dimen190
+\FrameSep=\dimen191
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\empheq.st
 y"
@@ -1185,46 +1146,46 @@ Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
  ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count293
-\calc@Bcount=\count294
-\calc@Adimen=\dimen194
-\calc@Bdimen=\dimen195
-\calc@Askip=\skip82
-\calc@Bskip=\skip83
+\calc@Acount=\count291
+\calc@Bcount=\count292
+\calc@Adimen=\dimen192
+\calc@Bdimen=\dimen193
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count295
-\calc@Cskip=\skip84
+\calc@Ccount=\count293
+\calc@Cskip=\skip78
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count296
-\l_MT_multwidth_dim=\dimen196
-\origjot=\skip85
-\l_MT_shortvdotswithinadjustabove_dim=\dimen197
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen198
-\l_MT_above_intertext_sep=\dimen199
-\l_MT_below_intertext_sep=\dimen256
-\l_MT_above_shortintertext_sep=\dimen257
-\l_MT_below_shortintertext_sep=\dimen258
+\g_MT_multlinerow_int=\count294
+\l_MT_multwidth_dim=\dimen194
+\origjot=\skip79
+\l_MT_shortvdotswithinadjustabove_dim=\dimen195
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen196
+\l_MT_above_intertext_sep=\dimen197
+\l_MT_below_intertext_sep=\dimen198
+\l_MT_above_shortintertext_sep=\dimen199
+\l_MT_below_shortintertext_sep=\dimen256
 )
-\l_EQ_equationtype_int=\count297
-\l_EQ_alignmentmode_int=\count298
-\l_EQ_totalwidth_dim=\dimen259
-\l_EQ_displaywidth_dim=\dimen260
-\l_EQ_temp_linewidth_dim=\dimen261
-\EmphEqdelimitershortfall=\dimen262
-\EmphEqdelimiterfactor=\count299
-\g_EQ_toptag_height_dim=\dimen263
-\g_EQ_bottomtag_depth_dim=\dimen264
-\g_EQ_toprow_height_dim=\dimen265
-\g_EQ_bottomrow_depth_dim=\dimen266
-\g_EQ_widesttag_dim=\dimen267
+\l_EQ_equationtype_int=\count295
+\l_EQ_alignmentmode_int=\count296
+\l_EQ_totalwidth_dim=\dimen257
+\l_EQ_displaywidth_dim=\dimen258
+\l_EQ_temp_linewidth_dim=\dimen259
+\EmphEqdelimitershortfall=\dimen260
+\EmphEqdelimiterfactor=\count297
+\g_EQ_toptag_height_dim=\dimen261
+\g_EQ_bottomtag_depth_dim=\dimen262
+\g_EQ_toprow_height_dim=\dimen263
+\g_EQ_bottomrow_depth_dim=\dimen264
+\g_EQ_widesttag_dim=\dimen265
 \EQ_mathdisplay_box=\box57
 \EQ_tag_box=\box58
-\g_EQ_temprow_int=\count300
+\g_EQ_temprow_int=\count298
 )
 
 Class scrreprt Warning: Usage of package `fancyhdr' together
@@ -1245,15 +1206,15 @@ Class scrreprt Warning: Usage of package `fancyhdr' together
 ty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip86
-\f@nch@O@elh=\skip87
-\f@nch@O@erh=\skip88
-\f@nch@O@olh=\skip89
-\f@nch@O@orh=\skip90
-\f@nch@O@elf=\skip91
-\f@nch@O@erf=\skip92
-\f@nch@O@olf=\skip93
-\f@nch@O@orf=\skip94
+\f@nch@headwidth=\skip80
+\f@nch@O@elh=\skip81
+\f@nch@O@erh=\skip82
+\f@nch@O@olh=\skip83
+\f@nch@O@orh=\skip84
+\f@nch@O@elf=\skip85
+\f@nch@O@erf=\skip86
+\f@nch@O@olf=\skip87
+\f@nch@O@orf=\skip88
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.st
 y"
@@ -1270,325 +1231,37 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\floatflt\floatflt.s
 ty"
 Package: floatflt 1997/07/16 v. 1.31
-\c@OptionTest=\count301
+\c@OptionTest=\count299
 \figbox=\box59
 \tabbox=\box60
 \pagebox=\box61
-\ffigcount=\count302
-\ftabcount=\count303
-\fftest=\count304
-\hangcount=\count305
-\nosuccesstryfig=\count306
-\nosuccesstrytab=\count307
-\figgutter=\dimen268
-\tabgutter=\dimen269
-\htdone=\dimen270
-\pageht=\dimen271
-\startpageht=\dimen272
-\tabbredd=\dimen273
-\floatfltwidth=\dimen274
-\fltitemwidth=\dimen275
+\ffigcount=\count300
+\ftabcount=\count301
+\fftest=\count302
+\hangcount=\count303
+\nosuccesstryfig=\count304
+\nosuccesstrytab=\count305
+\figgutter=\dimen266
+\tabgutter=\dimen267
+\htdone=\dimen268
+\pageht=\dimen269
+\startpageht=\dimen270
+\tabbredd=\dimen271
+\floatfltwidth=\dimen272
+\fltitemwidth=\dimen273
 \outputpretest=\toks29
 )
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\t
-ikz.sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.
-sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrc
-s.sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-util-common.tex"
-\pgfutil@everybye=\toks30
-\pgfutil@tempdima=\dimen276
-\pgfutil@tempdimb=\dimen277
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-util-common-lists.tex"))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-util-latex.def"
-\pgfutil@abb=\box62
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-rcs.code.tex"
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfc
-ore.sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgf
-sys.sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsys.code.tex"
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keys.code.tex"
-\pgfkeys@pathtoks=\toks31
-\pgfkeys@temptoks=\toks32
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks33
-))
-\pgf@x=\dimen278
-\pgf@y=\dimen279
-\pgf@xa=\dimen280
-\pgf@ya=\dimen281
-\pgf@xb=\dimen282
-\pgf@yb=\dimen283
-\pgf@xc=\dimen284
-\pgf@yc=\dimen285
-\w@pgf@writea=\write4
-\r@pgf@reada=\read2
-\c@pgf@counta=\count308
-\c@pgf@countb=\count309
-\c@pgf@countc=\count310
-\c@pgf@countd=\count311
-\t@pgf@toka=\toks34
-\t@pgf@tokb=\toks35
-\t@pgf@tokc=\toks36
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gf.cfg"
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\slashbox\slashbox.s
+ty"
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box62
+\@slashboxb=\box63
+\@slashboxc=\box64
+\@slashboxwd=\count306
+\@slashboxht=\count307
+\@slashsepl=\dimen274
+\@slashsepr=\dimen275
 )
-Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsys-pdftex.def"
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count312
-\pgfsyssoftpath@bigbuffer@items=\count313
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\p
-gfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcore.code.tex"
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
-code.tex"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathc
-alc.code.tex"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathu
-til.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathp
-arser.code.tex"
-\pgfmath@dimen=\dimen286
-\pgfmath@count=\count314
-\pgfmath@box=\box63
-\pgfmath@toks=\toks37
-\pgfmath@stack@operand=\toks38
-\pgfmath@stack@operation=\toks39
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.code.tex"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.basic.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.trigonometric.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.random.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.comparison.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.base.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.round.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.misc.code.tex")
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-unctions.integerarithmetics.code.tex")))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathf
-loat.code.tex"
-\c@pgfmathroundto@lastzeros=\count315
-))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen287
-\pgf@picmaxx=\dimen288
-\pgf@picminy=\dimen289
-\pgf@picmaxy=\dimen290
-\pgf@pathminx=\dimen291
-\pgf@pathmaxx=\dimen292
-\pgf@pathminy=\dimen293
-\pgf@pathmaxy=\dimen294
-\pgf@xx=\dimen295
-\pgf@xy=\dimen296
-\pgf@yx=\dimen297
-\pgf@yy=\dimen298
-\pgf@zx=\dimen299
-\pgf@zy=\dimen300
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen301
-\pgf@path@lasty=\dimen302
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen303
-\pgf@shorten@start@additional=\dimen304
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box64
-\pgf@hbox=\box65
-\pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count316
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen305
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen306
-\pgf@pt@y=\dimen307
-\pgf@pt@temp=\dimen308
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorequick.code.tex"
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen309
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen310
-\pgf@sys@shading@range@num=\count317
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box67
-))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pg
-fcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-duleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box68
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-duleplot.code.tex"
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\p
-gfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen311
-\pgf@nodesepend=\dimen312
-)
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\p
-gfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffo
-r.sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfke
-ys.sty"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keys.code.tex"))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.st
-y"
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
-code.tex"))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-for.code.tex"
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.
-code.tex")
-\pgffor@iter=\dimen313
-\pgffor@skip=\dimen314
-\pgffor@stack=\toks40
-\pgffor@toks=\toks41
-))
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\tikz.code.tex"
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgf
-libraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count318
-\pgfplotmarksize=\dimen315
-)
-\tikz@lastx=\dimen316
-\tikz@lasty=\dimen317
-\tikz@lastxsaved=\dimen318
-\tikz@lastysaved=\dimen319
-\tikzleveldistance=\dimen320
-\tikzsiblingdistance=\dimen321
-\tikz@figbox=\box69
-\tikz@figbox@bg=\box70
-\tikz@tempbox=\box71
-\tikz@tempbox@bg=\box72
-\tikztreelevel=\count319
-\tikznumberofchildren=\count320
-\tikznumberofcurrentchild=\count321
-\tikz@fig@count=\count322
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmo
-dulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count323
-\pgfmatrixcurrentcolumn=\count324
-\pgf@matrix@numberofcolumns=\count325
-)
-\tikz@expandcount=\count326
-
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer
-\tikz\libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.s
 ty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -1598,28 +1271,28 @@ ty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count327
-\Gm@cntv=\count328
-\c@Gm@tempcnt=\count329
-\Gm@bindingoffset=\dimen322
-\Gm@wd@mp=\dimen323
-\Gm@odd@mp=\dimen324
-\Gm@even@mp=\dimen325
-\Gm@layoutwidth=\dimen326
-\Gm@layoutheight=\dimen327
-\Gm@layouthoffset=\dimen328
-\Gm@layoutvoffset=\dimen329
-\Gm@dimlist=\toks42
+\Gm@cnth=\count308
+\Gm@cntv=\count309
+\c@Gm@tempcnt=\count310
+\Gm@bindingoffset=\dimen276
+\Gm@wd@mp=\dimen277
+\Gm@odd@mp=\dimen278
+\Gm@even@mp=\dimen279
+\Gm@layoutwidth=\dimen280
+\Gm@layoutheight=\dimen281
+\Gm@layouthoffset=\dimen282
+\Gm@layoutvoffset=\dimen283
+\Gm@dimlist=\toks30
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
 fg"))
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epigraph\epigraph.s
 ty"
 Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
-\beforeepigraphskip=\skip95
-\afterepigraphskip=\skip96
-\epigraphwidth=\skip97
-\epigraphrule=\skip98
+\beforeepigraphskip=\skip89
+\afterepigraphskip=\skip90
+\epigraphwidth=\skip91
+\epigraphrule=\skip92
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.s
 ty"
@@ -1667,9 +1340,9 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 y"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen330
-\Hy@linkcounter=\count330
-\Hy@pagecounter=\count331
+\@linkdim=\dimen284
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
 "
@@ -1677,7 +1350,7 @@ File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count332
+\Hy@SavedSpaceFactor=\count313
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
 fg"
@@ -1690,12 +1363,12 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count333
+\c@Hy@tempcnt=\count314
 LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen331
-\Fld@menulength=\count334
-\Field@Width=\dimen332
-\Fld@charsize=\dimen333
+\XeTeXLinkMargin=\dimen285
+\Fld@menulength=\count315
+\Field@Width=\dimen286
+\Fld@charsize=\dimen287
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -1705,17 +1378,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count335
-\c@Item=\count336
-\c@Hfootnote=\count337
+\Hy@abspage=\count316
+\c@Item=\count317
+\c@Hfootnote=\count318
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
 f"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count338
-\c@bookmark@seq@number=\count339
+\Fld@listcount=\count319
+\c@bookmark@seq@number=\count320
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
 heck.sty"
@@ -1723,45 +1396,64 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip99
+\Hy@SectionHShift=\skip93
 )
 
 LaTeX Warning: Unused global option(s):
     [twosite].
 
-(MSc_CristianMedina.aux (Introduction.aux) (Theorie.aux) (expset.aux)
-(Methods.aux) (Messungen.aux))
+(MSc_CristianMedina.aux (Introduction.aux) (Theorie.aux
+
+LaTeX Warning: Label `fig:ponder' multiply defined.
+
+
+LaTeX Warning: Label `img:clusterpotential' multiply defined.
+
+) (expset.aux) (Methods.aux) (Results.aux
+
+LaTeX Warning: Label `fig:HeArEnergydistr' multiply defined.
+
+
+LaTeX Warning: Label `fig:HeArhistograms-electr' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:HeArhistograms-electr' multiply defined.
+
+
+LaTeX Warning: Label `fig:mult1' multiply defined.
+
+))
 \openout1 = `MSc_CristianMedina.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
 i"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count340
-\scratchdimen=\dimen334
-\scratchbox=\box73
-\nofMPsegments=\count341
-\nofMParguments=\count342
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count343
-\MPscratchDim=\dimen335
-\MPnumerator=\count344
-\makeMPintoPDFobject=\count345
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count321
+\scratchdimen=\dimen288
+\scratchbox=\box65
+\nofMPsegments=\count322
+\nofMParguments=\count323
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count324
+\MPscratchDim=\dimen289
+\MPnumerator=\count325
+\makeMPintoPDFobject=\count326
+\everyMPtoPDFconversion=\toks32
 )
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
 ase.sty"
@@ -1869,27 +1561,26 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 126.
 )
-\CenteringLeftskip=\skip100
-\RaggedLeftLeftskip=\skip101
-\RaggedRightLeftskip=\skip102
-\CenteringRightskip=\skip103
-\RaggedLeftRightskip=\skip104
-\RaggedRightRightskip=\skip105
-\CenteringParfillskip=\skip106
-\RaggedLeftParfillskip=\skip107
-\RaggedRightParfillskip=\skip108
-\JustifyingParfillskip=\skip109
-\CenteringParindent=\skip110
-\RaggedLeftParindent=\skip111
-\RaggedRightParindent=\skip112
-\JustifyingParindent=\skip113
+\CenteringLeftskip=\skip94
+\RaggedLeftLeftskip=\skip95
+\RaggedRightLeftskip=\skip96
+\CenteringRightskip=\skip97
+\RaggedLeftRightskip=\skip98
+\RaggedRightRightskip=\skip99
+\CenteringParfillskip=\skip100
+\RaggedLeftParfillskip=\skip101
+\RaggedRightParfillskip=\skip102
+\JustifyingParfillskip=\skip103
+\CenteringParindent=\skip104
+\RaggedLeftParindent=\skip105
+\RaggedRightParindent=\skip106
+\JustifyingParindent=\skip107
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: floatflt package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1924,8 +1615,8 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring OFF on input line 86.
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring OFF on input line 88.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
 y"
@@ -1935,36 +1626,36 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 string.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count346
+\c@section@level=\count327
 )
-LaTeX Info: Redefining \ref on input line 86.
-LaTeX Info: Redefining \pageref on input line 86.
-LaTeX Info: Redefining \nameref on input line 86.
+LaTeX Info: Redefining \ref on input line 88.
+LaTeX Info: Redefining \pageref on input line 88.
+LaTeX Info: Redefining \nameref on input line 88.
  (MSc_CristianMedina.out) (MSc_CristianMedina.out)
-\@outlinefile=\write5
-\openout5 = `MSc_CristianMedina.out'.
+\@outlinefile=\write4
+\openout4 = `MSc_CristianMedina.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 86.
+LaTeX Font Info:    Try loading font information for U+msa on input line 88.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 86.
+LaTeX Font Info:    Try loading font information for U+msb on input line 88.
 
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<logo.jpg, id=138, 185.0112pt x 185.0112pt>
+<logo.jpg, id=203, 185.0112pt x 185.0112pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 91.
+Package pdftex.def Info: logo.jpg  used on input line 93.
 (pdftex.def)             Requested size: 199.16928pt x 199.17957pt.
 
 [1
 
 
 {C:/Users/nano/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 119.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 121.
 
  ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1973,8 +1664,8 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ] (MSc_CristianMedina.toc [3
 
 ])
-\tf@toc=\write6
-\openout6 = `MSc_CristianMedina.toc'.
+\tf@toc=\write5
+\openout5 = `MSc_CristianMedina.toc'.
 
  [4] [5
 
@@ -2010,235 +1701,176 @@ Class scrreprt Warning: \float@addtolists detected!
 
 
 ]
-<../Images/He_temp_phases.png, id=273, 240.14719pt x 191.9672pt>
+<../Images/He_temp_phases.png, id=363, 240.14719pt x 191.9672pt>
 File: ../Images/He_temp_phases.png Graphic file (type png)
 <use ../Images/He_temp_phases.png>
-Package pdftex.def Info: ../Images/He_temp_phases.png  used on input line 27.
-(pdftex.def)             Requested size: 240.14658pt x 191.96672pt.
- [9]
-<../Images/jet_scketch.png, id=291, 346.29375pt x 221.32687pt>
+Package pdftex.def Info: ../Images/He_temp_phases.png  used on input line 28.
+(pdftex.def)             Requested size: 227.62204pt x 181.9577pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+<../Images/jet_scketch.png, id=385, 346.29375pt x 221.32687pt>
 File: ../Images/jet_scketch.png Graphic file (type png)
 <use ../Images/jet_scketch.png>
-Package pdftex.def Info: ../Images/jet_scketch.png  used on input line 47.
+Package pdftex.def Info: ../Images/jet_scketch.png  used on input line 51.
 (pdftex.def)             Requested size: 256.07741pt x 163.67123pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Images/waanderwaal_hehe.PNG, id=294, 501.37312pt x 582.67688pt>
+<../Images/waanderwaal_hehe.PNG, id=388, 501.37312pt x 582.67688pt>
 File: ../Images/waanderwaal_hehe.PNG Graphic file (type png)
 <use ../Images/waanderwaal_hehe.PNG>
-Package pdftex.def Info: ../Images/waanderwaal_hehe.PNG  used on input line 54.
+Package pdftex.def Info: ../Images/waanderwaal_hehe.PNG  used on input line 58.
 
 (pdftex.def)             Requested size: 213.39568pt x 248.00337pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10 <../Images/He_temp_phases.png>]
-
-Package caption Warning: \label without proper reference on input line 67.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `img:t-s_He' on page 11 undefined on input line 62.
-
-[11 <../Images/jet_scketch.png> <../Images/waanderwaal_hehe.PNG>]
-<../Images/dimensiones isentropic diagram.png, id=318, 738.50906pt x 608.2725pt
+[10 <../Images/He_temp_phases.png>] [11 <../Images/jet_scketch.png> <../Images/
+waanderwaal_hehe.PNG>]
+<../Images/dimensiones isentropic diagram.png, id=413, 738.50906pt x 608.2725pt
 >
 File: ../Images/dimensiones isentropic diagram.png Graphic file (type png)
 <use ../Images/dimensiones isentropic diagram.png>
 Package pdftex.def Info: ../Images/dimensiones isentropic diagram.png  used on 
-input line 66.
+input line 70.
 (pdftex.def)             Requested size: 227.62204pt x 187.4766pt.
  [12 <../Images/dimensiones isentropic diagram.png>]
-<../Images/expansion_regimes.PNG, id=332, 1102.1175pt x 652.68843pt>
+<../Images/expansion_regimes.PNG, id=429, 1102.1175pt x 652.68843pt>
 File: ../Images/expansion_regimes.PNG Graphic file (type png)
 <use ../Images/expansion_regimes.PNG>
-Package pdftex.def Info: ../Images/expansion_regimes.PNG  used on input line 92
+Package pdftex.def Info: ../Images/expansion_regimes.PNG  used on input line 96
 .
-(pdftex.def)             Requested size: 227.62204pt x 134.79791pt.
+(pdftex.def)             Requested size: 284.52756pt x 168.49988pt.
 
 
-Package caption Warning: \label without proper reference on input line 90.
+Package caption Warning: \label without proper reference on input line 94.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:ExpRegim' on page 13 undefined on input line 96.
+LaTeX Warning: Reference `fig:ExpRegim' on page 13 undefined on input line 100.
 
 
-Package caption Warning: \label without proper reference on input line 112.
+
+Package caption Warning: \label without proper reference on input line 116.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `img:dropletSize' on page 13 undefined on input line 1
-02.
+06.
 
 [13 <../Images/expansion_regimes.PNG>]
-<../Images/sizes_regimen.PNG, id=351, 712.16063pt x 590.205pt>
+<../Images/sizes_regimen.PNG, id=448, 712.16063pt x 590.205pt>
 File: ../Images/sizes_regimen.PNG Graphic file (type png)
 <use ../Images/sizes_regimen.PNG>
-Package pdftex.def Info: ../Images/sizes_regimen.PNG  used on input line 113.
+Package pdftex.def Info: ../Images/sizes_regimen.PNG  used on input line 117.
 (pdftex.def)             Requested size: 284.8592pt x 236.0778pt.
-
-
-LaTeX Warning: Citation `stienkemeier_spsectroscopy_2006' on page 14 undefined 
-on input line 114.
-
-
-LaTeX Warning: Citation `stienkemeier_spsectroscopy_2006' on page 14 undefined 
-on input line 114.
-
-[14 <../Images/sizes_regimen.PNG>]
-<../Images/He_evaporation (2).png, id=366, 581.372pt x 117.238pt>
+ [14 <../Images/sizes_regimen.PNG>]
+<../Images/He_evaporation (2).png, id=464, 581.372pt x 117.238pt>
 File: ../Images/He_evaporation (2).png Graphic file (type png)
 <use ../Images/He_evaporation (2).png>
 Package pdftex.def Info: ../Images/He_evaporation (2).png  used on input line 1
-50.
+55.
 (pdftex.def)             Requested size: 398.33858pt x 80.33078pt.
- [15]
-
-Package caption Warning: \label without proper reference on input line 164.
-See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `img:Nephases' on page 16 undefined on input line 163.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[15]
+! Undefined control sequence.
+l.170 \subfloat
+               {\includegraphics[width=0.45\textwidth]{../Images/Ne_temp_pha...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-<../Images/Ne_temp_phases.png, id=383, 467.49657pt x 323.70938pt>
+<../Images/Ne_temp_phases.png, id=481, 467.49657pt x 323.70938pt>
 File: ../Images/Ne_temp_phases.png Graphic file (type png)
 <use ../Images/Ne_temp_phases.png>
-Package pdftex.def Info: ../Images/Ne_temp_phases.png  used on input line 167.
-(pdftex.def)             Requested size: 227.62204pt x 157.61629pt.
-[16 <../Images/He_evaporation (2).png>]
-<../Images/T-s ne phase diagran.png, id=403, 581.92406pt x 542.77782pt>
+Package pdftex.def Info: ../Images/Ne_temp_phases.png  used on input line 170.
+(pdftex.def)             Requested size: 192.0548pt x 132.98349pt.
+<../Images/T-s ne phase diagran.png, id=482, 581.92406pt x 542.77782pt>
 File: ../Images/T-s ne phase diagran.png Graphic file (type png)
 <use ../Images/T-s ne phase diagran.png>
 Package pdftex.def Info: ../Images/T-s ne phase diagran.png  used on input line
- 178.
-(pdftex.def)             Requested size: 227.62204pt x 212.30365pt.
+ 171.
+(pdftex.def)             Requested size: 170.71393pt x 159.2236pt.
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package caption Warning: \label without proper reference on input line 67.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `img:t-s_He' on page 17 undefined on input line 183.
-
-
-Package caption Warning: \label without proper reference on input line 176.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `img:t-s_Ne' on page 17 undefined on input line 183.
-
-[17 <../Images/Ne_temp_phases.png>] [18 <../Images/T-s ne phase diagran.png>]
-[19]
-
-Package caption Warning: \label without proper reference on input line 232.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:augerfluorec' on page 20 undefined on input line 
-230.
-
-<../Images/text6418.png, id=450, 459.316pt x 185.493pt>
+[16 <../Images/He_evaporation (2).png>] [17 <../Images/Ne_temp_phases.png> <../
+Images/T-s ne phase diagran.png>] [18]
+<../Images/text6418.png, id=536, 459.316pt x 185.493pt>
 File: ../Images/text6418.png Graphic file (type png)
 <use ../Images/text6418.png>
-Package pdftex.def Info: ../Images/text6418.png  used on input line 235.
-(pdftex.def)             Requested size: 170.71652pt x 68.94267pt.
-[20]
-
-Package caption Warning: \label without proper reference on input line 248.
-See the caption package documentation for explanation.
+Package pdftex.def Info: ../Images/text6418.png  used on input line 227.
+(pdftex.def)             Requested size: 341.43306pt x 137.88535pt.
 
 
-LaTeX Warning: Reference `img:ionizationprocess' on page 21 undefined on input 
-line 246.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Images/photoionization2.png, id=470, 548.449pt x 229.658pt>
+[19] [20 <../Images/text6418.png>]
+<../Images/photoionization2.png, id=569, 548.449pt x 229.658pt>
 File: ../Images/photoionization2.png Graphic file (type png)
 <use ../Images/photoionization2.png>
-Package pdftex.def Info: ../Images/photoionization2.png  used on input line 251
+Package pdftex.def Info: ../Images/photoionization2.png  used on input line 247
 .
-(pdftex.def)             Requested size: 227.62204pt x 95.3133pt.
-[21 <../Images/text6418.png>] [22 <../Images/photoionization2.png>] [23]
-<../Images/ponderomotive steps.png, id=514, 1015.54407pt x 607.51968pt>
+(pdftex.def)             Requested size: 398.33858pt x 166.80089pt.
+ [21 <../Images/photoionization2.png>]
+[22] [23]
+<../Images/ponderomotive steps.png, id=614, 1015.54407pt x 607.51968pt>
 File: ../Images/ponderomotive steps.png Graphic file (type png)
 <use ../Images/ponderomotive steps.png>
 Package pdftex.def Info: ../Images/ponderomotive steps.png  used on input line 
-335.
+334.
 (pdftex.def)             Requested size: 341.43306pt x 204.24573pt.
-
-[24] [25 <../Images/ponderomotive steps.png>]
-
-Package caption Warning: \label without proper reference on input line 359.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `img:clusterpotential' on page 26 undefined on input l
-ine 358.
-
-<../Images/clusterpotential.PNG, id=545, 794.97pt x 491.58656pt>
+ [24 <../Images/ponderomotive steps.png>]
+<../Images/clusterpotential.PNG, id=633, 794.97pt x 491.58656pt>
 File: ../Images/clusterpotential.PNG Graphic file (type png)
 <use ../Images/clusterpotential.PNG>
-Package pdftex.def Info: ../Images/clusterpotential.PNG  used on input line 363
+Package pdftex.def Info: ../Images/clusterpotential.PNG  used on input line 362
 .
 (pdftex.def)             Requested size: 278.24367pt x 172.05786pt.
-[26]
-<../Images/cluster_regimes_2.png, id=559, 503.481pt x 426.393pt>
+ [25] [26 <../Images/clusterpotential.PNG>]
+<../Images/cluster_regimes_2.png, id=657, 503.481pt x 426.393pt>
 File: ../Images/cluster_regimes_2.png Graphic file (type png)
 <use ../Images/cluster_regimes_2.png>
 Package pdftex.def Info: ../Images/cluster_regimes_2.png  used on input line 37
-8.
+7.
 (pdftex.def)             Requested size: 398.33858pt x 337.35426pt.
- [27 <../Images/clusterpotential.PNG>] [28 <../Images/cluster_regimes_2.png>]
-
-Package caption Warning: \label without proper reference on input line 400.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ing:vmiVelcDist' on page 29 undefined on input line 3
-98.
-
-
-LaTeX Warning: Citation `fechner_lutz_aufbau_2011' on page 29 undefined on inpu
-t line 402.
-
-
-LaTeX Warning: Citation `fechner_lutz_aufbau_2011' on page 29 undefined on inpu
-t line 402.
-
-<../Images/cel distrub vmi.png, id=577, 517.935pt x 290.58563pt>
+ [27 <../Images/cluster_regimes_2.png>]
+<../Images/cel distrub vmi.png, id=669, 517.935pt x 290.58563pt>
 File: ../Images/cel distrub vmi.png Graphic file (type png)
 <use ../Images/cel distrub vmi.png>
 Package pdftex.def Info: ../Images/cel distrub vmi.png  used on input line 404.
 
 (pdftex.def)             Requested size: 227.62204pt x 127.7073pt.
-[29]
 
-Package caption Warning: \label without proper reference on input line 429.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28]
+
+Package caption Warning: \label without proper reference on input line 431.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `img:Abel' on page 30 undefined on input line 427.
+LaTeX Warning: Reference `img:Abel' on page 29 undefined on input line 428.
 
-[30 <../Images/cel distrub vmi.png>]
-
-LaTeX Warning: Citation `fechner_lutz_aufbau_2011' on page 31 undefined on inpu
-t line 431.
-
-
-LaTeX Warning: Citation `fechner_lutz_aufbau_2011' on page 31 undefined on inpu
-t line 431.
-
-<../Images/abel transform pbasex function.png, id=592, 802.49812pt x 542.025pt>
+[29 <../Images/cel distrub vmi.png>]
+<../Images/abel transform pbasex function.png, id=687, 802.49812pt x 542.025pt>
 
 File: ../Images/abel transform pbasex function.png Graphic file (type png)
 <use ../Images/abel transform pbasex function.png>
 Package pdftex.def Info: ../Images/abel transform pbasex function.png  used on 
-input line 433.
+input line 434.
 (pdftex.def)             Requested size: 284.52756pt x 192.17622pt.
-) [31 <../Images/abel transform pbasex function.png>]
+) [30 <../Images/abel transform pbasex function.png>]
 \openout2 = `expset.aux'.
 
  (expset.tex
@@ -2248,211 +1880,1288 @@ Package caption Warning: \label without proper reference on input line 13.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `img:setup' on page 32 undefined on input line 9.
+LaTeX Warning: Reference `img:setup' on page 31 undefined on input line 9.
 
-<../Images/setup.png, id=602, 848.4197pt x 330.48468pt>
+<../Images/setup.png, id=696, 848.4197pt x 330.48468pt>
 File: ../Images/setup.png Graphic file (type png)
 <use ../Images/setup.png>
 Package pdftex.def Info: ../Images/setup.png  used on input line 16.
-(pdftex.def)             Requested size: 398.33858pt x 155.16644pt.
-[32
+(pdftex.def)             Requested size: 455.24408pt x 177.32948pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 16--17
+ [][] 
+ []
+
+[31
 
 
 
-] [33 <../Images/setup.png (PNG copy)>]
-
-Package caption Warning: \label without proper reference on input line 39.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `img:oven' on page 34 undefined on input line 37.
-
-[34]
-<../Images/oven_complete_cut_1.PNG, id=620, 612.03656pt x 561.59813pt>
-File: ../Images/oven_complete_cut_1.PNG Graphic file (type png)
-<use ../Images/oven_complete_cut_1.PNG>
-Package pdftex.def Info: ../Images/oven_complete_cut_1.PNG  used on input line 
-42.
-(pdftex.def)             Requested size: 341.43306pt x 313.2931pt.
- [35 <../Images/oven_complete_cut_1.PNG>]
+] [32 <../Images/setup.png (PNG copy)>] [33]
+<../Images/oven_complete_cut_2.PNG, id=715, 611.886pt x 561.297pt>
+File: ../Images/oven_complete_cut_2.PNG Graphic file (type png)
+<use ../Images/oven_complete_cut_2.PNG>
+Package pdftex.def Info: ../Images/oven_complete_cut_2.PNG  used on input line 
+41.
+(pdftex.def)             Requested size: 227.62204pt x 208.79861pt.
+ [34 <../Images/oven_complete_cut_2.PNG>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 59.
 
-<../Images/MCP cut.png, id=629, 495.35063pt x 542.77782pt>
+<../Images/MCP cut.png, id=724, 495.35063pt x 542.77782pt>
 File: ../Images/MCP cut.png Graphic file (type png)
 <use ../Images/MCP cut.png>
 Package pdftex.def Info: ../Images/MCP cut.png  used on input line 76.
-(pdftex.def)             Requested size: 284.52756pt x 311.77182pt.
+(pdftex.def)             Requested size: 227.62204pt x 249.41579pt.
 
 Package caption Warning: \label without proper reference on input line 74.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `img:mcp cut' on page 36 undefined on input line 81.
+LaTeX Warning: Reference `img:mcp cut' on page 35 undefined on input line 81.
 
-[36] [37 <../Images/MCP cut.png>]
-<../Images/Cup scintillator.png, id=644, 1275.26437pt x 892.08281pt>
+[35] [36 <../Images/MCP cut.png>]
+<../Images/Cup scintillator.png, id=740, 1275.26437pt x 892.08281pt>
 File: ../Images/Cup scintillator.png Graphic file (type png)
 <use ../Images/Cup scintillator.png>
 Package pdftex.def Info: ../Images/Cup scintillator.png  used on input line 101
 .
 (pdftex.def)             Requested size: 284.52756pt x 199.03568pt.
- [38]) [39 <../Images/Cup scintillator.png>]
-[40]
+ [37 <../Images/Cup scintillator.png>])
+[38]
 \openout2 = `Methods.aux'.
 
  (Methods.tex
 chapter 3.
-<../Images/vmi_examples.png, id=665, 320.397pt x 158.5122pt>
-File: ../Images/vmi_examples.png Graphic file (type png)
-<use ../Images/vmi_examples.png>
-Package pdftex.def Info: ../Images/vmi_examples.png  used on input line 17.
-(pdftex.def)             Requested size: 320.39621pt x 158.51181pt.
-[41
+! Undefined control sequence.
+l.14 \subfloat
+              {\includegraphics[width=4cm]{../Images/rawvmi1.PNG} \includegr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/rawvmi1.PNG, id=756, 234.8775pt x 202.50656pt>
+File: ../Images/rawvmi1.PNG Graphic file (type png)
+<use ../Images/rawvmi1.PNG>
+Package pdftex.def Info: ../Images/rawvmi1.PNG  used on input line 14.
+(pdftex.def)             Requested size: 113.81102pt x 98.12593pt.
+<../Images/rawvmi2.PNG, id=757, 241.65282pt x 212.29312pt>
+File: ../Images/rawvmi2.PNG Graphic file (type png)
+<use ../Images/rawvmi2.PNG>
+Package pdftex.def Info: ../Images/rawvmi2.PNG  used on input line 14.
+(pdftex.def)             Requested size: 113.81102pt x 99.98186pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39
 
 
 
-]
-
-Package caption Warning: \label without proper reference on input line 45.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:triggers' on page 42 undefined on input line 29.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 30.
-
-
-Package caption Warning: \label without proper reference on input line 31.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:delaystriger' on page 42 undefined on input line 
-42.
-
-[42 <../Images/vmi_examples.png>]
-<../Images/Trigger scheme.png, id=680, 805.5696pt x 291.0072pt>
+] [40 <../Images/rawvmi1.PNG> <../Images/rawvmi2.PNG>]
+<../Images/Trigger scheme.png, id=773, 820.9872pt x 291.0072pt>
 File: ../Images/Trigger scheme.png Graphic file (type png)
 <use ../Images/Trigger scheme.png>
-Package pdftex.def Info: ../Images/Trigger scheme.png  used on input line 47.
-(pdftex.def)             Requested size: 398.33858pt x 143.89581pt.
-
-
-Package caption Warning: \label without proper reference on input line 45.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:triggers' on page 43 undefined on input line 51.
-
-[43 <../Images/Trigger scheme.png>]
-<../images/simion_calib.png, id=688, 269.3262pt x 95.3964pt>
+Package pdftex.def Info: ../Images/Trigger scheme.png  used on input line 48.
+(pdftex.def)             Requested size: 398.33858pt x 141.19604pt.
+ [41 <../Images/Trigger scheme.png>]
+<../Images/results/Mir_He_Dropletsize/correlatedsignalexample.png, id=781, 384.
+637pt x 373.395pt>
+File: ../Images/results/Mir_He_Dropletsize/correlatedsignalexample.png Graphic 
+file (type png)
+<use ../Images/results/Mir_He_Dropletsize/correlatedsignalexample.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/correlatedsignale
+xample.png  used on input line 57.
+(pdftex.def)             Requested size: 227.62204pt x 220.97345pt.
+ [42 <../Images/results/Mir_He_Dropletsize/correlatedsignalexample.png>]
+<../images/simion_calib.png, id=788, 269.3262pt x 95.3964pt>
 File: ../images/simion_calib.png Graphic file (type png)
 <use ../images/simion_calib.png>
-Package pdftex.def Info: ../images/simion_calib.png  used on input line 61.
+Package pdftex.def Info: ../images/simion_calib.png  used on input line 72.
 (pdftex.def)             Requested size: 269.32555pt x 95.39613pt.
- [44 <../images/simion_calib.png>]
-
-LaTeX Warning: File `../images/ati_calib.png' not found on input line 74.
-
-
-! Package pdftex.def Error: File `../images/ati_calib.png' not found: using dra
-ft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74 ...graphics[scale=1]{../images/ati_calib.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 74.
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-
-LaTeX Warning: Citation `wituschek_simple_2016' on page 45 undefined on input l
-ine 78.
-
-<../images/potassium_calib.png, id=695, 889.4028pt x 385.9218pt>
+<../images/potassium_calib.png, id=790, 889.4028pt x 385.9218pt>
 File: ../images/potassium_calib.png Graphic file (type png)
 <use ../images/potassium_calib.png>
-Package pdftex.def Info: ../images/potassium_calib.png  used on input line 82.
+Package pdftex.def Info: ../images/potassium_calib.png  used on input line 93.
 (pdftex.def)             Requested size: 444.70032pt x 192.96042pt.
 
-Overfull \hbox (17.90897pt too wide) in paragraph at lines 82--83
+Overfull \hbox (17.90897pt too wide) in paragraph at lines 93--94
  [][] 
  []
 
+[43 <../images/simion_calib.png>]
 
-LaTeX Warning: Citation `Becker_2018' on page 45 undefined on input line 88.
+LaTeX Warning: Citation `Becker_2018' on page 44 undefined on input line 99.
 
-
-LaTeX Warning: Citation `augst_laser_1991' on page 45 undefined on input line 8
-8.
-
-[45] [46 <../images/potassium_calib.png>] [47] [48]
-<../images/density_plot.png, id=730, 357.0138pt x 194.6472pt>
+[44 <../images/potassium_calib.png>]
+<../Images/abel inverse transform.png, id=810, 910.602pt x 385.44pt>
+File: ../Images/abel inverse transform.png Graphic file (type png)
+<use ../Images/abel inverse transform.png>
+Package pdftex.def Info: ../Images/abel inverse transform.png  used on input li
+ne 126.
+(pdftex.def)             Requested size: 341.43306pt x 144.52199pt.
+ [45] [46 <../Images/abel inverse transform.png>]
+<../images/density_plot.png, id=826, 357.0138pt x 194.6472pt>
 File: ../images/density_plot.png Graphic file (type png)
 <use ../images/density_plot.png>
-Package pdftex.def Info: ../images/density_plot.png  used on input line 174.
+Package pdftex.def Info: ../images/density_plot.png  used on input line 151.
 (pdftex.def)             Requested size: 284.52756pt x 155.12988pt.
- [49 <../images/density_plot.png>]
-<../Images/density_plot_chekc.png, id=742, 277.9986pt x 206.2104pt>
+ [47 <../images/density_plot.png>]
+! Undefined control sequence.
+l.162 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/rawVMIfit.PN...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/rawVMIfit.PNG, id=838, 578.16pt x 481.8pt>
+File: ../Images/rawVMIfit.PNG Graphic file (type png)
+<use ../Images/rawVMIfit.PNG>
+Package pdftex.def Info: ../Images/rawVMIfit.PNG  used on input line 162.
+(pdftex.def)             Requested size: 170.71393pt x 142.26208pt.
+<../Images/pesandFinder.PNG, id=839, 578.16pt x 389.455pt>
+File: ../Images/pesandFinder.PNG Graphic file (type png)
+<use ../Images/pesandFinder.PNG>
+Package pdftex.def Info: ../Images/pesandFinder.PNG  used on input line 162.
+(pdftex.def)             Requested size: 213.39568pt x 143.74547pt.
+<../Images/density_plot_chekc.png, id=840, 277.9986pt x 206.2104pt>
 File: ../Images/density_plot_chekc.png Graphic file (type png)
 <use ../Images/density_plot_chekc.png>
 Package pdftex.def Info: ../Images/density_plot_chekc.png  used on input line 1
-84.
+71.
 (pdftex.def)             Requested size: 284.52756pt x 211.07439pt.
-) [50 <../Images/density_plot_chekc.png>]
-\openout2 = `Messungen.aux'.
+[48 <../Images/rawVMIfit.PNG (PNG copy)> <../Images/pesandFinder.PNG (PNG copy)
+> <../Images/density_plot_chekc.png>] [49]
+<../Images/linemodelfit.png, id=861, 578.16pt x 382.42876pt>
+File: ../Images/linemodelfit.png Graphic file (type png)
+<use ../Images/linemodelfit.png>
+Package pdftex.def Info: ../Images/linemodelfit.png  used on input line 223.
+(pdftex.def)             Requested size: 231.2599pt x 152.96878pt.
+ [50]) [51 <../Images/linemodelfit.png (PNG copy)>]
+\openout2 = `Results.aux'.
 
-
-No file Messungen.tex.
-(MSc_CristianMedina.lof [51
-
-
-
-
-]
-
-LaTeX Warning: Citation `fechner_lutz_aufbau_2011' on page 52 undefined on inpu
-t line 17.
-
-
-LaTeX Warning: Citation `fechner_lutz_aufbau_2011' on page 52 undefined on inpu
-t line 18.
-
-)
-\tf@lof=\write7
-\openout7 = `MSc_CristianMedina.lof'.
-
- [52] (MSc_CristianMedina.lot)
-\tf@lot=\write8
-\openout8 = `MSc_CristianMedina.lot'.
-
- (MSc_CristianMedina.bbl [53
-
-]
+ (Results.tex
 chapter 4.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
-("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+[52
 
-[54
+
+
+]
+<../Images/results/Mir_He_Dropletsize/rawimageSample.png, id=889, 524.359pt x 4
+55.301pt>
+File: ../Images/results/Mir_He_Dropletsize/rawimageSample.png Graphic file (typ
+e png)
+<use ../Images/results/Mir_He_Dropletsize/rawimageSample.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/rawimageSample.pn
+g  used on input line 15.
+(pdftex.def)             Requested size: 341.43306pt x 296.47014pt.
+ [53 <../Images/results/Mir_He_Dropletsize/rawimageSample.png>]
+<../Images/Xeioncharges_intensitycalib.png, id=898, 1089.69609pt x 779.48357pt>
+
+File: ../Images/Xeioncharges_intensitycalib.png Graphic file (type png)
+<use ../Images/Xeioncharges_intensitycalib.png>
+Package pdftex.def Info: ../Images/Xeioncharges_intensitycalib.png  used on inp
+ut line 47.
+(pdftex.def)             Requested size: 284.52756pt x 203.5292pt.
+ [54 <../Images/Xeioncharges_intensitycalib.png>]
+<../Images/results/NIR_He_intensityscan/signalrate_EnerDisttri.png, id=907, 926
+.662pt x 291.489pt>
+File: ../Images/results/NIR_He_intensityscan/signalrate_EnerDisttri.png Graphic
+ file (type png)
+<use ../Images/results/NIR_He_intensityscan/signalrate_EnerDisttri.png>
+Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/signalrate_Ener
+Disttri.png  used on input line 59.
+(pdftex.def)             Requested size: 455.24408pt x 143.20001pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+[55 <../Images/results/NIR_He_intensityscan/signalrate_EnerDisttri.png>]
+<../Images/results/NIR_He_intensityscan/histograms mean.png, id=917, 361.35pt x
+ 580.569pt>
+File: ../Images/results/NIR_He_intensityscan/histograms mean.png Graphic file (
+type png)
+<use ../Images/results/NIR_He_intensityscan/histograms mean.png>
+Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/histograms mean
+.png  used on input line 69.
+(pdftex.def)             Requested size: 199.16928pt x 319.99606pt.
+
+[56 <../Images/results/NIR_He_intensityscan/histograms mean.png>] [57]
+<../Images/results/NI_He_Dropletsize/signalrateee.png, id=936, 1139.457pt x 379
+.016pt>
+File: ../Images/results/NI_He_Dropletsize/signalrateee.png Graphic file (type p
+ng)
+<use ../Images/results/NI_He_Dropletsize/signalrateee.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/signalrateee.png  
+used on input line 108.
+(pdftex.def)             Requested size: 398.33858pt x 132.49565pt.
+
+! Undefined control sequence.
+l.124 \subfloat
+               {\includegraphics[width=0.35\textwidth]{../Images/results/NI_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/NI_He_Dropletsize/MeanEnerg.png, id=938, 578.16pt x 347.2975
+pt>
+File: ../Images/results/NI_He_Dropletsize/MeanEnerg.png Graphic file (type png)
+
+<use ../Images/results/NI_He_Dropletsize/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/MeanEnerg.png  use
+d on input line 124.
+(pdftex.def)             Requested size: 149.37958pt x 89.72818pt.
+<../Images/results/NI_He_Dropletsize/Henerg.png, id=939, 662.475pt x 378.41376p
+t>
+File: ../Images/results/NI_He_Dropletsize/Henerg.png Graphic file (type png)
+<use ../Images/results/NI_He_Dropletsize/Henerg.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/Henerg.png  used o
+n input line 125.
+(pdftex.def)             Requested size: 170.71393pt x 97.51335pt.
+! Undefined control sequence.
+l.129 \subfloat
+               {\includegraphics[width=0.35\textwidth]{../Images/results/NI_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/NI_He_Dropletsize/MeanElec.png, id=940, 578.16pt x 371.3875p
+t>
+File: ../Images/results/NI_He_Dropletsize/MeanElec.png Graphic file (type png)
+<use ../Images/results/NI_He_Dropletsize/MeanElec.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/MeanElec.png  used
+ on input line 129.
+(pdftex.def)             Requested size: 149.37958pt x 95.9521pt.
+<../Images/results/NI_He_Dropletsize/Helec.png, id=941, 662.475pt x 372.39125pt
+>
+File: ../Images/results/NI_He_Dropletsize/Helec.png Graphic file (type png)
+<use ../Images/results/NI_He_Dropletsize/Helec.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/Helec.png  used on
+ input line 130.
+(pdftex.def)             Requested size: 170.71393pt x 95.96141pt.
+[58 <../Images/results/NI_He_Dropletsize/signalrateee.png>] [59 <../Images/resu
+lts/NI_He_Dropletsize/MeanEnerg.png (PNG copy)> <../Images/results/NI_He_Drople
+tsize/Henerg.png (PNG copy)> <../Images/results/NI_He_Dropletsize/MeanElec.png 
+(PNG copy)> <../Images/results/NI_He_Dropletsize/Helec.png (PNG copy)>]
+<../Images/TOF-10k6.png, id=953, 880.891pt x 563.706pt>
+File: ../Images/TOF-10k6.png Graphic file (type png)
+<use ../Images/TOF-10k6.png>
+Package pdftex.def Info: ../Images/TOF-10k6.png  used on input line 156.
+(pdftex.def)             Requested size: 298.75264pt x 191.17581pt.
+
+[60 <../Images/TOF-10k6.png>]
+<../Images/results/Mir_He_Dropletsize/fits.png, id=962, 641.39626pt x 377.41pt>
+
+File: ../Images/results/Mir_He_Dropletsize/fits.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/fits.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/fits.png  used on
+ input line 180.
+(pdftex.def)             Requested size: 298.75264pt x 175.79329pt.
+ [61 <../Images/results/Mir_He_Dropletsize/fits.png (PNG copy)>]
+<../Images/results/Mir_He_Dropletsize/signalrates.png, id=971, 1740.904pt x 378
+.213pt>
+File: ../Images/results/Mir_He_Dropletsize/signalrates.png Graphic file (type p
+ng)
+<use ../Images/results/Mir_He_Dropletsize/signalrates.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/signalrates.png  
+used on input line 191.
+(pdftex.def)             Requested size: 455.24408pt x 98.89862pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 191--192
+ [][] 
+ []
+
+<../Images/results/Mir_He_Dropletsize/Henerg.png, id=973, 678.535pt x 384.43625
+pt>
+File: ../Images/results/Mir_He_Dropletsize/Henerg.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/Henerg.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Henerg.png  used 
+on input line 202.
+(pdftex.def)             Requested size: 209.1301pt x 118.48181pt.
+<../Images/results/Mir_He_Dropletsize/Helec.png, id=974, 578.16pt x 370.38374pt
+>
+File: ../Images/results/Mir_He_Dropletsize/Helec.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/Helec.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Helec.png  used o
+n input line 204.
+(pdftex.def)             Requested size: 209.1301pt x 133.97101pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[62 <../Images/results/Mir_He_Dropletsize/signalrates.png>]
+<../Images/results/MIR_He_ArDop/pointfits.png, id=983, 1747.328pt x 369.38pt>
+File: ../Images/results/MIR_He_ArDop/pointfits.png Graphic file (type png)
+<use ../Images/results/MIR_He_ArDop/pointfits.png>
+Package pdftex.def Info: ../Images/results/MIR_He_ArDop/pointfits.png  used on 
+input line 221.
+(pdftex.def)             Requested size: 483.69684pt x 102.24771pt.
+
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 221--222
+ [][] 
+ []
+
+[63 <../Images/results/Mir_He_Dropletsize/Henerg.png (PNG copy)> <../Images/res
+ults/Mir_He_Dropletsize/Helec.png (PNG copy)> <../Images/results/MIR_He_ArDop/p
+ointfits.png>]
+<../Images/results/MIR_He_ArDop/signalrate.png, id=991, 803.0pt x 534.99875pt>
+File: ../Images/results/MIR_He_ArDop/signalrate.png Graphic file (type png)
+<use ../Images/results/MIR_He_ArDop/signalrate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_ArDop/signalrate.png  used on
+ input line 230.
+(pdftex.def)             Requested size: 128.0387pt x 85.2995pt.
+<../Images/results/MIR_He_ArDop/Meanelect.png, id=992, 578.16pt x 384.43625pt>
+File: ../Images/results/MIR_He_ArDop/Meanelect.png Graphic file (type png)
+<use ../Images/results/MIR_He_ArDop/Meanelect.png>
+Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Meanelect.png  used on 
+input line 234.
+(pdftex.def)             Requested size: 145.10748pt x 96.48424pt.
+<../Images/results/MIR_He_ArDop/Meaneneg.png, id=993, 578.16pt x 379.4175pt>
+File: ../Images/results/MIR_He_ArDop/Meaneneg.png Graphic file (type png)
+<use ../Images/results/MIR_He_ArDop/Meaneneg.png>
+Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Meaneneg.png  used on i
+nput line 238.
+(pdftex.def)             Requested size: 145.10748pt x 95.22466pt.
+
+
+LaTeX Warning: Reference `fig:fig:He-Armean' on page 64 undefined on input line
+ 246.
+
+[64 <../Images/results/MIR_He_ArDop/signalrate.png (PNG copy)> <../Images/resul
+ts/MIR_He_ArDop/Meanelect.png (PNG copy)> <../Images/results/MIR_He_ArDop/Meane
+neg.png (PNG copy)>]
+<../Images/results/MIR_He_waterDop/Energyfit.png, id=999, 688.171pt x 369.38pt>
+
+File: ../Images/results/MIR_He_waterDop/Energyfit.png Graphic file (type png)
+<use ../Images/results/MIR_He_waterDop/Energyfit.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterDop/Energyfit.png  used 
+on input line 256.
+(pdftex.def)             Requested size: 298.75264pt x 160.35773pt.
+
+
+LaTeX Warning: Reference `img:sigratedropletsize' on page 65 undefined on input
+ line 263.
+
+<../Images/results/MIR_He_waterDop/results/MIR_HE_water_Signalrate.pdf, id=1002
+, 361.35pt x 241.90375pt>
+File: ../Images/results/MIR_He_waterDop/results/MIR_HE_water_Signalrate.pdf Gra
+phic file (type pdf)
+<use ../Images/results/MIR_He_waterDop/results/MIR_HE_water_Signalrate.pdf>
+Package pdftex.def Info: ../Images/results/MIR_He_waterDop/results/MIR_HE_water
+_Signalrate.pdf  used on input line 267.
+(pdftex.def)             Requested size: 142.26378pt x 95.23903pt.
+
+Overfull \hbox (14.22508pt too wide) in paragraph at lines 267--267
+[][] 
+ []
+
+<../Images/results/MIR_He_waterDop/results/Nelc_dopp.png, id=1003, 361.35pt x 2
+23.83624pt>
+File: ../Images/results/MIR_He_waterDop/results/Nelc_dopp.png Graphic file (typ
+e png)
+<use ../Images/results/MIR_He_waterDop/results/Nelc_dopp.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterDop/results/Nelc_dopp.pn
+g  used on input line 272.
+(pdftex.def)             Requested size: 142.26378pt x 88.12573pt.
+
+Overfull \hbox (14.22508pt too wide) in paragraph at lines 272--273
+[][] 
+ []
+
+<../Images/results/MIR_He_waterDop/results/Kener_Dopp.png, id=1004, 361.35pt x 
+235.88126pt>
+File: ../Images/results/MIR_He_waterDop/results/Kener_Dopp.png Graphic file (ty
+pe png)
+<use ../Images/results/MIR_He_waterDop/results/Kener_Dopp.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterDop/results/Kener_Dopp.p
+ng  used on input line 278.
+(pdftex.def)             Requested size: 142.26378pt x 92.86794pt.
+
+Overfull \hbox (14.22508pt too wide) in paragraph at lines 278--278
+[][] 
+ []
+
+[65 <../Images/results/MIR_He_waterDop/Energyfit.png>]
+<../Images/results/MIR_He_waterIntensityscan/sigRate.png, id=1012, 578.16pt x 3
+77.41pt>
+File: ../Images/results/MIR_He_waterIntensityscan/sigRate.png Graphic file (typ
+e png)
+<use ../Images/results/MIR_He_waterIntensityscan/sigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/sigRate.pn
+g  used on input line 297.
+(pdftex.def)             Requested size: 170.71652pt x 111.43863pt.
+<../Images/results/MIR_He_waterIntensityscan/binned.png, id=1013, 734.745pt x 3
+80.42125pt>
+File: ../Images/results/MIR_He_waterIntensityscan/binned.png Graphic file (type
+ png)
+<use ../Images/results/MIR_He_waterIntensityscan/binned.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/binned.png
+  used on input line 297.
+(pdftex.def)             Requested size: 213.39566pt x 110.48767pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.303 ...ho= \mu m^{-3}$$ and a radius of R=8 $\mu
+                                                  $m.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[66 <../Images/results/MIR_He_waterDop/results/MIR_HE_water_Signalrate.pdf> <..
+/Images/results/MIR_He_waterDop/results/Nelc_dopp.png (PNG copy)> <../Images/re
+sults/MIR_He_waterDop/results/Kener_Dopp.png (PNG copy)>]
+! Undefined control sequence.
+l.311 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_waterIntensityscan/Helect.png, id=1051, 519.9425pt x 
+354.32375pt>
+File: ../Images/results/MIR_He_waterIntensityscan/Helect.png Graphic file (type
+ png)
+<use ../Images/results/MIR_He_waterIntensityscan/Helect.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/Helect.png
+  used on input line 311.
+(pdftex.def)             Requested size: 170.71393pt x 116.33247pt.
+! Undefined control sequence.
+l.312 \subfloat
+               {\includegraphics[width=8.0cm]{../Images/results/MIR_He_water...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_waterIntensityscan/HEnerg.png, id=1052, 578.16pt x 36
+7.3725pt>
+File: ../Images/results/MIR_He_waterIntensityscan/HEnerg.png Graphic file (type
+ png)
+<use ../Images/results/MIR_He_waterIntensityscan/HEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/HEnerg.png
+  used on input line 312.
+(pdftex.def)             Requested size: 227.62204pt x 144.63126pt.
+! Undefined control sequence.
+l.315 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_waterIntensityscan/Meanelec.png, id=1053, 578.16pt x 
+363.3575pt>
+File: ../Images/results/MIR_He_waterIntensityscan/Meanelec.png Graphic file (ty
+pe png)
+<use ../Images/results/MIR_He_waterIntensityscan/Meanelec.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/Meanelec.p
+ng  used on input line 315.
+(pdftex.def)             Requested size: 170.71393pt x 107.28932pt.
+! Undefined control sequence.
+l.316 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_waterIntensityscan/Meanenerg.png, id=1054, 578.16pt x
+ 354.32375pt>
+File: ../Images/results/MIR_He_waterIntensityscan/Meanenerg.png Graphic file (t
+ype png)
+<use ../Images/results/MIR_He_waterIntensityscan/Meanenerg.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/Meanenerg.
+png  used on input line 316.
+(pdftex.def)             Requested size: 170.71393pt x 104.6219pt.
+[67 <../Images/results/MIR_He_waterIntensityscan/sigRate.png (PNG copy)> <../Im
+ages/results/MIR_He_waterIntensityscan/binned.png (PNG copy)>]
+
+Package caption Warning: \label without proper reference on input line 335.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:pulsepower' on page 68 undefined on input line 33
+0.
+
+[68 <../Images/results/MIR_He_waterIntensityscan/Helect.png (PNG copy)> <../Ima
+ges/results/MIR_He_waterIntensityscan/HEnerg.png (PNG copy)> <../Images/results
+/MIR_He_waterIntensityscan/Meanelec.png (PNG copy)> <../Images/results/MIR_He_w
+aterIntensityscan/Meanenerg.png (PNG copy)>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 333.
+
+
+LaTeX Warning: Reference `fig:sigenergdistpulse' on page 69 undefined on input 
+line 347.
+
+[69]
+<../Images/results/MIR_He_pulsescan/raw/signalrate.png, id=1073, 578.16pt x 380
+.42125pt>
+File: ../Images/results/MIR_He_pulsescan/raw/signalrate.png Graphic file (type 
+png)
+<use ../Images/results/MIR_He_pulsescan/raw/signalrate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/signalrate.png 
+ used on input line 355.
+(pdftex.def)             Requested size: 170.71652pt x 112.32777pt.
+<../Images/results/MIR_He_pulsescan/raw/binned.png, id=1074, 760.8425pt x 357.3
+35pt>
+File: ../Images/results/MIR_He_pulsescan/raw/binned.png Graphic file (type png)
+
+<use ../Images/results/MIR_He_pulsescan/raw/binned.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/binned.png  use
+d on input line 355.
+(pdftex.def)             Requested size: 239.00298pt x 112.25032pt.
+
+! Undefined control sequence.
+l.368 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_pulsescan/raw/histoElec.png, id=1077, 578.16pt x 350.
+30875pt>
+File: ../Images/results/MIR_He_pulsescan/raw/histoElec.png Graphic file (type p
+ng)
+<use ../Images/results/MIR_He_pulsescan/raw/histoElec.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/histoElec.png  
+used on input line 368.
+(pdftex.def)             Requested size: 170.71393pt x 103.4364pt.
+! Undefined control sequence.
+l.369 \subfloat
+               {\includegraphics[width=7.5cm]{../Images/results/MIR_He_pulse...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_pulsescan/raw/histoEnergc.png, id=1078, 735.74875pt x
+ 366.36874pt>
+File: ../Images/results/MIR_He_pulsescan/raw/histoEnergc.png Graphic file (type
+ png)
+<use ../Images/results/MIR_He_pulsescan/raw/histoEnergc.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/histoEnergc.png
+  used on input line 369.
+(pdftex.def)             Requested size: 213.39566pt x 106.26097pt.
+! Undefined control sequence.
+l.371 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_pulsescan/raw/meanelect.png, id=1079, 578.16pt x 358.
+33875pt>
+File: ../Images/results/MIR_He_pulsescan/raw/meanelect.png Graphic file (type p
+ng)
+<use ../Images/results/MIR_He_pulsescan/raw/meanelect.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/meanelect.png  
+used on input line 371.
+(pdftex.def)             Requested size: 170.71393pt x 105.80743pt.
+! Undefined control sequence.
+l.372 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_pulsescan/raw/meanenergt.png, id=1080, 578.16pt x 365
+.365pt>
+File: ../Images/results/MIR_He_pulsescan/raw/meanenergt.png Graphic file (type 
+png)
+<use ../Images/results/MIR_He_pulsescan/raw/meanenergt.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/meanenergt.png 
+ used on input line 372.
+(pdftex.def)             Requested size: 170.71393pt x 107.88208pt.
+
+Package caption Warning: \label without proper reference on input line 389.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:dopXeCa' on page 70 undefined on input line 385.
+
+[70 <../Images/results/MIR_He_pulsescan/raw/signalrate.png (PNG copy)> <../Imag
+es/results/MIR_He_pulsescan/raw/binned.png (PNG copy)>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 388.
+
+
+Package caption Warning: \label without proper reference on input line 408.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:HeXECAall' on page 71 undefined on input line 404
+.
+
+[71 <../Images/results/MIR_He_pulsescan/raw/histoElec.png (PNG copy)> <../Image
+s/results/MIR_He_pulsescan/raw/histoEnergc.png (PNG copy)> <../Images/results/M
+IR_He_pulsescan/raw/meanelect.png (PNG copy)> <../Images/results/MIR_He_pulsesc
+an/raw/meanenergt.png (PNG copy)>]
+! Undefined control sequence.
+l.412 \subfloat
+               {\includegraphics[width=0.33\textwidth]{../Images/results/MIR...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/binned.png, id=1096, 578.16pt x 363.3575pt>
+File: ../Images/results/MIR_He_XeCaDop/binned.png Graphic file (type png)
+<use ../Images/results/MIR_He_XeCaDop/binned.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/binned.png  used on i
+nput line 412.
+(pdftex.def)             Requested size: 140.84192pt x 88.5105pt.
+! Undefined control sequence.
+l.412 ...lts/MIR_He_XeCaDop/binned.png}} \subfloat
+                                                  {\includegraphics[width=0....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/histoElectr.png, id=1097, 519.9425pt x 343.28
+25pt>
+File: ../Images/results/MIR_He_XeCaDop/histoElectr.png Graphic file (type png)
+<use ../Images/results/MIR_He_XeCaDop/histoElectr.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/histoElectr.png  used
+ on input line 412.
+(pdftex.def)             Requested size: 128.0387pt x 84.53185pt.
+! Undefined control sequence.
+l.412 ...MIR_He_XeCaDop/histoElectr.png}}\subfloat
+                                                  {\includegraphics[width=0....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/histoEnerg.png, id=1098, 519.9425pt x 327.222
+5pt>
+File: ../Images/results/MIR_He_XeCaDop/histoEnerg.png Graphic file (type png)
+<use ../Images/results/MIR_He_XeCaDop/histoEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/histoEnerg.png  used 
+on input line 412.
+(pdftex.def)             Requested size: 128.0387pt x 80.57713pt.
+! Missing } inserted.
+<inserted text> 
+                }
+l.415 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[72 <../Images/results/MIR_He_XeCaDop/binned.png (PNG copy)> <../Images/results
+/MIR_He_XeCaDop/histoElectr.png (PNG copy)> <../Images/results/MIR_He_XeCaDop/h
+istoEnerg.png (PNG copy)>]
+! Undefined control sequence.
+l.427 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png, id=1107, 654.445
+pt x 614.295pt>
+File: ../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png Graphic file
+ (type png)
+<use ../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationSignalRa
+te.png  used on input line 427.
+(pdftex.def)             Requested size: 170.71393pt x 160.23784pt.
+! Undefined control sequence.
+l.427 ...polationSignalRate.png}}\hfill  \subfloat
+                                                  {\includegraphics[width=0....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png, id=1108, 578.16
+pt x 378.41376pt>
+File: ../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png Graphic fil
+e (type png)
+<use ../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationSignalRa
+te2.png  used on input line 427.
+(pdftex.def)             Requested size: 204.85802pt x 134.08087pt.
+! Missing } inserted.
+<inserted text> 
+                }
+l.431 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Package caption Warning: \label without proper reference on input line 452.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:HeXECA-Emax' on page 73 undefined on input line 4
+34.
+
+! Undefined control sequence.
+l.443 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/interpolationE.png, id=1112, 698.61pt x 619.3
+1375pt>
+File: ../Images/results/MIR_He_XeCaDop/interpolationE.png Graphic file (type pn
+g)
+<use ../Images/results/MIR_He_XeCaDop/interpolationE.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationE.png  u
+sed on input line 443.
+(pdftex.def)             Requested size: 170.71393pt x 151.33157pt.
+! Undefined control sequence.
+l.443 ...Dop/interpolationE.png}}\hfill  \subfloat
+                                                  {\includegraphics[width=0....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/interpolationE2.png, id=1113, 578.16pt x 369.
+38pt>
+File: ../Images/results/MIR_He_XeCaDop/interpolationE2.png Graphic file (type p
+ng)
+<use ../Images/results/MIR_He_XeCaDop/interpolationE2.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationE2.png  
+used on input line 443.
+(pdftex.def)             Requested size: 204.85802pt x 130.87999pt.
+! Missing } inserted.
+<inserted text> 
+                }
+l.447 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[73 <../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png (PNG copy)> <
+../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png (PNG copy)>]
+! Undefined control sequence.
+l.456 \subfloat
+               {\includegraphics[width=0.4\textwidth]{../Images/results/MIR_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/interpolationMax.png, id=1121, 701.62125pt x 
+623.32875pt>
+File: ../Images/results/MIR_He_XeCaDop/interpolationMax.png Graphic file (type 
+png)
+<use ../Images/results/MIR_He_XeCaDop/interpolationMax.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationMax.png 
+ used on input line 456.
+(pdftex.def)             Requested size: 170.71393pt x 151.66588pt.
+! Undefined control sequence.
+l.456 ...p/interpolationMax.png}}\hfill  \subfloat
+                                                  {\includegraphics[width=0....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_He_XeCaDop/interpolationMax2.png, id=1122, 578.16pt x 37
+4.39874pt>
+File: ../Images/results/MIR_He_XeCaDop/interpolationMax2.png Graphic file (type
+ png)
+<use ../Images/results/MIR_He_XeCaDop/interpolationMax2.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationMax2.png
+  used on input line 456.
+(pdftex.def)             Requested size: 204.85802pt x 132.65825pt.
+! Missing } inserted.
+<inserted text> 
+                }
+l.459 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[74 <../Images/results/MIR_He_XeCaDop/interpolationE.png (PNG copy)> <../Images
+/results/MIR_He_XeCaDop/interpolationE2.png (PNG copy)>]
+<../Images/Raw MIR NEon samples.png, id=1127, 978.054pt x 277.838pt>
+File: ../Images/Raw MIR NEon samples.png Graphic file (type png)
+<use ../Images/Raw MIR NEon samples.png>
+Package pdftex.def Info: ../Images/Raw MIR NEon samples.png  used on input line
+ 473.
+(pdftex.def)             Requested size: 426.79135pt x 121.2401pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[75 <../Images/results/MIR_He_XeCaDop/interpolationMax.png (PNG copy)> <../Imag
+es/results/MIR_He_XeCaDop/interpolationMax2.png (PNG copy)>]
+<../Images/results/MIR_Ne_XeDop_39K/SigRate.png, id=1136, 702.625pt x 448.67625
+pt>
+File: ../Images/results/MIR_Ne_XeDop_39K/SigRate.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/SigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/SigRate.png  used o
+n input line 489.
+(pdftex.def)             Requested size: 170.71652pt x 109.01266pt.
+<../Images/results/MIR_Ne_XeDop_39K/binned.png, id=1137, 710.655pt x 355.3275pt
+>
+File: ../Images/results/MIR_Ne_XeDop_39K/binned.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/binned.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/binned.png  used on
+ input line 489.
+(pdftex.def)             Requested size: 210.55022pt x 105.27612pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[76 <../Images/Raw MIR NEon samples.png>]
+! Undefined control sequence.
+l.503 \subfloat
+               {\includegraphics[width=0.35\textwidth]{../Images/results/MIR...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png, id=1145, 578.16pt x 354.3237
+5pt>
+File: ../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png  used
+ on input line 503.
+(pdftex.def)             Requested size: 149.37958pt x 91.54349pt.
+<../Images/results/MIR_Ne_XeDop_39K/HEnergc.png, id=1146, 710.655pt x 366.36874
+pt>
+File: ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png  used o
+n input line 504.
+(pdftex.def)             Requested size: 170.71393pt x 88.00854pt.
+! Undefined control sequence.
+l.508 \subfloat
+               {\includegraphics[width=0.35\textwidth]{../Images/results/MIR...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_Ne_XeDop_39K/MeanElec.png, id=1147, 578.16pt x 358.33875
+pt>
+File: ../Images/results/MIR_Ne_XeDop_39K/MeanElec.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/MeanElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/MeanElec.png  used 
+on input line 508.
+(pdftex.def)             Requested size: 149.37958pt x 92.58081pt.
+<../Images/results/MIR_Ne_XeDop_39K/HElec.png, id=1148, 710.655pt x 375.4025pt>
+
+File: ../Images/results/MIR_Ne_XeDop_39K/HElec.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/HElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/HElec.png  used on 
+input line 509.
+(pdftex.def)             Requested size: 170.71393pt x 90.17863pt.
+[77 <../Images/results/MIR_Ne_XeDop_39K/SigRate.png (PNG copy)> <../Images/resu
+lts/MIR_Ne_XeDop_39K/binned.png (PNG copy)>]
+<../Images/results/MIR_Ne_DropletSize/SigRate.png, id=1155, 702.625pt x 458.713
+75pt>
+File: ../Images/results/MIR_Ne_DropletSize/SigRate.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_DropletSize/SigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/SigRate.png  used
+ on input line 527.
+(pdftex.def)             Requested size: 170.71652pt x 111.45143pt.
+<../Images/results/MIR_Ne_DropletSize/binned.png, id=1156, 669.50125pt x 372.39
+125pt>
+File: ../Images/results/MIR_Ne_DropletSize/binned.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_DropletSize/binned.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/binned.png  used 
+on input line 527.
+(pdftex.def)             Requested size: 210.55022pt x 117.11066pt.
+ [78 <../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png (PNG copy)> <../Images/r
+esults/MIR_Ne_XeDop_39K/HEnergc.png (PNG copy)> <../Images/results/MIR_Ne_XeDop
+_39K/MeanElec.png (PNG copy)> <../Images/results/MIR_Ne_XeDop_39K/HElec.png (PN
+G copy)>]
+! Undefined control sequence.
+l.539 \subfloat
+               {\includegraphics[width=0.35\textwidth]{../Images/results/MIR...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_Ne_DropletSize/MeanEnerg.png, id=1164, 578.16pt x 366.36
+874pt>
+File: ../Images/results/MIR_Ne_DropletSize/MeanEnerg.png Graphic file (type png
+)
+<use ../Images/results/MIR_Ne_DropletSize/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/MeanEnerg.png  us
+ed on input line 539.
+(pdftex.def)             Requested size: 149.37958pt x 94.65546pt.
+<../Images/results/MIR_Ne_DropletSize/HEnergc.png, id=1165, 669.50125pt x 366.3
+6874pt>
+File: ../Images/results/MIR_Ne_DropletSize/HEnergc.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_DropletSize/HEnergc.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/HEnergc.png  used
+ on input line 540.
+(pdftex.def)             Requested size: 170.71393pt x 93.42pt.
+! Undefined control sequence.
+l.544 \subfloat
+               {\includegraphics[width=0.35\textwidth]{../Images/results/MIR...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../Images/results/MIR_Ne_DropletSize/MeanElec.png, id=1166, 578.16pt x 364.361
+25pt>
+File: ../Images/results/MIR_Ne_DropletSize/MeanElec.png Graphic file (type png)
+
+<use ../Images/results/MIR_Ne_DropletSize/MeanElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/MeanElec.png  use
+d on input line 544.
+(pdftex.def)             Requested size: 149.37958pt x 94.1368pt.
+<../Images/results/MIR_Ne_DropletSize/HElec.png, id=1167, 669.50125pt x 375.402
+5pt>
+File: ../Images/results/MIR_Ne_DropletSize/HElec.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_DropletSize/HElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/HElec.png  used o
+n input line 545.
+(pdftex.def)             Requested size: 170.71393pt x 95.7235pt.
+[79 <../Images/results/MIR_Ne_DropletSize/SigRate.png (PNG copy)> <../Images/re
+sults/MIR_Ne_DropletSize/binned.png (PNG copy)> <../Images/results/MIR_Ne_Dropl
+etSize/MeanEnerg.png (PNG copy)> <../Images/results/MIR_Ne_DropletSize/HEnergc.
+png (PNG copy)> <../Images/results/MIR_Ne_DropletSize/MeanElec.png (PNG copy)> 
+<../Images/results/MIR_Ne_DropletSize/HElec.png (PNG copy)>]
+<../Images/results/MIR_Ne_pulseduration/SigRate.png, id=1177, 578.16pt x 466.74
+374pt>
+File: ../Images/results/MIR_Ne_pulseduration/SigRate.png Graphic file (type png
+)
+<use ../Images/results/MIR_Ne_pulseduration/SigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/SigRate.png  us
+ed on input line 579.
+(pdftex.def)             Requested size: 170.71652pt x 137.8164pt.
+<../Images/results/MIR_Ne_pulseduration/binned.png, id=1178, 705.63625pt x 370.
+38374pt>
+File: ../Images/results/MIR_Ne_pulseduration/binned.png Graphic file (type png)
+
+<use ../Images/results/MIR_Ne_pulseduration/binned.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/binned.png  use
+d on input line 579.
+(pdftex.def)             Requested size: 210.55022pt x 110.5169pt.
+
+
+! Package caption Error: farskip undefined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.595 \begin{subfigure}[l]{1\textwidth}
+                                       
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package caption Error: captionskip undefined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.595 \begin{subfigure}[l]{1\textwidth}
+                                       
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<../Images/results/MIR_Ne_pulseduration/MeanEnerg.png, id=1180, 578.16pt x 362.
+35374pt>
+File: ../Images/results/MIR_Ne_pulseduration/MeanEnerg.png Graphic file (type p
+ng)
+<use ../Images/results/MIR_Ne_pulseduration/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/MeanEnerg.png  
+used on input line 596.
+(pdftex.def)             Requested size: 209.1301pt x 131.0665pt.
+<../Images/results/MIR_Ne_pulseduration/HEnerg.png, id=1181, 578.16pt x 363.357
+5pt>
+File: ../Images/results/MIR_Ne_pulseduration/HEnerg.png Graphic file (type png)
+
+<use ../Images/results/MIR_Ne_pulseduration/HEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/HEnerg.png  use
+d on input line 597.
+(pdftex.def)             Requested size: 209.1301pt x 131.42957pt.
+
+! Package caption Error: farskip undefined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.599 \begin{subfigure}[l]{1\textwidth}
+                                       
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package caption Error: captionskip undefined.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.599 \begin{subfigure}[l]{1\textwidth}
+                                       
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<../Images/results/MIR_Ne_pulseduration/MeanElec.png, id=1182, 578.16pt x 378.4
+1376pt>
+File: ../Images/results/MIR_Ne_pulseduration/MeanElec.png Graphic file (type pn
+g)
+<use ../Images/results/MIR_Ne_pulseduration/MeanElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/MeanElec.png  u
+sed on input line 600.
+(pdftex.def)             Requested size: 209.1301pt x 136.87555pt.
+<../Images/results/MIR_Ne_pulseduration/HElec.png, id=1183, 578.16pt x 376.4062
+5pt>
+File: ../Images/results/MIR_Ne_pulseduration/HElec.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_pulseduration/HElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/HElec.png  used
+ on input line 601.
+(pdftex.def)             Requested size: 209.1301pt x 136.14941pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[80] [81 <../Images/results/MIR_Ne_pulseduration/SigRate.png (PNG copy)> <../Im
+ages/results/MIR_Ne_pulseduration/binned.png (PNG copy)> <../Images/results/MIR
+_Ne_pulseduration/MeanEnerg.png (PNG copy)> <../Images/results/MIR_Ne_pulsedura
+tion/HEnerg.png (PNG copy)> <../Images/results/MIR_Ne_pulseduration/MeanElec.pn
+g (PNG copy)> <../Images/results/MIR_Ne_pulseduration/HElec.png (PNG copy)>])
+[82] (MSc_CristianMedina.lof [83
+
 
 ]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.160 \newblock DOI 10.1007/978--3--642--56800--8_
+l.47 ...ergy distribution}}{65}{figure.caption.50}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<argument> ...respaces He_h2O energy distribution}
+                                                  }\hyper@linkend \nobreak {...
+l.47 ...ergy distribution}}{65}{figure.caption.50}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+<argument> ...espaces He_h2O energy distribution}}
+                                                  \hyper@linkend \nobreak {\...
+l.47 ...ergy distribution}}{65}{figure.caption.50}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.47 ...ergy distribution}}{65}{figure.caption.50}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.47 ...ergy distribution}}{65}{figure.caption.50}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.47 ...ergy distribution}}{65}{figure.caption.50}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[84])
+\tf@lof=\write6
+\openout6 = `MSc_CristianMedina.lof'.
+
+ [85] (MSc_CristianMedina.lot)
+\tf@lot=\write7
+\openout7 = `MSc_CristianMedina.lot'.
+
+ (MSc_CristianMedina.bbl [86
+
+]
+chapter 5.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 12.
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 \newblock DOI 10.1007/978--0--387--73715--7_
+                                                 3, S. 71--92
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.55 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.55 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
+("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+
+[87
+
+] [88]
+
+! Package inputenc Error: Unicode char ̈ (U+308)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 ...Rubidium}-dotierten Helium-Nanotropfchen}
+                                                  .
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 167--172
+[]\T1/cmr/m/sc/12 Fechner\T1/cmr/m/n/12 , L. :  \T1/cmr/m/it/12 Auf-bau eines V
+elocity-Map-Imaging-Spektrometersund
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 167--172
+\T1/cmr/m/it/12 winke-laufgel oste Spek-troskopie anRubidium-dotierten Helium-N
+anotropfchen\T1/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--172
+[]$\T1/cmtt/m/n/12 http : / / hacol13 . physik . uni -[] freiburg . de / fp / V
+ersuche / FP2 / FP2 -[] 21 -[]
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.194 \newblock DOI 10.1007/978--3--642--56800--8_
                                                   57. --
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2460,7 +3169,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.162 
+l.196 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2468,7 +3177,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.162 
+l.196 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2476,11 +3185,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[55]
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.162 
+l.196 
       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2488,7 +3196,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-[56]
+[89]
 
 ! Package inputenc Error: Unicode char λ (U+3BB)
 (inputenc)                not set up for use with LaTeX.
@@ -2497,19 +3205,19 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 ...k Viscosity of Liquid Helium below the λ
+l.294 ...k Viscosity of Liquid Helium below the λ
                                                   -Point.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 364--368
+[90] [91]
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
 []$\T1/cmtt/m/n/12 https : / / www . pks . mpg . de / mpi -[] doc / rostgruppe 
 / dissertation / mikaberidze _
  []
 
-[58] [59]
+[92]
 
 ! Package inputenc Error: Unicode char ∕ (U+2215)
 (inputenc)                not set up for use with LaTeX.
@@ -2518,123 +3226,102 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.482   self-assembled free, mixed Ar∕
+l.544   self-assembled free, mixed Ar∕
                                         Xe clusters.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 2790) in paragraph at lines 520--526
+[93]
+Underfull \hbox (badness 2790) in paragraph at lines 609--615
 []\T1/cmr/m/sc/12 Weinberger\T1/cmr/m/n/12 , P. :  The dis-cov-ery of ther-mo-d
 y-nam-ics.  93, Nr. 20,
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 520--526
+Underfull \hbox (badness 2689) in paragraph at lines 609--615
 \T1/cmr/m/n/12 2576--2612.  []$\T1/cmtt/m/n/12 http : / / dx . doi . org / 10 .
  1080 / 14786435 . 2013 . 784402$[]\T1/cmr/m/n/12 . --  DOI
  []
 
-[60]) [61] [62
+[94]
+
+! Package inputenc Error: Unicode char   (U+2009)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.650 \newblock Femtochemistry: 
+                                   Atomic-Scale Dynamics of the Chemical Bond.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [95] [96
 
 ]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.183 \\
-        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.184 \\
-        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.185 O
-       rt, Datum ............................... \ \ \ \ \ \ \ \ \ \ \ \ \ \...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[63]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
- (MSc_CristianMedina.aux (Introduction.aux) (Theorie.aux) (expset.aux)
-(Methods.aux) (Messungen.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+ [97]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
+ (MSc_CristianMedina.aux (Introduction.aux) (Theorie.aux)
+(expset.aux) (Methods.aux) (Results.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `MSc_CristianMedina.out' has not changed.
-(rerunfilecheck)             Checksum: 51F95F1D2F99A27EA569F8A7ED6CFEA7;2305.
+(rerunfilecheck)             Checksum: B9A1FD27270950910008A10EF2B0EE6B;3704.
 
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35976 strings out of 493305
- 700830 string characters out of 3130238
- 836096 words of memory out of 3000000
- 38708 multiletter control sequences out of 15000+200000
- 550070 words of font info for 64 fonts, out of 3000000 for 9000
+ 26979 strings out of 493305
+ 509748 string characters out of 3130238
+ 661105 words of memory out of 3000000
+ 29808 multiletter control sequences out of 15000+200000
+ 552860 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,15n,71p,9099b,929s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,16n,71p,9099b,929s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 crm0800.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\eccc1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
 nappen\ec\dpi600\ectt1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\nano\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\nano\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\nan
-o\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\
-Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2488
+ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\nano\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\nano\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\nan
+o\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\
+Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200
 .pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecbx2488.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecrm2074.pk><C:/Users/nano/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nano/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nano/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/
-Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr6.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/nano/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nano/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/nano/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><
-C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/sym
-bols/msbm10.pfb>
-Output written on MSc_CristianMedina.pdf (63 pages, 3757146 bytes).
+\ecsx2488.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx2488.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074.pk><C:/Users/nano/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nano/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Us
+ers/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nano/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nano/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/nano/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
+/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/latxfont/line10.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/nano/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on MSc_CristianMedina.pdf (97 pages, 8022574 bytes).
 PDF statistics:
- 1561 PDF objects out of 1728 (max. 8388607)
- 254 named destinations out of 1000 (max. 500000)
- 412 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2129 PDF objects out of 2487 (max. 8388607)
+ 357 named destinations out of 1000 (max. 500000)
+ 876 words of extra memory for PDF output out of 10000 (max. 10000000)
 

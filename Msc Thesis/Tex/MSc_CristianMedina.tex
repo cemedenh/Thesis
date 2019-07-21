@@ -22,7 +22,7 @@
 \usepackage{booktabs,array}
 \newcolumntype{N}{>{\bfseries\footnotesize}l}
 \usepackage[table,xcdraw]{xcolor}
-\usepackage{subfigure}
+\usepackage{caption}
 \usepackage{subcaption}
 \usepackage{grffile}
 \usepackage{xcolor}
@@ -31,7 +31,9 @@
 \usepackage{fancyhdr}
 \usepackage{amssymb}
 \usepackage{floatflt}
-\usepackage{tikz}
+\usepackage{slashbox}
+
+%\usepackage{tikz}
 \newcommand{\circled}[2][]{
             \tikz[baseline=(char.base)]{
             \node[shape=circle,draw,inner sep=0.2pt] 
@@ -65,8 +67,8 @@
 %\fancyfoot[L]{\textsf{\small \kurztitel}}
 
 
-\newcommand{\titel}{Single Shot correlation in VMI- TOF measurements on He  nanodroplets at MIR femtosecond laser pulses}
-\newcommand{\welchethesis}{To Applied for the Grade of Master of Science in Applied Physics}
+\newcommand{\titel}{Single Shot electron velocity imaging and ion Time of flight measuments of He and Ne clusters under strong Mid-Infrared laser field.}
+\newcommand{\welchethesis}{Thesis for Master of Science in Applied Physics}
 \newcommand{\thesisofwas}{Thesis}
 \newcommand{\welchesInstitute}{Faculty of Physics}
 \newcommand{\welcheUni}{Albert-Ludwigs-Universität Freiburg}
@@ -75,7 +77,7 @@
 
 \newcommand{\kurztitel}{Template Abschlussarbeit}
 \newcommand{\autor}{Cristian Enrique Medina Hernandez}
-\newcommand{\datee}{15. febrary 2019} % Abgabedatum
+\newcommand{\datee}{12. Augost 2019} % Abgabedatum
 \newcommand{\place}{Freiburg}
 \newcommand{\referent}{ Prof.\ Dr.\ Marcel\ Mudrich and Prof.\ Dr.\ Frank\ Stinkermeier  } 
 
@@ -118,9 +120,13 @@
 
 \chapter*{Abstract}
 
-In this thesis a new data acquisition method is explained  for correlate single shot VMI-TOF measurements on He droplets ionized by a MIR femtosecond laser.  Until now VMI images and TOF data are always treated in a statistical way. Whit these new method we expect to have some better correlation for single explosion and relate each of the event from a  individual way, having specific information that could be lost in the statistical method.
-The correlated data is acquired by triggering the VMI camera and the TOF oscilloscope with the laser trigger, so both acquisitions begging and end after the same laser pulse. Results for the energies..............here a resumy of the results..........
+In this thesis a new data acquisition method is explained  for correlate single shot VMI-TOF measurements on doped Helium and Neon droplets ionized by a MIR femtosecond laser. Until now, VMI images have been always treated in a statistical way. With our method we analyzed electron velocity map images for single coulomb explosion of He and Ne clusters under strong MIR fields. 
+We analyzed the maximal kinetic energy distribution that shows a strong dependency to the collected number of electrons and at certain conditions it can be modeled as a homogeneously charge spherical electronic cloud, where the electron in the perimeter of the sphere will determine the maximal kinetic energy in the explosion. This thesis, present the measurements and comparison of different noble gases under Mid and near-Infrared laser pulses doped with Xe,non, Calcium, Argon and water.
 
+We demonstrate that exist a laser intensity threshold necessary to start an optimal coulomb explosion. Moreover, the efficiency of the plasma formation present a strong relation to the cluster size and the doping level. On one hand, the smallest droplets were more difficult to ignite, On the other hand, there exist an optimum doping level to efficiently start the plasma formation independent of the dopant element. Furthermore, the laser pulse duration on contrary to the laser intensity, shows an important role in the ignition of the smaller droplets, while the total intensity decrease with the pulses length, at more duration it increase the signal counts autonomously the power, meaning that the number of cycles interacting with the the ionized electrons at the beginning of the process are fundamental to the plasma formation.
+The cluster element didn't show to have an important function in the plasma creation other than characterize the cluster size, same for the clusters doped with just one single dopant element. On contrary, when we used a combination on Xenon and Calcium, it was clear that exist an optimum mix of atoms where the replacement of a few Xe atom for Ca improve the signal count up to the double.
+
+ 
 \newpage
 
 \tableofcontents
@@ -161,7 +167,7 @@ The correlated data is acquired by triggering the VMI camera and the TOF oscillo
 \newpage
 \include{Methods}
 \newpage
-\include{Messungen}
+\include{Results}
 \newpage
 
 \listoffigures
@@ -179,11 +185,8 @@ An dieser Stelle Danke
 \newpage
 \section*{Erklärung}
 
-\\
-\\
-\\
 Ort, Datum ............................... \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 Unterschrift ................................
  
 \end{document}
-
+	
