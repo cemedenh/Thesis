@@ -2,49 +2,49 @@
 \contentsline {section}{\numberline {0.1}Introduction}{6}{section.0.1}
 \contentsline {chapter}{\numberline {1}Theoretical Background}{8}{chapter.1}
 \contentsline {section}{\numberline {1.1}Helium Nanodroplets}{8}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}General properties of Helium}{9}{subsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1.1}Helium Droplets}{9}{subsubsection.1.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1.2}Composite Clusters}{14}{subsubsection.1.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.1.3}Composite Clusters}{14}{subsubsection.1.1.1.3}
-\contentsline {section}{\numberline {1.2}Neon Nanodroplets}{16}{section.1.2}
-\contentsline {section}{\numberline {1.3}Cluster-Intense Fields Interaction}{17}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}PhotoIonization for single atoms}{18}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Multiphoton and Tunneling Ionization}{20}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Keldish Theory}{22}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Ponderomative energy}{23}{subsection.1.3.4}
-\contentsline {subsection}{\numberline {1.3.5}Cluster Ionization}{24}{subsection.1.3.5}
-\contentsline {subsubsection}{\numberline {1.3.5.1}Cluster expansion}{26}{subsubsection.1.3.5.1}
-\contentsline {section}{\numberline {1.4}VMI spectrometer}{28}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Velocity distribution in VMI}{28}{subsection.1.4.1}
-\contentsline {chapter}{\numberline {2}Experimental setup}{31}{chapter.2}
-\contentsline {section}{\numberline {2.1}Source chamber}{31}{section.2.1}
-\contentsline {section}{\numberline {2.2}Doping chamber}{33}{section.2.2}
+\contentsline {subsection}{\numberline {1.1.1}General Properties of Helium}{9}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Helium Droplets}{9}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Neon Clusters}{14}{section.1.2}
+\contentsline {section}{\numberline {1.3}Composite Clusters}{16}{section.1.3}
+\contentsline {section}{\numberline {1.4}Cluster-Intense Fields Interaction}{17}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Photoionization for single atoms}{18}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Multiphoton and Tunnelling Ionization}{20}{subsection.1.4.2}
+\contentsline {subsubsection}{\nonumberline Keldysh Theory}{22}{section*.14}
+\contentsline {subsubsection}{\nonumberline Ponderomative Energy}{23}{section*.15}
+\contentsline {subsection}{\numberline {1.4.3}Cluster Ionization}{24}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Homogeneous Charge Sphere Model}{28}{subsection.1.4.4}
+\contentsline {chapter}{\numberline {2}Experimental Setup}{31}{chapter.2}
+\contentsline {section}{\numberline {2.1}Source Chamber}{31}{section.2.1}
+\contentsline {section}{\numberline {2.2}Doping Chamber}{33}{section.2.2}
 \contentsline {section}{\numberline {2.3}Detection chamber}{35}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Velocity map imaging VMI}{35}{subsection.2.3.1}
-\contentsline {section}{\numberline {2.4}Time of flight spectrometer}{36}{section.2.4}
-\contentsline {section}{\numberline {2.5}Lt detector}{38}{section.2.5}
-\contentsline {chapter}{\numberline {3}Acquisition and calibration methods.}{39}{chapter.3}
-\contentsline {section}{\numberline {3.1}Camera and trigger protocol}{39}{section.3.1}
-\contentsline {section}{\numberline {3.2}Calibration methods}{42}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}VMI calibration}{42}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Laser intensity calibration}{44}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Data Analysis}{45}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Event Recognition}{45}{subsection.3.3.1}
-\contentsline {section}{\numberline {3.4}Coulomb Explosion Model}{49}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}The Islam et al. Model}{49}{subsection.3.4.1}
-\contentsline {chapter}{\numberline {4}Results and Discussion}{52}{chapter.4}
-\contentsline {section}{\numberline {4.1}Helium nanoplasma under NIR Fields}{53}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}NIR. He Droplet Intensity scan.}{55}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}NIR. He Droplet size dependant.}{57}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Helium nanoplasma under MIR Fields}{59}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}MIR. Helium Droplet size dependence.}{60}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}MIR. Helium-Argon doped.}{63}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}MIR. Helium-Water scan.}{64}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}MIR. Helium-Water Intensity scan.}{66}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}MIR. Helium Pulse duration dependency}{69}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}MIR. Helium-Xenon-Calcium doping scan}{70}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Neon nanoplasma under Mid-Infrared}{75}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}MIR. Neon-Xenon doping scan}{76}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}MIR. Neon cluster size scan}{78}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}MIR. Neon pulse scan}{80}{subsection.4.3.3}
-\contentsline {chapter}{\numberline {5}Bibliography}{87}{chapter.5}
+\contentsline {subsection}{\numberline {2.3.1}Velocity Map Imaging Spectrometer}{35}{subsection.2.3.1}
+\contentsline {subsubsection}{\nonumberline Velocity distribution in VMI}{35}{section*.22}
+\contentsline {subsubsection}{\nonumberline VMI Parameters}{37}{section*.25}
+\contentsline {subsection}{\numberline {2.3.2}Time of Flight Spectrometer}{39}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}LT Detector}{40}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}Data Acquisition and Calibration Methods.}{41}{chapter.3}
+\contentsline {section}{\numberline {3.1}Camera and Trigger Protocol}{41}{section.3.1}
+\contentsline {section}{\numberline {3.2}Calibration Methods}{45}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}VMI calibration}{45}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Laser Intensity Calibration}{47}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Data Analysis}{47}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Event Recognition}{48}{subsection.3.3.1}
+\contentsline {chapter}{\numberline {4}Results}{52}{chapter.4}
+\contentsline {section}{\numberline {4.1}Helium Nanoplasma in NIR Fields}{53}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Laser Parameter Dependence}{54}{subsection.4.1.1}
+\contentsline {subsubsection}{\nonumberline He Droplet Intensity Dependence.}{55}{section*.43}
+\contentsline {subsection}{\numberline {4.1.2}He Droplet size dependant.}{57}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Helium Nanoplasma in MIR Fields}{59}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Helium Droplet Size Dependence.}{60}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Doping Dependence}{63}{subsection.4.2.2}
+\contentsline {subsubsection}{\nonumberline Helium-Argon Doping.}{64}{section*.55}
+\contentsline {subsubsection}{\nonumberline Helium-Water Doping.}{66}{section*.58}
+\contentsline {subsubsection}{\nonumberline Helium-Xenon-Calcium Doping}{67}{section*.61}
+\contentsline {subsection}{\numberline {4.2.3}Laser parameter Dependence}{70}{subsection.4.2.3}
+\contentsline {subsubsection}{\nonumberline Helium-Water Intensity Dependence}{71}{section*.66}
+\contentsline {subsubsection}{\nonumberline Helium Pulse Duration Dependence}{73}{section*.69}
+\contentsline {section}{\numberline {4.3}Neon Nanoplasma in Mid-Infrared}{75}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Doping Dependence}{77}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}cluster Size Dependence}{79}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Neon Pulse Duration Dependence}{80}{subsection.4.3.3}
+\contentsline {chapter}{\numberline {5}Bibliography}{88}{chapter.5}

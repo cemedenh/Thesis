@@ -2,7 +2,7 @@
 % !TeX spellcheck = en_US 
 \chapter{Theoretical Background}
 
-In this chapter we will present all the theoretical background necessary for the development of this project, from the creation and behavior of the Helium and Neon droplets to the theory of the plasma formation and the coulomb explosion processes. In order to guide the reader in an organized way, the sections are organized in the same order the experiment is performed.
+In this chapter we will present all the theoretical background necessary for the development of this project, from the creation and behaviour of the Helium and Neon droplets to the theory of the plasma formation and the coulomb explosion processes. In order to guide the reader in an organized way, the sections are organized in the same order the experiment is performed.
 
 
 \section{Helium Nanodroplets}
@@ -14,7 +14,7 @@ The size of a Helium cluster can be up to $10^{8}$ atoms, and reach the ultra-co
 Two main advantages of this cooling properties arise. First, dopants in the helium nanodroplet are set to their absolute vibronic ground states, avoiding other possible spectra and establishing the cluster in a specific state. Second, the fast cooling helps in the formation of isomers that are difficult or impossible to generate with other methods \cite{nauta_nonequilibrium_1999}. Third, because the superfluid phase of the helium \cite{grebenev_superfluidity_1998}, the bond between dopants and helium is weak. Therefore, in contrast to spectroscopy in other matrices with higher temperatures, the optical transitions of many dopants are barely influenced by the helium matrix \cite{toennies_superfluid_2004}. 
 The theory of He super fluidity will not be part of this section, this information is well documented in other sources, and here we are based on ref.\cite{enss_low-temperature_2005} where all theory is well presented to the reader. In the next section we will dedicate a bigger effort to explain the theoretical and technical background of the helium nanodroplets creation as well as the physical and technical process to dope it. 
 
-\subsection{General properties of Helium}
+\subsection{General Properties of Helium}
 
 
 At room temperature, helium is a light inert gas. It is odorless, colorless, tasteless, and after hydrogen, the second most abundant element in the universe.  \cite{enss_low-temperature_2005}. It has a simple 2 atoms structure, exhibiting numerous exotic phenomena whose theoretical descriptions are rather complex in many cases, i.e it characteristics of a quantum fluid. From helium exist two stable isotopes $^{3}He$ and $^{4}He$.  $^{4}He$ has two electrons, two protons and two neutrons, no nuclear spin and no total spin, pertaining to the bosonic family, while $^{3}He$ with only one neutron has a spin of $I = 1/2$ and belongs to the fermions \cite{atkins_liquid_2014}.
@@ -31,7 +31,7 @@ The superfluidity of helium two (He-II), at temperatures close to absolute zero,
 \end{figure}
 
 
-\subsubsection{Helium Droplets}
+\subsection{Helium Droplets}
 
 The production of Helium droplets had to overcome first one principal problem, its condensation. At the end  of the 19th century, many noble gases were liquefied for the first time by applying pressure at room temperature. However, for helium and hydrogen, this method was not successful. In 1922 Kamerlingh Onnes reached temperatures below $1$ K by reducing the vapor pressure above liquid helium to about $2*10^{-5}$ bar with a series of pumps \cite{van_delft_discovery_2010}. The Joule–Thomson effect \cite{weinberger_discovery_2013} was the responsible for Onnes experiment to reach this low temperature. The basic idea is that under suitable conditions an expanding gas performs work against its internal forces, for example, when a gas is expanded through a small nozzle thermally isolated from its surroundings. The expansion under these conditions takes place at constant enthalpy, since the expansion nozzle performs none work. It follows the next relation.
 
@@ -91,10 +91,11 @@ With a half width maxima of \cite{harms_density_1998}
 \sigma N_{\frac{1}{2}} = \exp \left( \mu - \sigma ^2 + \sigma \sqrt{2 ln(2)} \right) - \exp \left(  \mu - \sigma ^2 - \sigma \sqrt{2 ln(2)}  \right)
 \end{align}
 
-\begin{figure}[h!] \label{fig:ExpRegim}
+\begin{figure}[h!]
 \centering
 \includegraphics[width= 10cm]{../Images/expansion_regimes.PNG}
 \caption[Phase diagram for Expansion regimens]{Expansion regimes. $^{4}$He Pressure-Temperature phase diagram for Nozzle beam expansions starting at a backing pressure  of 20 bar and $a$ temperature. As discussed, qualitatively different behaviors are shown for the regime I-II and II where starting in the gas phase,  near the phase transition respectively. Taken from \cite{buchenau_mass_1990}. }
+\label{fig:ExpRegim}
 \end{figure}
 
 As show in Figure \ref{fig:ExpRegim}, the initial gas conditions (pressure, temperature and nozzle size) in the free expansion phase will determine the characteristics of the final helium beam. From here, three main regimes can be define.
@@ -118,15 +119,37 @@ Where $r$ is the radius of the beam, and $\rho$ its density, in this case, for h
 \caption[Expansion droplets Regimens]{Sizes of the $^{4}$He droplets  as a function of nozzle temperature T and  pressures, based on \cite{toennies_spectroscopy_1998}, using a $5 \mu $m nozzle. The sub and super critical regimes are clearly differentiated. Taken from \cite{stienkemeier_spectroscopy_2006}}
 \end{figure}
 
-\subsubsection{Composite Clusters}
+\section{Neon Clusters}
 
-\subsubsection{Composite Clusters}
+Neon (Ne) is the second lightest inert gas with atomic number 10, it has 3 stable isotopes in nature, the $^{20}$Ne with more than 90$\%$ of abundance, followed by $^{21}$Ne and  $^{22}$Ne \cite{meija_atomic_2016}. At extreme temperature, Neon is solid as shown in the graphic \ref{fig:Nephases} and its triple point is around $T_{p}=24$K \cite{young_phase_nodate}. Neon is a noble gas, it shares most of the properties already mentioned from Helium, except for its superfluidity.  It has a a quite large ionization potential for its first electron at $Ip=21.56$ eV, what makes quite suitable to use it as a matrix with strong fields lasers, because at low intensities, it will not interact with the light source, so dopants can be carried out in a non-interactive way.
+  
 
-We can define a composite cluster or doped cluster, as an atomic lump that contains one or more different atomic elements. The main interesting properties in non-doped clusters are usually set as a function of its size, but for doped clusters, the interaction between the elements creates new degrees of freedom that makes more complex its behavior. For example, the new composite will have different structural properties due the spatial distribution of the species. Hence, composite clusters exhibit a more diverse behave and offer more opportunities to study different characteristics of the material.
+\begin{figure}[h!]
+\centering
+\begin{subfigure}[l]{1\textwidth}
+\includegraphics[width=0.45\textwidth]{../Images/Ne_temp_phases.png} \hfill
+\includegraphics[width=0.4\textwidth]{../Images/T-s ne phase diagran.png}
+\end{subfigure}
+\caption[Neon phase-Isentropic diagrams]{On the left, Neon phase diagram. taken from \cite{young_phase_nodate}, on the right, $T-S$ phase diagram of Ne. The critical point is located at $T_{c}= 44.49$ K and a molar entropy of $S_{c}=30.76$ J/(mol K). The dashed lines represent regions. Taken from \cite{christen_supersonic_2010-1} }
+\label{fig:Nephases}
+\end{figure}
 
-The difficult problem to overcome in composite cluster is how to create them. Two techniques can be used. The first one, is the co-expansion of a previously mixed gas \cite{tchaplyguine_variable_2004}. The second one is to produce a first cluster and then cross it with an atomic beam of the doping species.
+Ne cluster has been proved to provide an ideal medium for chemical reactions as solvation effect and heterogeneous chemistry at a microscopic level \cite{gough_infrared_1985}. With a properly regulated pick-up system the reactants are deposited in a controlled way in the cluster and it becomes a nanoreactor equivalent \cite{gaveau_reaction_2001}.
 
-The first technique involves several technical problems, depends on possible interactions between the elements, the condensation ranges of the bulks and even in the affinity  of the materials. One of the most used techniques, and the one used in this study is the one called pick-up technique \cite{gough_infrared_1985}. The idea is simple, as well as a snowball on its way downhill collects or pick-up more snow. The helium cluster, after being directional selected through a skimmer, passes through a doping cell full of a dopant gas at low densities ($10-2 Pa$) \cite{stienkemeier_spectroscopy_2006}. As a result, the gas atoms that are along the droplet cross sections will be captured by the beam and travel with it. The probability for Helium droplets to collect $k$ atoms or molecules via inelastic collisions depends on the length of the oven cell $l$, the cross section of the droplets $\sigma $, and the particle density inside the cell $n$. As $l$ and $\sigma $ remains constant, varying the density in the doping cell can regulate the abundance of $k$, following Poissonian statistics.
+The conditions for creating Neon clusters are quite similar to the ones explained above, also well explained in the famous Hagena law \cite{hagena_cluster_1972-1}. Several studies have been realized on the characterization of Ne clusters, for example  by \textit{R. Von Pietrowski et al}   \cite{von_pietrowski_fluorescence_1997} who studied the Electronic excitations of Xe atoms and Xe$_{2}$ molecules  embedded in free Ne clusters. On contrary to helium, is important to work with neon clusters at temperatures and pressures far from its solidification point. At extreme low temperatures, small differences in pressure leads to big size changes on the clusters, the higher the pressure in the nozzle the bigger the droplets. As an example, in \textit{Pietrowski} work, it was shown that small droplets, $N=300$, where $N$ is the number of atoms in the cluster, are in a "liquid" state but for bigger droplets solidification starts to be present. In addition, the location of the dopant will be affected drastically by these sizes changes. When the droplet is in a liquid state the dopant atoms are free to move to the center contrary to denser droplets, where the dopant will stay at the surface.
+
+
+The T-S representation of Helium, Fig \ref{fig:Nephases} shows the isentropic processes as simple vertical trajectories. One advantage in this color plot is the visibility of the two-phase region where condensation may take place. The dashed lines represent isobar lines at p$= 100,1000,1000,10000,$ and $100000$ Pa from left to right respectively. On one hand, supersonic expansions which originate in the vapor phase, at a very low source pressure equivalent to a comparatively large stagnation entropy $s_{0}$, will not reach this region. On the other hand, for negative entropies the solid state is always reached although for lower temperatures and a relative small entropy, the liquid state is the predominant.\cite{christen_supersonic_2010-1} 
+
+\section{Composite Clusters}
+
+We can define a composite cluster or doped cluster, as an atomic lump that contains one or more different atomic elements. The main interesting properties in non-doped clusters are usually set as a function of its size, but for doped clusters, the interaction between the elements creates new degrees of freedom that makes more complex its interaction. For example, the new mixture will have different structural properties due the spatial distribution of the species \cite{stienkemeier_spectroscopy_2006}. Hence, composite clusters exhibit a more diverse behaviour and offer more opportunities to study different characteristics of the material.
+
+The difficult problem to overcome in composite cluster is how to create them. Two techniques can be used. The first one, is the co-expansion of a previous mixed gas \cite{tchaplyguine_variable_2004}. The second one is to produce first the cluster and then cross it with an atomic beam of the doping species.
+
+For the first technique, clusters are produced by adiabatic expansion of mixtured gas through  a  narrow  conical  nozzle into vacum\cite{tchaplyguine_variable_2004}. The  cluster  formation  process  in  the coexpansion of a binary mixture is less well known beacuse it envolves several technical problems, depends on possible interactions between the elements, the condensation ranges of the bulks and even in the affinity  of the materials\cite{reinhard_introduction_2004}.
+
+The second thechnique, used in this study is the one called pick-up process \cite{gough_infrared_1985}. The idea is simple, as a snowball on its way downhill collects or pick-up more snow, the helium cluster after being directional selected through a skimmer, passes through a doping cell full of a dopant gas at low densities ($10-2 Pa$) \cite{stienkemeier_spectroscopy_2006}. As a result, the gas atoms that are along the droplet cross sections will be captured by the beam and travel with it. The probability for Helium droplets to collect $k$ atoms or molecules via inelastic collisions depends on the length of the oven cell $l$, the cross section of the droplets $\sigma $, and the particle density inside the cell $n$. As $l$ and $\sigma $ remains constant, varying the density in the doping cell can regulate the abundance of $k$, following Poissonian statistics.
 
 \begin{equation}
 P_{k}(l,n,\sigma)=\dfrac{(ln\sigma)^{k}}{k!} e^{(-ln\sigma)}
@@ -159,34 +182,12 @@ Is the final kinetic energy of the droplet depending on it mass, velocity and te
 
 Several studies have focused on the $E_{binding}$ with $^{4}$He,  so the energy binding  for a broad number of materials is known. It is also important to take into account that the binding energy includes the cluster-dopant binding as well as the dopant-dopant relation.\cite{toennies_spectroscopy_1998}. The energy bounding for example of Xe-He is arround $26.9 $ meV \cite{lewerenz_successive_1995}, or He-H$_{2}$O is about $0.1$ eV \cite{lewis_Helium_2014}.
 
-\section{Neon Nanodroplets}
-
-Neon (Ne) is the second lightest inert gas with atomic number 10, it has 3 stable isotopes in nature, the $^{20}$Ne with more than 90$\%$ of abundance, followed by $^{21}$Ne and  $^{22}$Ne \cite{meija_atomic_2016}. At extreme temperature, Neon is solid as shown in the graphic \ref{fig:Nephases} and its triple point is around $T_{p}=24$K \cite{young_phase_nodate}. Neon is a noble gas, it shares most of the properties already mentioned from Helium, except for its superfluidity.  It has a a quite large ionization potential for its first electron at $Ip=21.56$ eV, what makes quite suitable to use it as a matrix with strong fields lasers, because at low intensities, it will not interact with the light source, so dopants can be carried out in a non-interactive way.
-  
-
-\begin{figure}[h!]
-\centering
-\hspace*{\fill}%
-\subfloat{\includegraphics[width=0.45\textwidth]{../Images/Ne_temp_phases.png}
-\includegraphics[width=0.4\textwidth]{../Images/T-s ne phase diagran.png}}
-\hspace*{\fill}%
-\caption[Neon phase-Isentropic diagrams]{On the left, Neon phase diagram. taken from \cite{young_phase_nodate}, on the right, $T-S$ phase diagram of Ne. The critical point is located at $T_{c}= 44.49$ K and a molar entropy of $S_{c}=30.76$ J/(mol K). The dashed lines represent regions. Taken from \cite{christen_supersonic_2010-1} }
-\label{fig:Nephases}
-\end{figure}
-
-Ne cluster has been proved to provide an ideal medium for chemical reactions as solvation effect and heterogeneous chemistry at a microscopic level \cite{gough_infrared_1985}. With a properly regulated pick-up system the reactants are deposited in a controlled way in the cluster and it becomes a nanoreactor equivalent \cite{gaveau_reaction_2001}.
-
-The conditions for creating Neon clusters are quite similar to the ones explained above, also well explained in the famous Hagena law \cite{hagena_cluster_1972-1}. Several studies have been realized on the characterization of Ne clusters, for example  by \textit{R. Von Pietrowski et al}   \cite{von_pietrowski_fluorescence_1997} who studied the Electronic excitations of Xe atoms and Xe$_{2}$ molecules  embedded in free Ne clusters. On contrary to helium, is important to work with neon clusters at temperatures and pressures far from its solidification point. At extreme low temperatures, small differences in pressure leads to big size changes on the clusters, the higher the pressure in the nozzle the bigger the droplets. As an example, in \textit{Pietrowski} work, it was shown that small droplets, $N=300$, where $N$ is the number of atoms in the cluster, are in a "liquid" state but for bigger droplets solidification starts to be present. In addition, the location of the dopant will be affected drastically by these sizes changes. When the droplet is in a liquid state the dopant atoms are free to move to the center contrary to denser droplets, where the dopant will stay at the surface.
-
-
-The T-S representation of Helium, Fig \ref{fig:Nephases} shows the isentropic processes as simple vertical trajectories. One advantage in this color plot is the visibility of the two-phase region where condensation may take place. The dashed lines represent isobar lines at p$= 100,1000,1000,10000,$ and $100000$ Pa from left to right respectively. On one hand, supersonic expansions which originate in the vapor phase, at a very low source pressure equivalent to a comparatively large stagnation entropy $s_{0}$, will not reach this region. On the other hand, for negative entropies the solid state is always reached although for lower temperatures and a relative small entropy, the liquid state is the predominant.\cite{christen_supersonic_2010-1} 
-
 \section{Cluster-Intense Fields  Interaction}
 
 
 The understanding of the interaction atom-fields has been study broadly in physics since Einstein Photoionization Theory \cite{einstein_uber_1905}, who gave a base on all the quantum electrodynamics theory. The basic idea supporting  this theory is the behavior of light as an electromagnetic field, where the electron, as a bounded charge in the atom, can be affected.  This quantum dynamic theory is well understood since 1957 for small atoms, with one, two or few electrons \cite{a._bethe_quantum_1957}, but still big molecules and atoms have been challenging scientist for years. In this chapter we will give a brief introduction to the atomic photo ionization process, explaining at the same time multi-photoionization and tunneling processes, so we can finish with a more detailed presentation of strong field interaction with clusters and the Keldish theory.
 
-\subsection{PhotoIonization for single atoms}
+\subsection{Photoionization for single atoms}
 
 The photoionization process describes the withdraw of an electron from a bound state into the continuum by interaction with electromagnetic field radiation\cite{berkowitz_photoabsorption_1979}. The atomic bounded electrons while going through an electromagnetic field, in our case the laser beam, can absorb enough energy to get excited and fly away from the nucleus. A bound electron only can escape from an atom by absorbing photons its energy exceeds the binding energy \cite{einstein_uber_1905}. When the photon energy of the laser is smaller than the ionization potential of the target, the electron can absorb two or more photos in the ionization process, this is called Multi photon ionization (MPI). Another possible process is called, tunneling ionization, where due the quantum mechanical properties of the electrons under certain conditions absorbs enough energy enough to be in an above threshold regime, due it quantum dynamic properties it can escape from its bonds via tunneling.
 
@@ -233,7 +234,7 @@ In example. As shown in fig \ref{fig:augerfluorec}, if a photon  with energy $\h
 
 
 
-\subsection{Multiphoton and Tunneling Ionization}
+\subsection{Multiphoton and Tunnelling Ionization}
 
 Ionization is also possible, even when the photon energy is lower than the binding potential. Laser Fields with intensities below $I \leqslant 10^{14}$ W/cm$^{2}$ are not strong enough to change the binding potential of an atom significantly \cite{rhodes_multiphoton_1985} and it is when multiphoton Ionization takes place (MPI).  MPI is the simultaneous absorption of several photons to overcome the ionization barrier. The way MPI occurs depends on the laser frequency and intensity. When the intensity is much lower than the characteristic atomic resonance, MPI occurs via transitions through virtual states. Ionization by several photons at low laser intensities can be realized by the so-called resonance enhanced multiphoton ionization (REMPI) \cite{mainfray_multiphoton_nodate}.  Ionization by a REMPI process takes place in two steps. First, a resonant excitation by one or more photons occur on an electron state of the atom. In the second step, this electron state is transformed into a virtual state, to an upper state until the electron is excited by spontaneous decay. So for example, the total energy absorbed by an election until it gets ionizes is $n * \hbar\omega > I_{pot}$ where $n$ is the number of photons absorbed until it actually have enough energy to overcome the potential $I_{pot}$
 
@@ -264,7 +265,7 @@ U_{p} = \dfrac{e^{2}E_{0}^{2}}{4m_{e}\omega_{0}^{2}} \propto I \lambda^{2}
 
 Where $m_{e}$ is the mass of the electron, $\omega_{0}, \lambda, I$ and $E_{0}$ are the frequency, wavelength, intensity and the peak of the electric field of the laser pulse. On one hand, when the Keldish parameter is higher, $\gamma_{k} \gg 1$ MPI regime is considered. On the other hand, the $\gamma_{k} \ll 1$ describes the TI interaction.
 
-\subsection{ Keldish Theory}
+\subsubsection{ Keldysh Theory}
 
 In this section we will give a brief introduction to the keldysh theory based on the work of Keldy et al, \cite{keldysh_ionization_1965}, and the papers review of the theory by \cite{popruzhenko_keldysh_2014} and \cite{karnakov_strong_2009}. For a deeply explanation we recommend the reader to reference this works.
 
@@ -287,7 +288,7 @@ dW(p)=\mid M(p)\mid^{2} d^{3}p
  
 Meaning that, for enough long pulses, containing a large number of optical periods so that its electromagnetic field is close to a periodical function of time close to the initial, it is physically more appropriate to use probabilities per time unit (rates) instead of time-integrated values.
 
-\subsection{Ponderomative energy}
+\subsubsection{Ponderomative Energy}
 
 
 As soon as an electron is released into the continuum, it starts to be under the influence of the external laser field. A description of the energy that it acquires during this interaction is given by the ponderomotive energy (PE).
@@ -341,7 +342,7 @@ If we transform the eq. \ref{eq:pondeenergy} to laser intensities we will have $
 
 \subsection{Cluster Ionization}
 
-Until now, we have described the most known ionization processes for single atom. But on cluster ionization, the dynamics are more complex and involve more parameters. Clusters are combinations of atoms or molecules which, depending on their species, are held together by Van der Waals forces, ionic bonds or metallic bonds. In this explanation we refer from now on only to He cluster, which mainly are just affected by Van der Walls attraction\cite{stienkemeier_spectroscopy_2006} and its interaction with the Laser Fields, specifically pulsed laser with  a wavelength smaller than the cluster size, meaning that all the atoms in the cluster are equally affected by the pulse, in other words the Field penetrates all over the cluster.
+Until now, we have described the most known ionization processes for single atom. But on cluster ionization, the dynamics are more complex and involve more parameters. Clusters are combinations of atoms or molecules which, depending on their species, are held together by Van der Waals forces, ionic bonds or metallic bonds. In this explanation we refer from now on only to He cluster, which mainly are just affected by Van der Waals attraction\cite{stienkemeier_spectroscopy_2006} and its interaction with the Laser Fields, specifically pulsed laser with  a wavelength smaller than the cluster size, meaning that all the atoms in the cluster are equally affected by the pulse, in other words the Field penetrates all over the cluster.
 
 The first challenge to overcome when working with Helium, is its Ip. Being a rare gas, its ionization potential is higher than many of its doping molecules used. For example, under MIR lasers helium clusters need $I > 10^{15}$ W/cm$^{2}$ , so TI or BSi is not the main process at the beginning of the plasma generation. Other interactions have to be explained in order to describe the process properly. This section we will be based on \textit{Saalaman et. al} work \cite{saalmann_mechanisms_2006} and \textit{Grüner et. al} \cite{gruner_femtosekundenspektroskopie_2013}, for this purpose, we will divide the process in three phases or stages.
 
@@ -354,7 +355,7 @@ The second stage is the  \textit{nanoplasma expansion}. During this stage the cl
 
 After the laser pulse is over, the last stage starts. The ions continue to expand, in consequence, the radius rises as same as the cluster potential becomes smoother. So, it is easier for the highly energetic quasi-free electrons to leave the cluster, forming a coulomb explosion that destroys the cluster in a ions-electrons cascade. This process was first described by \textit{Ditmire et. al} \cite{ditmire_interaction_1996} combining high energetic collisions with cluster resonance absorption.
 
-The graphic \ref{img:clusterpotential} shows on the left how the cluster potential is composed by the Van der Walls potential and atomic forces of the different atoms that compose the cluster. On the central images, additional to the atomic biddings, the electrical force due the ions in the cluster increase the potential, the laser pulse is still on and the quasi-free electron will gain energy while they are in this. Finally, on the right the laser field is off, the electrons have fled away and the cluster ion have been repelling each other so the potential is reduced to the minimum(just atomic interactions.)
+The graphic \ref{img:clusterpotential} shows on the left how the cluster potential is composed by the Van der Waals potential and atomic forces of the different atoms that compose the cluster. On the central images, additional to the atomic biddings, the electrical force due the ions in the cluster increase the potential, the laser pulse is still on and the quasi-free electron will gain energy while they are in this. Finally, on the right the laser field is off, the electrons have fled away and the cluster ion have been repelling each other so the potential is reduced to the minimum(just atomic interactions.)
 
 \begin{figure}[h!] \label{img:clusterpotential}
 
@@ -363,8 +364,6 @@ The graphic \ref{img:clusterpotential} shows on the left how the cluster potenti
 \caption[Cluster potential regimes]{Cluster potential regimes. On the left, the atomic ionization starts the plasma formation. On the center, the quasi-free electrons auto-ionize the cluster, increasing the potential barrier and gaining energy due the laser field so a coulomb explosion can take place. On the right, The Coulomb explosion is finished, the potential is driven to it minimum and all the electrons and ions are ejected. Taken from \cite{wabnitz_multiple_2002}}.
 \label{img:clusterpotential}
 \end{figure}
-
-\subsubsection{Cluster expansion}
 
 Depending on the droplet size and the laser intensity, the Cluster can expand in two different ways. If the laser intensity is rather high and the droplet is small, a Coulomb explosion can occur. On the contrary, if the laser is not intense enough or the droplet is too big, a nanoplasma can be generated, therefore a hydrodynamic expansion will take place. 
 Two forces are really important during the cluster expansion. Both act on the cluster during the phase two and three (during and after the laser pulse). The first, is the force associated with the free electrons with high kinetic energy. These hot electrons expand and pull the low energetic electrons and heavy ions on its pad \cite{ditmire_interaction_1996}. The other force acting on the cluster is due to the inner cluster charge itself. The hottest electrons in the cluster will have a mean free path large enough so they can free stream directly out of the cluster, and, if the electron’s energy is large enough to overcome the space-charge buildup on the cluster, they will leave the cluster altogether. If the charge buildup is sufficiently large, the cluster will undergo a Coulomb explosion \cite{haught_formation_1970}. According to Madison et all, a time scale for the laser pulse duration where the coulomb explosion can take place should be closer or lower to the femtosecond regime, depending on the element composing the cluster. \cite{madison_role_2004}. Based on the laser power available on modern laser pulses, the same studies present that electron after a coulomb explosion can get kinetic energy up to 6KeV.
@@ -384,53 +383,70 @@ When the intensity is not enough to make the atomic bonds to break, the electron
 Although the two models are different in each regime, for example, at low kinetic energy or the beginning of the pulse, the Coulomb explosion produces less ions for low energies compared to the product on hydrodynamic explosions. Further, the number of high energy ion the coulomb explosion can create (although in less quantity) tent to be hotter ions too.
 We have to take into account that even the two processes are described for different laser regimes. Both processes can happen in parallel, but at certain energies is clear, that one or the other will be the responsible at the end, for the collapse of the system.
 
-\section{VMI spectrometer}
+\subsection{Homogeneous Charge Sphere  Model}
 
-Velocity map imaging (VMI) is a widely used technique in areas such as atomic and molecular physics and physical chemistry. It is used to investigate velocity distributions of charged particles, which are generated in a defined volume, typically by photoionization.
-A laser pulse generates charged particles by photoionization in the interaction region, which are accelerated by an electric field created by two electrodes.
-The VMI used in this experiment is a modification on the original design by Eppink-Parker \cite{eppink_velocity_1997}. Its is made by a lower  electrode called Repeller followed by the extractor, ground electrodes which generated the electric filed that drives the particles to a detection system consisting of an Microchannel plate or MCP  and a Phosphor screen, which is observed by means of a CCD camera on top.  All electrodes have a circular layout and are about $1 mm$ thick.  The extractor and ground electrodes have a concentric hole where the particles pass through.
-Once the Electron or Ions, guided by the electrodes, arrive to the MCP an electronic avalanche occurs, increasing the signal of each individual particle. The electronic avalanche hit the Phosphoscreen producing photons that can be detected with the camera focused on top.
+Once the ionization process started, an electronic cloud of quazifree electrons will be created around the remaining cluster. This is a complex physical process due its chaotic system determined by the individual velocity vectors of the particles and their interaction between the Electric field, the cluster and each other. Various theoretical approaches ranging from phenomenological models \cite{ditmire_interaction_1996} to large-scale microscopic calculations \cite{saalmann_mechanisms_2006} have been done but far for been interpreted to clusters and system with more than a few thousand of particles. Additional a  theoretical scenario of a single well-characterized cluster, irradiated by a laser pulse of a given intensity is usually far from the real experimental situation. An analytical solution is far from been formulated, we work joint to the theoretician Andreas Heidenreich to make computational simulations. This are demanding simulations that takes a large of computational power even for small cluster, the results can recreated reasonably the experimental system and so give a better background to the understanding of the plasma formation.
 
-\subsection{Velocity distribution in VMI}
+Another, more simple and intuitive approach is done by  \textit{Ranaul Islam et al.}, in \cite{islam_kinetic_2006} they try to express the kinetic energy distribution for an ion cloud. Two important assumptions are made for this model. First, we assume a uniformly charge distributed spherical cloud with radius $R$ and density $\rho=N/vol$ where $N$ is the number of particles inside the sphere, furthermore all the particle lays with zero kinetic energy. Second, The basic mechanism underlying the kinetic energy distribution in clusters is their Coulomb explosion, it converts the potential energy $E_{coul}$ of a partially ionized cluster atom at a distance $r$ from the cluster center into kinetic energy $E$. The probability $dP/dr$ to find an atom at a distance $4$ from the cluster center is then given by\cite{islam_kinetic_2006}
 
-In order to describe the velocity distribution detected by the VMI, we assume that the charged particles come from a point in space emitted between the Repeller and the extractor. Furthermore, we presume that the initial kinetic energy of the particles obtained during the ionization process is small, in comparison to the energy supplied by the electric field.
-The initial conditions of the charged particles are determined by the ionization volume and the initial velocity vectors $v_{i} = (v_{x};v_{y}$, whose distributions are of interest. The particles are drive by the Electric field in the direction $v_{z}$ to the spectrometer axis.
-If one starts from an isotropic initial distribution for the velocities, particles with differing initial velocity vectors can finish in the same point on the detector, as shown in fig \ref{ing:vmiVelcDist}. This results in a loss of information, its is expected because we are trying to 3D information from a 2D projection.
+\begin{align}
+\frac{dP}{dr}=\frac{3 r^2}{R^3} \Theta (R-r)
+\label{density_distribution}
+\end{align}
 
-\begin{figure}[h!]
+where, $\frac{dP}{dr}$ is the probability to find an electron at radius $r$ and $\Theta$ is the step function for the particles inside the radius of the sphere, with homogeneous charged density, we have $N$ particles with a charge of $q$ and just after the are ionizes they have not moved yet, then the potential Coulomb energy of an particle inside the cluster is given by
 
-\caption{Representation of particle trajectories A, B and C of the ionization volume to the detector plane, which, in spite of initially different velocity the finish on the same point of the detector plane. Withdrawn from \cite{fechner_lutz_aufbau_2011}}
+\begin{align}
+E_{coul}(r)=Ne^2 \frac{r^2}{R^3}
+\label{coulomb_energy}
+\end{align}
+
+for $r\leq R$. $N$ is the number of electrons in the sphere and $e$ is the elementary charge of an electron. A charged sphere like this will immediately coulomb explode and for $t \longrightarrow \infty$ all coulomb energy is converted to kinetic energy, which can be measured experimentally with the VMI. It is possible to retrieve the energy distribution out of the spatial distribution \ref{density_distribution} with \ref{coulomb_energy} as the substitution formula.
+
+\begin{align}
+dr=\frac{R^3}{2Nq^2r}dE
+\label{substitution}
+\end{align}
+
+Furthermore, we define the maximum coulomb energy
+
+\begin{align}
+E(R):=E_R=Nq^2 \frac{1}{R}
+\label{max_coul_energy}
+\end{align}
+
+with all this follows the energy distribution of the electrons
+
+\begin{align}
+\frac{dP}{dE}=\frac{3}{2} \sqrt{\frac{1}{E_R}} \frac{1}{E_R}\sqrt{E} \cdot \Theta (1-\frac{E}{E_R})
+\end{align}
+
+it can be seen, that the energy distribution is fully characterized by $E_R$, so it is enough to know the maximum kinetic energy, which is just the radius of the central feature in our VMI images. With this even the inverse Abel transformation can be bypassed, because the edge of a sphere in invariant for projecting the sphere on a plane.
+\begin{figure}[hbtp]
+
 \centering
-\includegraphics[width=8 cm]{../Images/cel distrub vmi.png}
-\label{ing:vmiVelcDist}
+\includegraphics[scale=0.4]{../Images/linemodelfit.png}
+\caption[Islam Model fit]{Energy distribution for a coulomb explosion of a full sphere of electrons according to formula 3.10. The dashed line marks cutoff energy E$_{R} $}
 \end{figure}
 
-Assuming a cylindrically symmetric distribution $f(r,y)$ along the $y$-axis. If an infinitely far away observant look at the distribution $F$ along the $z$-direction.  With a basic axis conversion it can be shown that along the Z direction, the projection of the distribution $F$ of the integrated signal respond to.
 
-\begin{equation}
-F(x,y)=2\int^{\inf}_{\mid x\mid} \dfrac{f(r,y)r}{\sqrt{r^{2}-x^{2}}}*dr 
-\end{equation}
+With the formula for the homogeneous density in a sphere
 
-Been F in cylindrical coordinates and $r^{2}=x^{2}+z^{2}$. Also called \textit{Abel-transform}.
-But in order to resolve our signal we need the opposite procedure, turn this 2d distribution into the 3d spherical distribution that we assume in the beginning. For this process is called \textit{Inverse Abel-transform}, and it can be shown as.
- 
-\begin{equation}
-F(r,y)=\dfrac{1}{\pi} \int^{\inf}_{\mid x\mid} \dfrac{dF(x,y)}{dx} \dfrac{1*dx}{\sqrt{r^{2}-x^{2}}} 
-\end{equation}
+\begin{align}
+R=(\frac{N}{\frac{4}{3} \pi \rho})^{1/3}
+\end{align}
 
-The main problem that carries this transformation is that is not resolvable to a non-continues distribution that is the case of the Images recorded by the camera. So a numerical method needs to be used.
-Fortunately, a Software Pbasex, is available to solve this integral. The idea is to have a basis function $f_{k}$ (in this case Lagrange polynomial ) in the space of distributions $f$.  Their projections $F_{k}$ onto the detector are well known, and the Able transform will be set as:
+and formula \ref{max_coul_energy} the charge density in the beginning in the process can be derived to
 
-\begin{equation}
-F_{k}(x) = 2\sigma \rho_{k}(x)\lbrace 1 + \sum^{k^{2}}_{1}\lbrace (x/\sigma)^{-2l} \prod^{l}_{m-1}(\dfrac{(k2+ 1-m)(m-1/2)}{m}\rbrace \rbrace
-\end{equation}
+\begin{align}
+E_{max}(N)=\underbrace{\frac{e^2}{4 \pi \epsilon_0} (\frac{4}{3} \pi \rho)^{1/3}}_{=:B} N^{2/3}
+\end{align}
 
-If every measured image can be expressed on this basis, then the reconstruction of the F distribution when $k\rightarrow \inf$ can be obtained. A graphical example of this transformation is given in fig \ref{img:Abel} where each color represents a $f_{k}$ projection, where all $f$ are in the same basis, the sum of all the different $f$ will set the final reconstructed $F_{K}$.
+and with this the charge density reads
 
-\begin{figure}[h!]
-\label{img:Abel}
- \caption{At the top of the graphic some basic functions $f_{k}$ in different colors, which can be used for the Inverse-Abel transform in the Basex method. On the bottom, the corresponding Abel-transformed functions Fk. Taken from \cite{fechner_lutz_aufbau_2011}}
- \centering
- \includegraphics[width=10 cm]{../Images/abel transform pbasex function.png}
- \end{figure}
+\begin{align}
+\rho=48 \pi^2 \frac{\epsilon_0^3}{e^6} B^3
+\end{align}
+
+In summary, the charge density can be calculated with the fit parameter $B$ or B-factor as we will named from now on.  $B$ can be retrieved by plotting the maximum kinetic energy $E_R$ as a function of the number of electrons $N$. Both can be extracted out of the VMI images, $E_R$ from the radius and $N$ from the brightness of the central feature.
 

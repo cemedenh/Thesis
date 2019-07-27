@@ -1,24 +1,25 @@
 % !TeX spellcheck = en_GB
 % !TeX spellcheck = en_US 
-\chapter{Acquisition and calibration methods.}
+\chapter{ Data Acquisition and Calibration Methods.}
 
-In order to use the above setup with the MIR and NIR laser parameters, the methods used in this experiment are explained in this section, from the VMI calibration techniques to the data analysis process. All experimental techniques were used to investigate either helium or neon clusters. 
+Taking advantage of the possibility to record individual signal in the TOF and the VMI spectrometer, we develop a method in which the data of both detectors is correlated to describe a single coulomb explosion. The large exposure time of the camera and the software limitations required the use of a trigger protocol in order to collect and sort the signal coming from a single laser shot. The next section present the triggering protocol developed for the ELI-Alps beam time, together to the calibration methods used for the VMI. In addition, in our experiment, in contrast to other spectroscopic techniques, the Photoelectric Spectra (PES) of the $e-$ VMI looks different for each signal because of the size distribution of the clusters production and the different focus intensities each cluster is exposed to. Nevertheless, the images and therefore the PES look rather similar in shape, small circular bloops in the middle of the detector with a clear edges and a brightness higher than the background. The larger clusters ($\langle N \rangle = 10^{6}$) present small deformation in the circles as show in chapter 4. For example, some images show small-medium  uniformly bright circles  while others signal, shows high intensities in the edges and lower in the center, like a "donut", as we will refer from now. In section 3.3 we present the Data  protocol and the algorithms used to detect, sort and analyse the acquired signal.
 
-In our experiment, in contrast to other spectroscopic techniques, the Photoelectric spectra (PES) of the $e-$ VMI looks different for each signal because of the size distribution of the clusters production and the different focus intensities each cluster is exposed to. Nevertheless, the images and therefore the PES look rather similar in shape, small circular bloops in the middle of the detector with a clear edges and a brightness higher than the background. For larger clusters ($\langle N \rangle = 10^{6}$) small deformation in the circles shows up. For example, some images show small-medium  uniformly bright circles  while others signal, shows high intensities in the edges and lower in the center, like a "donut" shape, as we will refer from now.
-
-Taking advantage of the setup and the possibility to record individual signal in the TOF and the VMI spectrometer, we develop a method in which the data of both techniques are correlated to describe a single coulomb explosion, described in the following section.
-One disadvantage of our setup is that the maximum acquisition rate is 30Hz, the minimum exposure time of the camera. Depending on the hard drive that is used, the acquisition rate can drop to 10Hz. Furthermore, the single shot method needs low event rates of less than $10\%$. It results in an event rate of less than 1Hz. Nevertheless the results section shows that the technique was suitable enough to the laser specifications used for all the experiments and none further changes were needed.
 
 \begin{figure}[h!]
 \centering
-\subfloat{\includegraphics[width=4cm]{../Images/rawvmi1.PNG} \includegraphics[width=4cm]{../Images/rawvmi2.PNG}} 
-\caption[VMI raw images example]{Example images of MIR VMI signal. On the left, a uniform bloop, on the right a "donut " shape signal with high density signal on the borders of the edges. }
+\begin{subfigure}[]{0.7\textwidth}
+\caption{selected VMI signals for helium in MIR lasers}
+\includegraphics[width=1\textwidth]{../Images/Raw_He_ramdom.png} \end{subfigure} 
+\begin{subfigure}[]{0.7\textwidth}
+\caption{selected VMI signals for neon in MIR lasers}
+\includegraphics[width=1\textwidth]{../Images/Raw_Ne_ramdom.png} \end{subfigure} 
+\caption[VMI raw images example]{Example images of MIR VMI signal in He and Ne with different parameters. On the top, several example plasma signal including, low intensity and the donut shape. On the bottom, random example for Ne signals, including low signal and non-uniform bloops.}
 \label{fig:vmiexample}
 \end{figure}
 
 
 
-\section{Camera and trigger protocol}
+\section{Camera and Trigger Protocol}
 
 One of the main objectives of this project, is to record individual data for single shots nanoplasma explosion in the VMI and TOF. The advantage is the ability of the threat the data in a separate way to reduce the background and know the energy distribution information that is lost when data is averaged.
 
@@ -60,12 +61,13 @@ In Fig \ref{fig:triggers}, we show the Trigger scheme used in the experiment. Th
  \end{figure}
   
 
-\section{Calibration methods}
+\section{Calibration Methods}
 
 \subsection{VMI calibration}
+
 To calibrate the VMI spectrometer, two different methods were used. A quadratic calibration function $E=\alpha\cdot r^2$ is used, where $E$ is the kinetic energy of the particles and $r$ is the measured radius. This function is chosen because $E_{kin}=1/2 \cdot m v^2$. In order to keep the simplicity, stray fields, third order or linear terms are not included, as long as the calibration curves fit well with the measured.
 
-On one hand, the most independent method is the trajectory simulation, because it does not rely on any laser system or physical process. These simulations were done by Dominik Shomas with SIMION 8.1. For the starting conditions for the electrons we chose a small interaction volume comparable to the estimated experimental conditions and the emission direction perpendicular to the spectrometer axis. For those electrons the projected energy on the detector screen is equivalent to the real kinetic energy, with this the inverse Abel transformation can be avoided. It is necessary to simulate different kinetic energies for the electrons, at different velocity vectors. After extracting the radii, where the electrons hit the detector plane, a calibration from pixels to mm for the camera is needed, because SIMION gives the radii of the electrons in mm. To do so, known distance in the camera image is needed, for example the inner diameter of the phosphor screen, making possible to generate the fit curve. The disadvantage of this method is, that it is very difficult to include any magnetic or electric stray fields into the simulations or other external parameter that can be in reality.
+On one hand, the most independent method is the trajectory simulation, because it does not rely on any laser system or physical process. These simulations were done by Dominik Schomas with SIMION 8.1. For the starting conditions for the electrons we chose a small interaction volume comparable to the estimated experimental parameters and the emission direction perpendicular to the spectrometer axis. For those electrons the projected energy on the detector screen is equivalent to the real kinetic energy, with this the inverse Abel transformation can be avoided. It is necessary to simulate different kinetic energies for the electrons, at different velocity vectors. After extracting the radii, where the electrons hit the detector plane, a calibration from pixels to mm for the camera is needed, because SIMION gives the radii of the electrons in mm. To do so, known distance in the camera image is needed, for example the inner diameter of the phosphor screen, making possible to generate the fit curve. The disadvantage of this method is, that it is very difficult to include any magnetic or electric stray fields into the simulations or other external parameter that can be in reality.
 
 \begin{figure}[h!]
 \centering
@@ -75,10 +77,11 @@ On one hand, the most independent method is the trajectory simulation, because i
 
 
 On the other hand, in order to contrast the simulation, a physical process is used, creating electrons with a well-known energy, then above threshold ionization (ATI) of rare gas atoms is a suitable method to calibrate the spectrometer. The result of the ATI mechanism are several rings in the VMI along the laser polarization axis that are energetically spaced by the energy of one photon. With at least 2 rings visible it is possible to do the calibration with the following formula
+
 \begin{align*}
 \Delta E = \alpha (r_2^2-r_1^2)
 \end{align*}
-where $\Delta E$ is the photon energy, $r_i$ are the peak positions of the abel inverted rings and $\alpha$ the calibration factor. Best results are achieved by using as low peak intensities as possible, so tunnel ionization is suppressed.
+where $\Delta E$ is the photon energy, $r_i$ are the peak positions of the Abel inverted rings and $\alpha$ the calibration factor. Best results are achieved by using as low peak intensities as possible, so tunnel ionization is suppressed.
 
 %\begin{figure}[h!]
 %\centering
@@ -86,7 +89,7 @@ where $\Delta E$ is the photon energy, $r_i$ are the peak positions of the abel 
 %\caption{energy calibration of the VMI spectrometer with the ATI method. The fringes are seperated by one photon energy, in this case 1.55eV}
 %\end{figure}
 
-Another method to calibrate a VMI spectrometer is the use of a narrowband laser in combination with resonant processes. A very useful scheme is published by \textit{Wituschek et al.} \cite{wituschek_simple_2016}. The scheme uses continuous 404 nm laser light to excite either the 5p${}_{3/2}$ or the 5p${}_{1/2}$ state in potassium. From this state, relaxation in four other states and the ground state is possible. The 404nm light can also ionize electrons from the resonant 5p state, the 5s, the 3d and the 4p states. The resulting electrons carry a very well defined kinetic energy $E_{kin}=E_{Photon}+E_{state}-E_{ionization}$. Since all energies on the right side of the equation are well known, the kinetic energy is also well known. This allows the calibration of the spectrometer with three points (the cross section of the 5s state is too small to see it) in the low energy range.
+Another method to calibrate a VMI spectrometer is the use of a narrowband laser in combination with resonant processes. A very useful scheme is published by \textit{Wituschek et al.} \cite{wituschek_simple_2016}. The scheme uses continuous 404 nm laser light to excite either the 5p${}_{3/2}$ or the 5p${}_{1/2}$ state in potassium. From this state, relaxation in four other states and the ground state is possible. The 404 nm light can also ionize electrons from the resonant 5p state, the 5s, the 3d and the 4p states. The resulting electrons carry a very well defined kinetic energy $E_{kin}=E_{Photon}+E_{state}-E_{ionization}$. Since all energies on the right side of the equation are well known, the kinetic energy is also well known. This allows the calibration of the spectrometer with three points (the cross section of the 5s state is too small to see it) in the low energy range.
 
 \begin{figure}
 \centering
@@ -95,7 +98,7 @@ Another method to calibrate a VMI spectrometer is the use of a narrowband laser 
 \end{figure}
 
 
-\subsection{Laser intensity calibration}
+\subsection{Laser Intensity Calibration}
 When using a focused MIR and NIR laser, it is essential to know the peak intensity in the focus of the laser field. Most of the time calculations give wrong results, because they assume a perfectly Gaussian shape and do not account losses in optics after the power measurement or an imperfect focus. So it would be desirable to avoid calculations and measure the peak intensity directly. In this thesis two different schemes are used, the 2U$_P$ cutoff energy of electrons in a laser field \cite{Becker_2018}, \cite{becker_vuv_1996} and the ratios of charge states of ions produced in the laser field \cite{augst_laser_1991}.
 
 Assuming that the laser is a perfect Gaussian beams we can calculate with linear optics the Focused intensity. In cylindrical coordinates with the origin in the focus of the beam where z is the direction of propagation and $r$ the distance from the z-axis one can use following equations to describe the intensity distribution of the beam:
@@ -117,11 +120,11 @@ is the power of the laser, $R$ is the repetition rate and $\tau$ is the laser pu
 
 \section{Data Analysis}
 
-Due the complexity of the coulomb explosion, few analytical models exist in literature. the variables and parameter in which the nanoplasma depends are several and its analysis can be quite complicated. As shown above the individual signal tends to have a well defined circular shape that can be advantageous to our analysis, Fig. XXX show a picture of the normalized sum of one thousand signals  of nanoplasma of helium at 10.6 K. On the left, the corresponding kinetic energy  distribution after doing the inverse Abel transform in Pbasex software. As see, there  exist a large combination of energy available along the plasma production and  can be comparable to the most recent work of \textit{Kelbr et al} XXX, where the electron spectra show  similar values.
+Due the complexity of the coulomb explosion, few analytical models exist in literature. the variables and parameter in which the nanoplasma depends are several and its analysis can be quite complicated. As shown above, the individual signal tends to have a well defined circular shape that can be advantageous to our analysis, Fig.  XXX shows a picture of the normalized sum several signals for helium at 10.6 K and have a similar behaiviur for the other experiments. On the left, the corresponding kinetic energy  distribution after doing the inverse Abel transform in Pbasex software. As see, there  exist a large combination of energy available along the plasma production and  can be comparable to the most recent work of \textit{Kelbr et al} \cite{kelbg_auger_2019}, where the electron spectra show  similar values.
 
 This large range of spectra for the averaged data and the defined circularity of the individual signal make us suspect that exist a energy dependence. Fig. \ref{fig:abeltransf} show a raw picture of single event and its  Abel transform. The sharp peak in the electron spectra show a strong electron energy preference that change in each explosion. The peak in the energy distribution define the radius of the signal. To avoid doing the Inverse Abel transform for each individual picture, we create a event finder algorithm to  identify and analyse each signal in the data sets. In this way we will detect and analyse the max energy distribution in the nanoplasma for the single explosion, and correlated to the electron yield given by the intensity of the signal.
  
-\begin{figure}[hbtp]
+\begin{figure}[h!]
  \centering
  \includegraphics[width=12 cm]{../Images/abel inverse transform.png}
  \caption[Abel inverse transform example]{Example of the Inverse Abel transform for a single shot image. The photo electron spectra show the energy distribution of the signal with a peak in 21 pixels}
@@ -144,7 +147,7 @@ The second method was based on a circular binning of the signal. A center for ea
 \end{align}
 
 Where $N$ is the number of pixels in the respective area and $bg$ is a background taken far from the central features. The normalization on the area is important, because the areas are of different size. To finally find out the radius of the central circle, the difference $\rho_{in}-\rho_{in}$ is maximized, this is the case for the orange box in figure \ref{fig:density_plot}. For the green and the purple boxes $\rho_{in} = \rho_{in}$, which gives zero for the difference.
-Real signals do not have a perfect cutoff or a constant radial profile, which leads to noisy curves, when $\Delta r$ is chosen too small, which makes the determination of $r$ difficult. An example of a single shot image, where the radius is determined for $\Delta r = 3,4,5$ in pixels, is shown in figure \ref{fig:density_plot}. The VMI image in this figure has a donut shape, if the inner radius is of interest the same curve can be used to determine the inner radius as well if the minimum of the function is taken.
+Real signals do not have a perfect cut-off or a constant radial profile, which leads to noisy curves, when $\Delta r$ is chosen too small, which makes the determination of $r$ difficult. An example of a single shot image, where the radius is determined for $\Delta r = 3,4,5$ in pixels, is shown in figure \ref{fig:density_plot}. The VMI image in this figure has a donut shape, if the inner radius is of interest the same curve can be used to determine the inner radius as well if the minimum of the function is taken.
 \begin{figure}
 
 \centering
@@ -159,7 +162,8 @@ Figure \ref{fig:checkradius} shows a set of well fitted radius for each signal, 
 
 \begin{figure}[hbtp!]
 \centering
-\subfloat{\includegraphics[width=0.4\textwidth]{../Images/rawVMIfit.PNG} \includegraphics[width=0.5\textwidth]{../Images/pesandFinder.PNG}} 
+\begin{subfigure}[l]{1\textwidth}
+\includegraphics[width=0.4\textwidth]{../Images/rawVMIfit.PNG} \includegraphics[width=0.5\textwidth]{../Images/pesandFinder.PNG} \end{subfigure} 
 \caption[Fit-Abel transform agreement]{On the Left, example images of MIR VMI signal. On the right, the correspond Inverse Abel transform PES (orange) and the Bloop finder density plot (blue). Both algorithms show a peak at radius of the circular signal, highlighted in red. The density plot also shows a second depletion close to 45 pixel that give extra information as the radius of the inner less brighter ring. }
 \label{fig:abelfinder}
 \end{figure}
@@ -173,75 +177,4 @@ Figure \ref{fig:checkradius} shows a set of well fitted radius for each signal, 
 \end{figure}
 Last, once the radius-brightness data is recorded, and the calibrations are set, the system can be compare to the model explained above, where radius can be converted into maximal kinetic energy, $r\rightarrow k_{energy}$, and brightness to number of electrons, $b\rightarrow N_{e-}$. 
 
-
-\section{Coulomb Explosion Model}
-
-As seen in the  the previous section, the electron energy distribution may have a big dependence on the maximal energy reached in the coulomb explosion.  In order to give an analytical background, the next section  explain a simple  model based on the work of    \textit{Ranaul Islam et al.}  \cite{islam_kinetic_2006}, Where describes a ions energy distribution based on the ions laying in a ion uniform charge spherical cloud.
-
-\subsection{The Islam et al. Model}
-
-Once the ionization process started, an electronic cloud of quazifree electrons will be created around the remaining cluster. This is a complex physical process due its chaotic system determined by the individual velocity vectors of the particles and their interaction between the Electric field, the cluster and each other. Various theoretical approaches ranging from phenomenological models \cite{ditmire_interaction_1996} to large-scale microscopic calculations \cite{saalmann_mechanisms_2006} have been done but far for been interpreted to clusters and system with more than a few thousand of particles, with out taking into account that almost always, considered theoretical scenario of a single well-characterized cluster, irradiated by a laser pulse of a given intensity is usually far from the real experimental situation. As an analytical solution is far from been formulated, we work joint to the theoretician Andreas Hidenreck to make computational simulations. This are demanding simulations that takes a large of computational power even for small cluster, but as show in its group, the results can recreated reasonably the experimental system and so give a better background to the understanding of the plasma formation.
-
-Another, more simple and intuitive approach is done by  \textit{Ranaul Islam et al.}, in \cite{islam_kinetic_2006}they try to express the kinetic energy distribution for an ion cloud and we will adapt to electrons to relate them to the VMI images. Two important assumptions are made for this model. First, we assume a uniformly charge distributed spherical cloud with radius $R$ and density $\rho=N/vol$ where $N$ is the number of particles inside the sphere, furthermore all the particle lays with zero kinetic energy. Second, The basic mechanism underlying the kinetic energy distribution in clusters is their Coulomb explosion, it converts the potential energy $E_{coul}$ of a partially ionized cluster atom at a distance $r$ from the cluster center into kinetic energy $E$. The probability $dP/dr$ to find an atom at a distance $4$ from the cluster center is then given by\cite{islam_kinetic_2006}
-
-\begin{align}
-\frac{dP}{dr}=\frac{3 r^2}{R^3} \Theta (R-r)
-\label{density_distribution}
-\end{align}
-
-where, $\frac{dP}{dr}$ is the probability to find an electron at radius $r$ and $\Theta$ is the step function for the particles inside the radius of the sphere, with homogeneous charged density, we have $N$ particles with a charge of $q$ and just after the are ionizes they have not moved yet, then the potential Coulomb energy of an particle inside the cluster is given by
-
-\begin{align}
-E_{coul}(r)=Ne^2 \frac{r^2}{R^3}
-\label{coulomb_energy}
-\end{align}
-
-for $r\leq R$. $N$ is the number of electrons in the sphere and $e$ is the elementary charge of an electron. A charged sphere like this will immediately coulomb explode and for $t \longrightarrow \infty$ all coulomb energy is converted to kinetic energy, which can be measured experimentally with the VMI. It is possible to retrieve the energy distribution out of the spatial distribution \ref{density_distribution} with \ref{coulomb_energy} as the substitution formula.
-
-\begin{align}
-dr=\frac{R^3}{2Nq^2r}dE
-\label{substitution}
-\end{align}
-
-Furthermore, we define the maximum coulomb energy
-
-\begin{align}
-E(R):=E_R=Nq^2 \frac{1}{R}
-\label{max_coul_energy}
-\end{align}
-
-with all this follows the energy distribution of the electrons
-
-\begin{align}
-\frac{dP}{dE}=\frac{3}{2} \sqrt{\frac{1}{E_R}} \frac{1}{E_R}\sqrt{E} \cdot \Theta (1-\frac{E}{E_R})
-\end{align}
-
-it can be seen, that the energy distribution is fully characterized by $E_R$, so it is enough to know the maximum kinetic energy, which is just the radius of the central feature in our VMI images. With this even the inverse Abel transformation can be bypassed, because the edge of a sphere in invariant for projecting the sphere on a plane.
-\begin{figure}[hbtp]
-
-\centering
-\includegraphics[scale=0.4]{../Images/linemodelfit.png}
-\caption[Islam Model fit]{Energy distribution for a coulomb explosion of a full sphere of electrons according to formula 3.10. The dashed line marks cutoff energy E$_{R} $}
-\end{figure}
-
-
-With the formula for the homogeneous density in a sphere
-
-\begin{align}
-R=(\frac{N}{\frac{4}{3} \pi \rho})^{1/3}
-\end{align}
-
-and formula \ref{max_coul_energy} the charge density in the beginning in the process can be derived to
-
-\begin{align}
-E_{max}(N)=\underbrace{\frac{e^2}{4 \pi \epsilon_0} (\frac{4}{3} \pi \rho)^{1/3}}_{=:B} N^{2/3}
-\end{align}
-
-and with this the charge density reads
-
-\begin{align}
-\rho=48 \pi^2 \frac{\epsilon_0^3}{e^6} B^3
-\end{align}
-
-In summary, the charge density can be calculated with the fit parameter $B$ or B-factor as we will named from now on.  $B$ can be retrieved by plotting the maximum kinetic energy $E_R$ as a function of the number of electrons $N$. Both can be extracted out of the VMI images, $E_R$ from the radius and $N$ from the brightness of the central feature.
 

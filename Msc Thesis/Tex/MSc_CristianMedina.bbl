@@ -463,12 +463,19 @@
 \newblock DOI 10.1051/epjconf/20158600038. --
 \newblock ISSN 2100--014X
 
-\bibitem[58]{rendler_einzelschuss_2017}
+\bibitem[58]{reinhard_introduction_2004}
+\textsc{Reinhard}, P.-G.  ; \textsc{Suraud}, E. :
+\newblock \emph{Introduction to cluster dynamics}.
+\newblock Wiley-{VCH}. --
+\newblock ISBN 978--3--527--40345--5. --
+\newblock {OCLC}: ocm51234499
+
+\bibitem[59]{rendler_einzelschuss_2017}
 \textsc{Rendler}, N. :
 \newblock \emph{{EINZELSCHUSS} {ELEKTRONEN}-{IMAGING} {VON}
   {HELIUM}-{NANOPLASMEN} {IN} {INTENSIVEN} {NAHINFRAROT} {LASERFELDERN}}
 
-\bibitem[59]{rhodes_multiphoton_1985}
+\bibitem[60]{rhodes_multiphoton_1985}
 \textsc{Rhodes}, C.~K.:
 \newblock Multiphoton Ionization of Atoms.
 \newblock  229, Nr. 4720, 1345--1351.
@@ -476,7 +483,7 @@
 \newblock DOI 10.1126/science.229.4720.1345. --
 \newblock ISSN 0036--8075, 1095--9203
 
-\bibitem[60]{saalmann_mechanisms_2006}
+\bibitem[61]{saalmann_mechanisms_2006}
 \textsc{Saalmann}, U.  ; \textsc{Siedschlag}, C.   ; \textsc{Rost}, J.~M.:
 \newblock Mechanisms of cluster ionization in strong laser pulses.
 \newblock  39, Nr. 4, R39--R77.
@@ -484,13 +491,13 @@
 \newblock DOI 10.1088/0953--4075/39/4/R01. --
 \newblock ISSN 0953--4075, 1361--6455
 
-\bibitem[61]{schmidt_electron_1997}
+\bibitem[62]{schmidt_electron_1997}
 \textsc{Schmidt}, V. :
 \newblock \emph{Electron Spectrometry of Atoms using Synchrotron Radiation}.
 \newblock Cambridge University Press. --
 \newblock ISBN 978--0--521--55053--6
 
-\bibitem[62]{schomas_compact_2017}
+\bibitem[63]{schomas_compact_2017}
 \textsc{Schomas}, D.  ; \textsc{Rendler}, N.  ; \textsc{Krull}, J.  ;
   \textsc{Richter}, R.   ; \textsc{Mudrich}, M. :
 \newblock A compact design for velocity-map imaging of energetic electrons and
@@ -500,7 +507,7 @@
 \newblock DOI 10.1063/1.4984076. --
 \newblock ISSN 0021--9606
 
-\bibitem[63]{stebbings_generation_2011}
+\bibitem[64]{stebbings_generation_2011}
 \textsc{Stebbings}, S.~L. ; \textsc{Süßmann}, F.  ; \textsc{Yang}, Y.-Y.  ;
   \textsc{Scrinzi}, A.  ; \textsc{Durach}, M.  ; \textsc{Rusina}, A.  ;
   \textsc{Stockman}, M.~I.  ; \textsc{Kling}, M.~F.:
@@ -512,7 +519,7 @@
 \newblock DOI 10.1088/1367--2630/13/7/073010. --
 \newblock ISSN 1367--2630
 
-\bibitem[64]{stienkemeier_spectroscopy_2006}
+\bibitem[65]{stienkemeier_spectroscopy_2006}
 \textsc{Stienkemeier}, F.  ; \textsc{Lehmann}, K.~K.:
 \newblock Spectroscopy and dynamics in helium nanodroplets.
 \newblock  39, Nr. 8, R127--R166.
@@ -520,7 +527,7 @@
 \newblock DOI 10.1088/0953--4075/39/8/R01. --
 \newblock ISSN 0953--4075, 1361--6455
 
-\bibitem[65]{stringari_systematics_1987}
+\bibitem[66]{stringari_systematics_1987}
 \textsc{Stringari}, S.  ; \textsc{Treiner}, J. :
 \newblock Systematics of liquid helium clusters.
 \newblock  87, Nr. 8, 5021--5027.
@@ -528,14 +535,14 @@
 \newblock DOI 10.1063/1.452818. --
 \newblock ISSN 0021--9606
 
-\bibitem[66]{swenson_liquid-solid_1950}
+\bibitem[67]{swenson_liquid-solid_1950}
 \textsc{Swenson}, C.~A.:
 \newblock The Liquid-Solid Transformation in Helium near Absolute Zero.
 \newblock  79, Nr. 4, 626--631.
 \newblock  \url{http://dx.doi.org/10.1103/PhysRev.79.626}. --
 \newblock DOI 10.1103/PhysRev.79.626
 
-\bibitem[67]{tchaplyguine_variable_2004}
+\bibitem[68]{tchaplyguine_variable_2004}
 \textsc{Tchaplyguine}, M.  ; \textsc{Lundwall}, M.  ; \textsc{Gisselbrecht}, M.
    ; \textsc{Öhrwall}, G.  ; \textsc{Feifel}, R.  ; \textsc{Sorensen}, S.  ;
   \textsc{Svensson}, S.  ; \textsc{Mårtensson}, N.   ; \textsc{Björneholm},
@@ -546,7 +553,7 @@
 \newblock  \url{http://dx.doi.org/10.1103/PhysRevA.69.031201}. --
 \newblock DOI 10.1103/PhysRevA.69.031201
 
-\bibitem[68]{thire_highly_2018}
+\bibitem[69]{thire_highly_2018}
 \textsc{Thiré}, N.  ; \textsc{Maksimenka}, R.  ; \textsc{Kiss}, B.  ;
   \textsc{Ferchaud}, C.  ; \textsc{Gitzinger}, G.  ; \textsc{Pinoteau}, T.  ;
   \textsc{Jousselin}, H.  ; \textsc{Jarosch}, S.  ; \textsc{Bizouard}, P.  ;
@@ -559,14 +566,14 @@
 \newblock DOI 10.1364/OE.26.026907. --
 \newblock ISSN 1094--4087
 
-\bibitem[69]{toennies_spectroscopy_1998}
+\bibitem[70]{toennies_spectroscopy_1998}
 \textsc{Toennies}, J.~P. ; \textsc{Vilesov}, A.~F.:
 \newblock Spectroscopy of Atoms and Molecules in Liquid Helium.
 \newblock  49, Nr. 1, 1--41.
 \newblock  \url{http://dx.doi.org/10.1146/annurev.physchem.49.1.1}. --
 \newblock DOI 10.1146/annurev.physchem.49.1.1
 
-\bibitem[70]{toennies_superfluid_2004}
+\bibitem[71]{toennies_superfluid_2004}
 \textsc{Toennies}, J.~P. ; \textsc{Vilesov}, A.~F.:
 \newblock Superfluid Helium Droplets: A Uniquely Cold Nanomatrix for Molecules
   and Molecular Complexes.
@@ -575,7 +582,7 @@
 \newblock DOI 10.1002/anie.200300611. --
 \newblock ISSN 1521--3773
 
-\bibitem[71]{uiberacker_attosecond_2007}
+\bibitem[72]{uiberacker_attosecond_2007}
 \textsc{Uiberacker}, M.  ; \textsc{Uphues}, T.  ; \textsc{Schultze}, M.  ;
   \textsc{Verhoef}, A.~J. ; \textsc{Yakovlev}, V.  ; \textsc{Kling}, M.~F. ;
   \textsc{Rauschenberger}, J.  ; \textsc{Kabachnik}, N.~M. ;
@@ -589,7 +596,7 @@
 \newblock DOI 10.1038/nature05648. --
 \newblock ISSN 1476--4687
 
-\bibitem[72]{wabnitz_multiple_2002}
+\bibitem[73]{wabnitz_multiple_2002}
 \textsc{Wabnitz}, H.  ; \textsc{Bittner}, L.  ; \textsc{Castro}, A. R.~B. ;
   \textsc{Döhrmann}, R.  ; \textsc{Gürtler}, P.  ; \textsc{Laarmann}, T.  ;
   \textsc{Laasch}, W.  ; \textsc{Schulz}, J.  ; \textsc{Swiderski}, A.  ;
@@ -605,7 +612,7 @@
 \newblock DOI 10.1038/nature01197. --
 \newblock ISSN 1476--4687
 
-\bibitem[73]{weinberger_discovery_2013}
+\bibitem[74]{weinberger_discovery_2013}
 \textsc{Weinberger}, P. :
 \newblock The discovery of thermodynamics.
 \newblock  93, Nr. 20, 2576--2612.
@@ -613,7 +620,7 @@
 \newblock DOI 10.1080/14786435.2013.784402. --
 \newblock ISSN 1478--6435
 
-\bibitem[74]{whittle_matrix_1954}
+\bibitem[75]{whittle_matrix_1954}
 \textsc{Whittle}, E.  ; \textsc{Dows}, D.~A.  ; \textsc{Pimentel}, G.~C.:
 \newblock Matrix Isolation Method for the Experimental Study of Unstable
   Species.
@@ -622,7 +629,7 @@
 \newblock DOI 10.1063/1.1739957. --
 \newblock ISSN 0021--9606, 1089--7690
 
-\bibitem[75]{wiley_timeflight_1955}
+\bibitem[76]{wiley_timeflight_1955}
 \textsc{Wiley}, W.~C. ; \textsc{{McLaren}}, I.~H.:
 \newblock Time‐of‐Flight Mass Spectrometer with Improved Resolution.
 \newblock  26, Nr. 12, 1150--1157.
@@ -630,7 +637,7 @@
 \newblock DOI 10.1063/1.1715212. --
 \newblock ISSN 0034--6748
 
-\bibitem[76]{wituschek_simple_2016}
+\bibitem[77]{wituschek_simple_2016}
 \textsc{Wituschek}, A.  ; \textsc{Vangerow}, J.  von ; \textsc{Grzesiak}, J.  ;
   \textsc{Stienkemeier}, F.   ; \textsc{Mudrich}, M. :
 \newblock A simple photoionization scheme for characterizing electron and ion
@@ -640,12 +647,12 @@
 \newblock DOI 10.1063/1.4960401. --
 \newblock ISSN 0034--6748, 1089--7623
 
-\bibitem[77]{young_phase_nodate}
+\bibitem[78]{young_phase_nodate}
 \textsc{Young}, D.~A.:
 \newblock {PHASE} {DIAGRAMS} {OF} {THE} {ELEMENTS}.
 \newblock
 
-\bibitem[78]{zewail_femtochemistry:_2000}
+\bibitem[79]{zewail_femtochemistry:_2000}
 \textsc{Zewail}, A.~H.:
 \newblock Femtochemistry:  Atomic-Scale Dynamics of the Chemical Bond.
 \newblock  104, Nr. 24, 5660--5694.
@@ -653,7 +660,7 @@
 \newblock DOI 10.1021/jp001460h. --
 \newblock ISSN 1089--5639
 
-\bibitem[79]{zhao_tailoring_2012}
+\bibitem[80]{zhao_tailoring_2012}
 \textsc{Zhao}, K.  ; \textsc{Zhang}, Q.  ; \textsc{Chini}, M.  ; \textsc{Wu},
   Y.  ; \textsc{Wang}, X.   ; \textsc{Chang}, Z. :
 \newblock Tailoring a 67 attosecond pulse through advantageous phase-mismatch.

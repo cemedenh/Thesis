@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  17 JUL 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  23 JUL 2019 16:57
 entering extended mode
 **./todelete.tex
 (todelete.tex
@@ -271,7 +271,17 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 LaTeX Warning: Unused global option(s):
     [twosite].
 
-(todelete.aux)
+(todelete.aux (results2.aux
+
+LaTeX Warning: Label `fig:IntensitySigRate' multiply defined.
+
+
+LaTeX Warning: Label `fig:IntensitySigRate' multiply defined.
+
+
+LaTeX Warning: Label `fig:IntensitySigRate' multiply defined.
+
+))
 \openout1 = `todelete.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -368,13 +378,13 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-<../Images/results/Mir_He_Dropletsize/Henerg.png, id=1, 578.16pt x 382.42876pt>
-
+<../Images/results/Mir_He_Dropletsize/Henerg.png, id=1, 678.535pt x 384.43625pt
+>
 File: ../Images/results/Mir_He_Dropletsize/Henerg.png Graphic file (type png)
 <use ../Images/results/Mir_He_Dropletsize/Henerg.png>
 Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Henerg.png  used 
 on input line 14.
-(pdftex.def)             Requested size: 219.58662pt x 145.24274pt.
+(pdftex.def)             Requested size: 219.58662pt x 124.40648pt.
 <../Images/results/Mir_He_Dropletsize/Helec.png, id=2, 578.16pt x 370.38374pt>
 File: ../Images/results/Mir_He_Dropletsize/Helec.png Graphic file (type png)
 <use ../Images/results/Mir_He_Dropletsize/Helec.png>
@@ -385,20 +395,331 @@ n input line 16.
 
 {C:/Users/nano/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../Images/re
 sults/Mir_He_Dropletsize/Henerg.png (PNG copy)> <../Images/results/Mir_He_Dropl
-etsize/Helec.png (PNG copy)>] (todelete.aux) ) 
+etsize/Helec.png (PNG copy)>]
+\openout2 = `results2.aux'.
+
+ (results2.tex
+chapter 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface .
+
+<../Images/TOF-10k6.png, id=8, 880.891pt x 563.706pt>
+File: ../Images/TOF-10k6.png Graphic file (type png)
+<use ../Images/TOF-10k6.png>
+Package pdftex.def Info: ../Images/TOF-10k6.png  used on input line 14.
+(pdftex.def)             Requested size: 313.69029pt x 200.74063pt.
+
+LaTeX Warning: Citation `hagena_cluster_1972' on page 2 undefined on input line
+ 19.
+
+
+LaTeX Warning: Reference `tab:NIRclustersize' on page 2 undefined on input line
+ 19.
+
+<../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.png, 
+id=10, 803.0pt x 527.9725pt>
+File: ../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.
+png Graphic file (type png)
+<use ../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.p
+ng>
+Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/NIR_He
+_summed_energydist.png  used on input line 22.
+(pdftex.def)             Requested size: 403.31511pt x 265.18597pt.
+<../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.png, 
+id=11, 803.0pt x 517.935pt>
+File: ../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.
+png Graphic file (type png)
+<use ../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.p
+ng>
+Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/MIR_He
+_summed_energydist.png  used on input line 23.
+(pdftex.def)             Requested size: 403.31511pt x 260.14441pt.
+[2
+
+
+]
+
+LaTeX Warning: Citation `kelbg_auger_2019' on page 3 undefined on input line 28
+.
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ´ in font cmr12!
+[3 <../Images/TOF-10k6.png>] [4 <../Images/results/Comparison_energyDistributio
+n/NIR_He_summed_energydist.png (PNG copy)> <../Images/results/Comparison_energy
+Distribution/MIR_He_summed_energydist.png (PNG copy)>]
+<../Images/results/NI_He_Dropletsize/signalrate.png, id=29, 578.16pt x 412.5412
+4pt>
+File: ../Images/results/NI_He_Dropletsize/signalrate.png Graphic file (type png
+)
+<use ../Images/results/NI_He_Dropletsize/signalrate.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/signalrate.png  us
+ed on input line 40.
+(pdftex.def)             Requested size: 143.40518pt x 102.32301pt.
+<../Images/results/Mir_He_Dropletsize/sigrate.png, id=30, 578.16pt x 375.4025pt
+>
+File: ../Images/results/Mir_He_Dropletsize/sigrate.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/sigrate.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/sigrate.png  used
+ on input line 42.
+(pdftex.def)             Requested size: 143.40518pt x 93.11145pt.
+<../Images/results/MIR_Ne_DropletSize/Sigrate.png, id=31, 578.16pt x 398.48875p
+t>
+File: ../Images/results/MIR_Ne_DropletSize/Sigrate.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_DropletSize/Sigrate.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/Sigrate.png  used
+ on input line 45.
+(pdftex.def)             Requested size: 143.40518pt x 98.83755pt.
+<../Images/results/NI_He_Dropletsize/MeanElec.png, id=32, 578.16pt x 347.2975pt
+>
+File: ../Images/results/NI_He_Dropletsize/MeanElec.png Graphic file (type png)
+<use ../Images/results/NI_He_Dropletsize/MeanElec.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/MeanElec.png  used
+ on input line 55.
+(pdftex.def)             Requested size: 143.40518pt x 86.14053pt.
+<../Images/results/Mir_He_Dropletsize/Meanelec.png, id=33, 578.16pt x 345.29pt>
+
+File: ../Images/results/Mir_He_Dropletsize/Meanelec.png Graphic file (type png)
+
+<use ../Images/results/Mir_He_Dropletsize/Meanelec.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Meanelec.png  use
+d on input line 59.
+(pdftex.def)             Requested size: 143.40518pt x 85.64261pt.
+<../Images/results/MIR_Ne_DropletSize/MeanElec.png, id=34, 578.16pt x 363.3575p
+t>
+File: ../Images/results/MIR_Ne_DropletSize/MeanElec.png Graphic file (type png)
+
+<use ../Images/results/MIR_Ne_DropletSize/MeanElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/MeanElec.png  use
+d on input line 63.
+(pdftex.def)             Requested size: 143.40518pt x 90.12392pt.
+<../Images/results/NI_He_Dropletsize/MeanEnerg.png, id=35, 578.16pt x 367.3725p
+t>
+File: ../Images/results/NI_He_Dropletsize/MeanEnerg.png Graphic file (type png)
+
+<use ../Images/results/NI_He_Dropletsize/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/MeanEnerg.png  use
+d on input line 68.
+(pdftex.def)             Requested size: 143.40518pt x 91.11977pt.
+<../Images/results/Mir_He_Dropletsize/MeanEnerg.png, id=36, 578.16pt x 358.3387
+5pt>
+File: ../Images/results/Mir_He_Dropletsize/MeanEnerg.png Graphic file (type png
+)
+<use ../Images/results/Mir_He_Dropletsize/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/MeanEnerg.png  us
+ed on input line 71.
+(pdftex.def)             Requested size: 143.40518pt x 88.87912pt.
+<../Images/results/MIR_Ne_DropletSize/MeanEnerg.png, id=37, 578.16pt x 369.38pt
+>
+File: ../Images/results/MIR_Ne_DropletSize/MeanEnerg.png Graphic file (type png
+)
+<use ../Images/results/MIR_Ne_DropletSize/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/MeanEnerg.png  us
+ed on input line 74.
+(pdftex.def)             Requested size: 143.40518pt x 91.61769pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <../Images/results/NI_He_Dropletsize/signalrate.png (PNG copy)> <../Images/r
+esults/Mir_He_Dropletsize/sigrate.png (PNG copy)> <../Images/results/MIR_Ne_Dro
+pletSize/Sigrate.png (PNG copy)>]
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ´ in font cmr12!
+
+
+Package caption Warning: \label without proper reference on input line 94.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:pulsepower' on page 6 undefined on input line 89.
+
+
+[6 <../Images/results/NI_He_Dropletsize/MeanElec.png (PNG copy)> <../Images/res
+ults/Mir_He_Dropletsize/Meanelec.png (PNG copy)> <../Images/results/MIR_Ne_Drop
+letSize/MeanElec.png (PNG copy)> <../Images/results/NI_He_Dropletsize/MeanEnerg
+.png (PNG copy)> <../Images/results/Mir_He_Dropletsize/MeanEnerg.png (PNG copy)
+> <../Images/results/MIR_Ne_DropletSize/MeanEnerg.png (PNG copy)>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 92.
+
+<../Images/results/MIR_He_pulsescan/raw/signalrate.png, id=45, 578.16pt x 450.6
+8375pt>
+File: ../Images/results/MIR_He_pulsescan/raw/signalrate.png Graphic file (type 
+png)
+<use ../Images/results/MIR_He_pulsescan/raw/signalrate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/signalrate.png 
+ used on input line 127.
+(pdftex.def)             Requested size: 215.10094pt x 167.67186pt.
+<../Images/results/MIR_Ne_pulseduration/SigRate.png, id=46, 578.16pt x 462.7287
+4pt>
+File: ../Images/results/MIR_Ne_pulseduration/SigRate.png Graphic file (type png
+)
+<use ../Images/results/MIR_Ne_pulseduration/SigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/SigRate.png  us
+ed on input line 131.
+(pdftex.def)             Requested size: 215.10094pt x 172.15308pt.
+<../Images/results/MIR_He_pulsescan/raw/meanelect.png, id=47, 578.16pt x 358.33
+875pt>
+File: ../Images/results/MIR_He_pulsescan/raw/meanelect.png Graphic file (type p
+ng)
+<use ../Images/results/MIR_He_pulsescan/raw/meanelect.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/meanelect.png  
+used on input line 136.
+(pdftex.def)             Requested size: 215.10094pt x 133.31595pt.
+<../Images/results/MIR_Ne_pulseduration/MeanElec.png, id=48, 578.16pt x 378.413
+76pt>
+File: ../Images/results/MIR_Ne_pulseduration/MeanElec.png Graphic file (type pn
+g)
+<use ../Images/results/MIR_Ne_pulseduration/MeanElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/MeanElec.png  u
+sed on input line 139.
+(pdftex.def)             Requested size: 215.10094pt x 140.78462pt.
+<../Images/results/MIR_He_pulsescan/raw/meanenergt.png, id=49, 578.16pt x 365.3
+65pt>
+File: ../Images/results/MIR_He_pulsescan/raw/meanenergt.png Graphic file (type 
+png)
+<use ../Images/results/MIR_He_pulsescan/raw/meanenergt.png>
+Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/meanenergt.png 
+ used on input line 143.
+(pdftex.def)             Requested size: 215.10094pt x 135.92998pt.
+<../Images/results/MIR_Ne_pulseduration/MeanEnerg.png, id=50, 578.16pt x 362.35
+374pt>
+File: ../Images/results/MIR_Ne_pulseduration/MeanEnerg.png Graphic file (type p
+ng)
+<use ../Images/results/MIR_Ne_pulseduration/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/MeanEnerg.png  
+used on input line 146.
+(pdftex.def)             Requested size: 215.10094pt x 134.80968pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7] [8 <../Images/results/MIR_He_pulsescan/raw/signalrate.png (PNG copy)> <../I
+mages/results/MIR_Ne_pulseduration/SigRate.png (PNG copy)> <../Images/results/M
+IR_He_pulsescan/raw/meanelect.png (PNG copy)> <../Images/results/MIR_Ne_pulsedu
+ration/MeanElec.png (PNG copy)> <../Images/results/MIR_He_pulsescan/raw/meanene
+rgt.png (PNG copy)> <../Images/results/MIR_Ne_pulseduration/MeanEnerg.png (PNG 
+copy)>]
+<../Images/results/NIR_He_intensityscan/signalrate.png, id=58, 803.0pt x 525.96
+5pt>
+File: ../Images/results/NIR_He_intensityscan/signalrate.png Graphic file (type 
+png)
+<use ../Images/results/NIR_He_intensityscan/signalrate.png>
+Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/signalrate.png 
+ used on input line 165.
+(pdftex.def)             Requested size: 215.10094pt x 140.88885pt.
+<../Images/results/MIR_He_waterIntensityscan/sigRate.png, id=59, 578.16pt x 377
+.41pt>
+File: ../Images/results/MIR_He_waterIntensityscan/sigRate.png Graphic file (typ
+e png)
+<use ../Images/results/MIR_He_waterIntensityscan/sigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/sigRate.pn
+g  used on input line 167.
+(pdftex.def)             Requested size: 215.10094pt x 140.4112pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+<../Images/results/MIR_He_XeCaDop/Xe_SignalRate.png, id=63, 578.16pt x 397.485p
+t>
+File: ../Images/results/MIR_He_XeCaDop/Xe_SignalRate.png Graphic file (type png
+)
+<use ../Images/results/MIR_He_XeCaDop/Xe_SignalRate.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/Xe_SignalRate.png  us
+ed on input line 185.
+(pdftex.def)             Requested size: 215.10094pt x 147.87987pt.
+<../Images/results/MIR_Ne_XeDop_39K/SigRate.png, id=64, 702.625pt x 448.67625pt
+>
+File: ../Images/results/MIR_Ne_XeDop_39K/SigRate.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/SigRate.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/SigRate.png  used o
+n input line 187.
+(pdftex.def)             Requested size: 215.10094pt x 137.3561pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Images/results/MIR_He_XeCaDop/Xe_Meanenerg.png, id=65, 636.3775pt x 414.548
+75pt>
+File: ../Images/results/MIR_He_XeCaDop/Xe_Meanenerg.png Graphic file (type png)
+
+<use ../Images/results/MIR_He_XeCaDop/Xe_Meanenerg.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/Xe_Meanenerg.png  use
+d on input line 194.
+(pdftex.def)             Requested size: 215.10094pt x 140.11606pt.
+<../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png, id=66, 578.16pt x 354.32375p
+t>
+File: ../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png  used
+ on input line 196.
+(pdftex.def)             Requested size: 215.10094pt x 131.8222pt.
+<../Images/results/MIR_He_XeCaDop/Xe_Meanelec.png, id=67, 636.3775pt x 406.5187
+5pt>
+File: ../Images/results/MIR_He_XeCaDop/Xe_Meanelec.png Graphic file (type png)
+<use ../Images/results/MIR_He_XeCaDop/Xe_Meanelec.png>
+Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/Xe_Meanelec.png  used
+ on input line 199.
+(pdftex.def)             Requested size: 215.10094pt x 137.40195pt.
+<../Images/results/MIR_Ne_XeDop_39K/MeanElec.png, id=68, 578.16pt x 358.33875pt
+>
+File: ../Images/results/MIR_Ne_XeDop_39K/MeanElec.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/MeanElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/MeanElec.png  used 
+on input line 201.
+(pdftex.def)             Requested size: 215.10094pt x 133.31595pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [10 <../Images/results/NIR_He_intensityscan/signalrate.png (PNG copy)> <../Im
+ages/results/MIR_He_waterIntensityscan/sigRate.png (PNG copy)>] [11 <../Images/
+results/MIR_He_XeCaDop/Xe_SignalRate.png (PNG copy)> <../Images/results/MIR_Ne_
+XeDop_39K/SigRate.png (PNG copy)> <../Images/results/MIR_He_XeCaDop/Xe_Meanener
+g.png (PNG copy)> <../Images/results/MIR_Ne_XeDop_39K/MeanEnerg.png (PNG copy)>
+ <../Images/results/MIR_He_XeCaDop/Xe_Meanelec.png (PNG copy)> <../Images/resul
+ts/MIR_Ne_XeDop_39K/MeanElec.png (PNG copy)>] (todelete.aux (results2.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5513 strings out of 493305
- 97637 string characters out of 3130238
- 252130 words of memory out of 3000000
- 9022 multiletter control sequences out of 15000+200000
- 7050 words of font info for 26 fonts, out of 3000000 for 9000
+ 5683 strings out of 493305
+ 104757 string characters out of 3130238
+ 259623 words of memory out of 3000000
+ 9155 multiletter control sequences out of 15000+200000
+ 9193 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,7n,66p,9109b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/nano/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on todelete.pdf (1 page, 55819 bytes).
+ 51i,9n,66p,9109b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/nano/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nano/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nano/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
+nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.
+pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb>
+Output written on todelete.pdf (11 pages, 676076 bytes).
 PDF statistics:
- 12 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
