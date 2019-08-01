@@ -32,35 +32,45 @@
 \contentsline {figure}{\numberline {3.8}{\ignorespaces Fit-Abel transform agreement}}{51}{figure.caption.37}
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Example signal finder}}{51}{figure.caption.38}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces MIR He droplet scan histograms}}{53}{figure.caption.39}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces MIR He droplet scan histograms}}{54}{figure.caption.40}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Xenon ion charge calibration for NIR}}{55}{figure.caption.42}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces NIR He Intensity dependence. Histograms}}{56}{figure.caption.44}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces NIR He intensity dependence. Signal Rate and Mean Values)}}{57}{figure.caption.45}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces NIR He droplet size. histograms}}{58}{figure.caption.46}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces NIR He intensity dependence. Signal Rate and Mean Values)}}{58}{figure.caption.47}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces MIR He raw images}}{60}{figure.caption.48}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces MIR He droplet scan histograms}}{61}{figure.caption.49}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces MIR TOF spectra He }}{61}{figure.caption.50}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces MIR He droplet scan histograms}}{62}{figure.caption.52}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces MIR He droplet size dependence}}{63}{figure.caption.53}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces MIR HeDoping examples}}{64}{figure.caption.54}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces MIR He_Ar. Histograms}}{64}{figure.caption.56}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces MIR He-Ar doping, signal rate and mean values}}{65}{figure.caption.57}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces MIR He_Water. Histograms}}{66}{figure.caption.59}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces MIR He-Water doping, signal rate and mean values}}{67}{figure.caption.60}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces MIR He-Xe-Ca doping. Histogram}}{68}{figure.caption.63}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces MIR He-Xe-Ca doping. Interpolations}}{69}{figure.caption.64}
-\contentsline {figure}{\numberline {4.20}{\ignorespaces MIR He laser parameter examples }}{70}{figure.caption.65}
-\contentsline {figure}{\numberline {4.21}{\ignorespaces MIR He-intensity dependence. Histogram}}{71}{figure.caption.67}
-\contentsline {figure}{\numberline {4.22}{\ignorespaces MIR He intensity dependence}}{72}{figure.caption.68}
-\contentsline {figure}{\numberline {4.23}{\ignorespaces MIR He-intensity dependence. Histogram}}{73}{figure.caption.71}
-\contentsline {figure}{\numberline {4.24}{\ignorespaces MIR He pulse scan. Signal rate and mean values}}{74}{figure.caption.72}
-\contentsline {figure}{\numberline {4.25}{\ignorespaces MIR Neon raw samples}}{76}{figure.caption.73}
-\contentsline {figure}{\numberline {4.26}{\ignorespaces MIR Ne-Xe doping scan.Histograms}}{77}{figure.caption.74}
-\contentsline {figure}{\numberline {4.27}{\ignorespaces MIR Ne-Xe. Signal rate and mean values}}{78}{figure.caption.75}
-\contentsline {figure}{\numberline {4.28}{\ignorespaces MIR Ne size dependence.Histograms}}{79}{figure.caption.76}
-\contentsline {figure}{\numberline {4.29}{\ignorespaces MIR Ne size dependence. Signal rate and mean values}}{80}{figure.caption.77}
-\contentsline {figure}{\numberline {4.30}{\ignorespaces MIR Ne pulse duration. Histograms}}{81}{figure.caption.79}
-\contentsline {figure}{\numberline {4.31}{\ignorespaces MIR Ne pulse duration. Signal rate and mean values}}{82}{figure.caption.80}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces examples NIR signal}}{53}{figure.caption.39}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Average energy distributions in NIr}}{54}{figure.caption.40}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces NIR He Intensity dependence. Histograms}}{55}{figure.caption.43}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces NIR He intensity dependence. Signal Rate and Mean Values)}}{57}{figure.caption.44}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces NIR He droplet size. histograms}}{57}{figure.caption.46}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces NIR He intensity dependence. Signal Rate and Mean Values)}}{58}{figure.caption.47}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces MIR He raw images}}{60}{figure.caption.48}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces MIR He droplet scan histograms}}{60}{figure.caption.49}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces MIR TOF spectra He }}{61}{figure.caption.50}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces MIR He droplet scan histograms}}{62}{figure.caption.52}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces MIR He droplet size dependence}}{63}{figure.caption.53}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces MIR He Doping examples}}{64}{figure.caption.54}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces MIR He-Ar. Histograms}}{64}{figure.caption.56}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces MIR He-Ar doping, signal rate and mean values}}{65}{figure.caption.57}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces MIR He-Water. Histograms}}{66}{figure.caption.59}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces MIR He-Water doping, signal rate and mean values}}{67}{figure.caption.60}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces MIR He-Xe-Ca doping. Histogram}}{68}{figure.caption.63}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces MIR He-Xe-Ca doping. Interpolations}}{69}{figure.caption.64}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces MIR He laser parameter examples }}{70}{figure.caption.65}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces MIR He-intensity dependence. Histogram}}{71}{figure.caption.67}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces MIR He intensity dependence}}{72}{figure.caption.68}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces MIR He-intensity dependence. Histogram}}{73}{figure.caption.71}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces MIR He pulse scan. Signal rate and mean values}}{74}{figure.caption.72}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces MIR Neon raw samples}}{76}{figure.caption.73}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces MIR Ne-Xe doping scan.Histograms}}{77}{figure.caption.74}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces MIR Ne-Xe doping scan.Histograms}}{78}{figure.caption.75}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces MIR Ne-Xe. Signal rate and mean values}}{79}{figure.caption.76}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces MIR Ne size dependence.Histograms}}{80}{figure.caption.77}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces MIR Ne size dependence. Signal rate and mean values}}{81}{figure.caption.78}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces MIR Ne pulse duration. Histograms}}{82}{figure.caption.80}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces MIR Ne pulse duration. Signal rate and mean values}}{83}{figure.caption.81}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Laser parameter comparison}}{86}{figure.caption.82}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Cluster size comparison}}{88}{figure.caption.83}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Doping level comparison}}{90}{figure.caption.84}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Xe-Ca interpolation signal rate}}{91}{figure.caption.85}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Xe-Ca interpolation num electrons}}{92}{figure.caption.86}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Xe-Ca interpolation max energy}}{92}{figure.caption.87}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Energy-Number of electrons relation. NIR Helium Droplets}}{94}{figure.caption.88}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Energy-Number of electrons relation. MIR helium droplets}}{95}{figure.caption.89}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Energy-Number of electrons relation. Neon Droplets}}{96}{figure.caption.90}
 \addvspace {10\p@ }

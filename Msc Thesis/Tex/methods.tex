@@ -51,12 +51,12 @@ A delay generator (Stanford Research Systems MD DG335) receives the laser trigge
 \label{fig:triggers}
 \end{figure}
 
-In Fig \ref{fig:triggers}, we show the Trigger scheme used in the experiment. The oscilloscope and camera are triggered by the delayed channel B. The oscilloscope is set to $50\mu s$ and the camera to the minimal exposure time. So the camera and oscilloscope sees the same trigger, the oscilloscope will record at least 5 laser shots, but the camera because starts later just can see three as shown. The pictures are saved in the memory RAM of the computer so the dead time after the camera is off is mandatory to give the operating system enough time to save the data on disk and don't get out of ram. A small improvement in this system can be done if we trigger the camera with B and the oscilloscope with C, so both apparatus can start almost at the same time and no corrections need to be done. Each of the data set is save with a unique label to correlate the signals after. Once an explosion is found in the VMI pictures, we check in its corresponding TOF that to proof there exist just one explosion in all five laser shots, so we can be sure that picture correspond to a single coulomb explosion, in case more than one signal is found, this picture is discarded. Fig \ref{fig:correlatesimg} shows an example of some electron-VMI pictures to its corresponding TOF, where just one peak in time shows the single explosion during the exposure time of the camera.
+In Fig \ref{fig:triggers}, we show the Trigger scheme used in the experiment. The oscilloscope and camera are triggered by the delayed channel B. The oscilloscope is set to $50\mu s$ and the camera to the minimal exposure time. So the camera and oscilloscope sees the same trigger, the oscilloscope will record at least 5 laser shots, but the camera because starts later just can see three as shown. The pictures are saved in the memory RAM of the computer so the dead time after the camera is off is mandatory to give the operating system enough time to save the data on disk and don't get out of ram. A small improvement in this system can be done if we trigger the camera with B and the oscilloscope with C, so both apparatus can start almost at the same time and no corrections need to be done. Each of the data set is save with a unique label to correlate the signals after. Once an explosion is found in the VMI pictures, we check in its corresponding TOF that to proof there exist just one explosion in all five laser shots, so we can be sure that picture correspond to a single coulomb explosion, in case more than one signal is found, this picture is discarded. Fig \ref{fig:correlatesimg} shows an example of some electron-VMI pictures to its corresponding TOF. Fig A shows a typical VMI-TOf relation with one peak in the time of flight for $^{+}$He. Fig b. presents a brighter electron VMI picture meaning a bigger explosion as seen in the TOF. Fig c. show an example of a Coulomb explosion where dimmers where formed as show in the TOF with two peaks that correspond to $^{+}$He and He$^{2}$.
 
 \begin{figure}[h!]
  \centering
- \includegraphics[width=8cm]{../Images/results/Mir_He_Dropletsize/correlatedsignalexample.png}
-  \caption[Correlation signals example]{Example of VMI-TOF correlation signals for He droplets, in the left some Electronic VMI pictures and on the left the Ion yield, time for the X-axis in $\mu$s and  on the Y-axis the signal strength in a.u}
+\includegraphics[width=0.6\textwidth]{../Images/results/mir_correlated/mir_correlated.png} 
+  \caption[Correlation signals example]{Example of VMI-TOF correlation signals for He droplets, in the left some Electronic VMI pictures and on the right their correspondent TOF spectra On the Y-axis the Ion yield and on the x-axes the mass/charge }
   \label{fig:correlatesimg}
  \end{figure}
   
@@ -83,11 +83,6 @@ On the other hand, in order to contrast the simulation, a physical process is us
 \end{align*}
 where $\Delta E$ is the photon energy, $r_i$ are the peak positions of the Abel inverted rings and $\alpha$ the calibration factor. Best results are achieved by using as low peak intensities as possible, so tunnel ionization is suppressed.
 
-%\begin{figure}[h!]
-%\centering
-%\includegraphics[scale=1]{../images/ati_calib.png}
-%\caption{energy calibration of the VMI spectrometer with the ATI method. The fringes are seperated by one photon energy, in this case 1.55eV}
-%\end{figure}
 
 Another method to calibrate a VMI spectrometer is the use of a narrowband laser in combination with resonant processes. A very useful scheme is published by \textit{Wituschek et al.} \cite{wituschek_simple_2016}. The scheme uses continuous 404 nm laser light to excite either the 5p${}_{3/2}$ or the 5p${}_{1/2}$ state in potassium. From this state, relaxation in four other states and the ground state is possible. The 404 nm light can also ionize electrons from the resonant 5p state, the 5s, the 3d and the 4p states. The resulting electrons carry a very well defined kinetic energy $E_{kin}=E_{Photon}+E_{state}-E_{ionization}$. Since all energies on the right side of the equation are well known, the kinetic energy is also well known. This allows the calibration of the spectrometer with three points (the cross section of the 5s state is too small to see it) in the low energy range.
 

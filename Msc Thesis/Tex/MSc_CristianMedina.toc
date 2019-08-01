@@ -30,21 +30,26 @@
 \contentsline {section}{\numberline {3.3}Data Analysis}{47}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Event Recognition}{48}{subsection.3.3.1}
 \contentsline {chapter}{\numberline {4}Results}{52}{chapter.4}
-\contentsline {section}{\numberline {4.1}Helium Nanoplasma in NIR Fields}{53}{section.4.1}
+\contentsline {section}{\numberline {4.1}Helium Nanoplasma in NIR Fields}{52}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Laser Parameter Dependence}{54}{subsection.4.1.1}
-\contentsline {subsubsection}{\nonumberline He Droplet Intensity Dependence.}{55}{section*.43}
-\contentsline {subsection}{\numberline {4.1.2}He Droplet size dependant.}{57}{subsection.4.1.2}
+\contentsline {subsubsection}{\nonumberline He Droplet Intensity Dependence.}{54}{section*.42}
+\contentsline {subsection}{\numberline {4.1.2}He Droplet Size Dependence.}{56}{subsection.4.1.2}
 \contentsline {section}{\numberline {4.2}Helium Nanoplasma in MIR Fields}{59}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Helium Droplet Size Dependence.}{60}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.1}Helium Droplet Size Dependence.}{61}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Doping Dependence}{63}{subsection.4.2.2}
-\contentsline {subsubsection}{\nonumberline Helium-Argon Doping.}{64}{section*.55}
-\contentsline {subsubsection}{\nonumberline Helium-Water Doping.}{66}{section*.58}
-\contentsline {subsubsection}{\nonumberline Helium-Xenon-Calcium Doping}{67}{section*.61}
+\contentsline {subsubsection}{\nonumberline Helium-Argon Doping.}{63}{section*.55}
+\contentsline {subsubsection}{\nonumberline Helium-Water Doping.}{65}{section*.58}
+\contentsline {subsubsection}{\nonumberline Helium-Xenon-Calcium Doping}{66}{section*.61}
 \contentsline {subsection}{\numberline {4.2.3}Laser parameter Dependence}{70}{subsection.4.2.3}
-\contentsline {subsubsection}{\nonumberline Helium-Water Intensity Dependence}{71}{section*.66}
-\contentsline {subsubsection}{\nonumberline Helium Pulse Duration Dependence}{73}{section*.69}
+\contentsline {subsubsection}{\nonumberline Helium-Water Intensity Dependence}{70}{section*.66}
+\contentsline {subsubsection}{\nonumberline Helium Pulse Duration Dependence}{72}{section*.69}
 \contentsline {section}{\numberline {4.3}Neon Nanoplasma in Mid-Infrared}{75}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Doping Dependence}{77}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}cluster Size Dependence}{79}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.2}cluster Size Dependence}{78}{subsection.4.3.2}
 \contentsline {subsection}{\numberline {4.3.3}Neon Pulse Duration Dependence}{80}{subsection.4.3.3}
-\contentsline {chapter}{\numberline {5}Bibliography}{88}{chapter.5}
+\contentsline {chapter}{\numberline {5}Summary and Discussion}{85}{chapter.5}
+\contentsline {section}{\numberline {5.1}Laser parameters dependence on clusters}{85}{section.5.1}
+\contentsline {section}{\numberline {5.2}Cluster Size Dependence}{87}{section.5.2}
+\contentsline {section}{\numberline {5.3}Doping Dependence}{89}{section.5.3}
+\contentsline {section}{\numberline {5.4}Electron-Energy Distribution}{93}{section.5.4}
+\contentsline {chapter}{\numberline {6}Bibliography}{101}{chapter.6}
