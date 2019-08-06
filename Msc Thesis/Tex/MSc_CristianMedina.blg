@@ -4,6 +4,7 @@ A level-1 auxiliary file: Theorie.aux
 A level-1 auxiliary file: expset.aux
 A level-1 auxiliary file: Methods.aux
 A level-1 auxiliary file: Results.aux
+A level-1 auxiliary file: summary.aux
 The style file: abbrvdin.bst
 Database file #1: thesis.bib
 Warning--entry type for "mikaberidze_atomic_1981" isn't style-file defined
@@ -17,10 +18,11 @@ Warning--entry type for "erk_nobel_2009" isn't style-file defined
 Warning--entry type for "noauthor_helium_nodate" isn't style-file defined
 --line 1131 of file thesis.bib
 Warning--entry type for "fechner_lutz_aufbau_2011" isn't style-file defined
---line 1553 of file thesis.bib
+--line 1537 of file thesis.bib
 Warning--entry type for "rendler_einzelschuss_2017" isn't style-file defined
---line 1751 of file thesis.bib
+--line 1735 of file thesis.bib
 Warning--I didn't find a database entry for "Becker_2018"
+Warning--I didn't find a database entry for "."
 Warning--to sort, need author or key in noauthor_Helium_nodate
 Warning--to sort, need author or key in becker_vuv_1996
 Warning--empty publisher in a._bethe_quantum_1957
@@ -36,6 +38,7 @@ Warning--neither address nor publication date in connerade_highly_1998
 Warning--there's no year in daly_scintillation_1960
 Warning--there's no year in van_delft_discovery_2010
 Warning--there's no year in delhuille_optimization_2002
+Warning--there's no year in dick_inverting_2013
 Warning--there's no year in ditmire_interaction_1996
 Warning--there's no year in drescher_time-resolved_2002
 Warning--there's no year in einstein_uber_1905
@@ -59,8 +62,12 @@ Warning--there's no year in islam_kinetic_2006
 Warning--there's no year in kamenev_introduction_nodate
 Warning--there's no year in kapitza_viscosity_1938
 Warning--there's no year in karnakov_strong_2009
+Warning--there's no year in karnbach_clulu:_1993
+Warning--there's no year in kelbg_auger_2019
+Warning--there's no year in kelbg_comparison_2018
 Warning--there's no year in keldysh_ionization_1965
 Warning--there's no year in knuth_average_1999
+Warning--there's no year in krause_high-order_1992
 Warning--neither address nor publication date in krishnan_ignition_2012
 Warning--there's no year in krishnan_doped_2011
 Warning--there's no year in last_quasiresonance_1999
@@ -71,18 +78,20 @@ Warning--there's no year in mainfray_multiphoton_nodate
 Warning--there's no year in mobius_time--flight_2016
 Warning--there's no year in meija_atomic_2016
 Warning--there's no year in mourou_optics_2006
+Warning--there's no year in nagaya_unusual_2013
 Warning--there's no year in nauta_nonequilibrium_1999
+Warning--there's no year in oelze_correlated_2017
 Warning--there's no year in von_pietrowski_fluorescence_1997
 Warning--there's no year in popruzhenko_keldysh_2014
 Warning--there's no year in protopapas_atomic_1997
 Warning--empty publisher in rafipoor_two-color_2017
-Warning--there's no year in ray_quasifision_2015
 Warning--neither address nor publication date in reinhard_introduction_2004
 Warning--empty year in rendler_einzelschuss_2017
 Warning--there's no year in rhodes_multiphoton_1985
 Warning--there's no year in saalmann_mechanisms_2006
 Warning--neither address nor publication date in schmidt_electron_1997
 Warning--there's no year in schomas_compact_2017
+Warning--there's no year in schutte_strong-field_2016
 Warning--there's no year in stebbings_generation_2011
 Warning--there's no year in stienkemeier_spectroscopy_2006
 Warning--there's no year in stringari_systematics_1987
@@ -100,4 +109,4 @@ Warning--there's no year in wituschek_simple_2016
 Warning--there's no year in young_phase_nodate
 Warning--there's no year in zewail_femtochemistry:_2000
 Warning--there's no year in zhao_tailoring_2012
-(There were 87 warnings)
+(There were 95 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  1 AUG 2019 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.6)  6 AUG 2019 18:04
 entering extended mode
 **./MSc_CristianMedina.tex
 (MSc_CristianMedina.tex
@@ -1626,7 +1626,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 80.
 ("C:\Users\nano\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<logo.jpg, id=183, 185.0112pt x 185.0112pt>
+<logo.jpg, id=187, 185.0112pt x 185.0112pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg  used on input line 85.
@@ -1645,7 +1645,7 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ] (MSc_CristianMedina.toc [3
 
 ]
-Overfull \hbox (2.03697pt too wide) detected at line 55
+Overfull \hbox (2.03697pt too wide) detected at line 56
  []\T1/cmss/bx/n/12 101
  []
 
@@ -1686,75 +1686,74 @@ Class scrreprt Warning: \float@addtolists detected!
 
 
 ]
-<../Images/He_temp_phases.png, id=338, 240.14719pt x 191.9672pt>
+<../Images/He_temp_phases.png, id=360, 240.14719pt x 191.9672pt>
 File: ../Images/He_temp_phases.png Graphic file (type png)
 <use ../Images/He_temp_phases.png>
-Package pdftex.def Info: ../Images/He_temp_phases.png  used on input line 28.
+Package pdftex.def Info: ../Images/He_temp_phases.png  used on input line 27.
 (pdftex.def)             Requested size: 227.62204pt x 181.9577pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9]
-<../Images/jet_scketch.png, id=360, 346.29375pt x 221.32687pt>
+ [9 <../Images/He_temp_phases.png>]
+<../Images/jet_scketch.png, id=380, 346.29375pt x 221.32687pt>
 File: ../Images/jet_scketch.png Graphic file (type png)
 <use ../Images/jet_scketch.png>
-Package pdftex.def Info: ../Images/jet_scketch.png  used on input line 51.
+Package pdftex.def Info: ../Images/jet_scketch.png  used on input line 47.
 (pdftex.def)             Requested size: 256.07741pt x 163.67123pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Images/waanderwaal_hehe.PNG, id=363, 501.37312pt x 582.67688pt>
+<../Images/waanderwaal_hehe.PNG, id=383, 501.37312pt x 582.67688pt>
 File: ../Images/waanderwaal_hehe.PNG Graphic file (type png)
 <use ../Images/waanderwaal_hehe.PNG>
-Package pdftex.def Info: ../Images/waanderwaal_hehe.PNG  used on input line 58.
+Package pdftex.def Info: ../Images/waanderwaal_hehe.PNG  used on input line 54.
 
 (pdftex.def)             Requested size: 213.39568pt x 248.00337pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[10 <../Images/He_temp_phases.png>] [11 <../Images/jet_scketch.png> <../Images/
-waanderwaal_hehe.PNG>]
-<../Images/dimensiones isentropic diagram.png, id=388, 738.50906pt x 608.2725pt
+ [10 <../Images/jet_scketch.png>]
+<../Images/dimensiones isentropic diagram.png, id=401, 738.50906pt x 608.2725pt
 >
 File: ../Images/dimensiones isentropic diagram.png Graphic file (type png)
 <use ../Images/dimensiones isentropic diagram.png>
 Package pdftex.def Info: ../Images/dimensiones isentropic diagram.png  used on 
-input line 70.
+input line 65.
 (pdftex.def)             Requested size: 227.62204pt x 187.4766pt.
- [12 <../Images/dimensiones isentropic diagram.png>]
-<../Images/expansion_regimes.PNG, id=404, 1102.1175pt x 652.68843pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <../Images/waanderwaal_hehe.PNG>]
+<../Images/expansion_regimes.PNG, id=417, 1102.1175pt x 652.68843pt>
 File: ../Images/expansion_regimes.PNG Graphic file (type png)
 <use ../Images/expansion_regimes.PNG>
-Package pdftex.def Info: ../Images/expansion_regimes.PNG  used on input line 96
+Package pdftex.def Info: ../Images/expansion_regimes.PNG  used on input line 91
 .
 (pdftex.def)             Requested size: 284.52756pt x 168.49988pt.
 
 
-Package caption Warning: \label without proper reference on input line 117.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <../Images/dimensiones isentropic diagram.png>]
+
+Package caption Warning: \label without proper reference on input line 112.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `img:dropletSize' on page 13 undefined on input line 1
-07.
+02.
 
-[13 <../Images/expansion_regimes.PNG>]
-<../Images/sizes_regimen.PNG, id=423, 712.16063pt x 590.205pt>
+<../Images/sizes_regimen.PNG, id=435, 712.16063pt x 590.205pt>
 File: ../Images/sizes_regimen.PNG Graphic file (type png)
 <use ../Images/sizes_regimen.PNG>
-Package pdftex.def Info: ../Images/sizes_regimen.PNG  used on input line 118.
+Package pdftex.def Info: ../Images/sizes_regimen.PNG  used on input line 113.
 (pdftex.def)             Requested size: 284.8592pt x 236.0778pt.
-<../Images/Ne_temp_phases.png, id=431, 467.49657pt x 323.70938pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <../Images/expansion_regimes.PNG>]
+<../Images/Ne_temp_phases.png, id=453, 467.49657pt x 323.70938pt>
 File: ../Images/Ne_temp_phases.png Graphic file (type png)
 <use ../Images/Ne_temp_phases.png>
-Package pdftex.def Info: ../Images/Ne_temp_phases.png  used on input line 130.
+Package pdftex.def Info: ../Images/Ne_temp_phases.png  used on input line 125.
 (pdftex.def)             Requested size: 192.0548pt x 132.98349pt.
-<../Images/T-s ne phase diagran.png, id=432, 581.92406pt x 542.77782pt>
+<../Images/T-s ne phase diagran.png, id=454, 581.92406pt x 542.77782pt>
 File: ../Images/T-s ne phase diagran.png Graphic file (type png)
 <use ../Images/T-s ne phase diagran.png>
 Package pdftex.def Info: ../Images/T-s ne phase diagran.png  used on input line
- 131.
+ 126.
 (pdftex.def)             Requested size: 170.71393pt x 159.2236pt.
 
 
@@ -1762,59 +1761,68 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [14 <../Images/sizes_regimen.PNG>] [15 <../Images/Ne_temp_phases.png> <../Image
 s/T-s ne phase diagran.png>] [16]
-<../Images/He_evaporation (2).png, id=477, 581.372pt x 117.238pt>
+<../Images/He_evaporation (2).png, id=498, 581.372pt x 117.238pt>
 File: ../Images/He_evaporation (2).png Graphic file (type png)
 <use ../Images/He_evaporation (2).png>
 Package pdftex.def Info: ../Images/He_evaporation (2).png  used on input line 1
-78.
+73.
 (pdftex.def)             Requested size: 398.33858pt x 80.33078pt.
  [17 <../Images/He_evaporation (2).png>]
 [18]
-<../Images/text6418.png, id=515, 459.316pt x 185.493pt>
+<../Images/text6418.png, id=538, 459.316pt x 185.493pt>
 File: ../Images/text6418.png Graphic file (type png)
 <use ../Images/text6418.png>
-Package pdftex.def Info: ../Images/text6418.png  used on input line 228.
+Package pdftex.def Info: ../Images/text6418.png  used on input line 223.
 (pdftex.def)             Requested size: 341.43306pt x 137.88535pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [19] [20 <../Images/text6418.png>]
-<../Images/photoionization2.png, id=548, 548.449pt x 229.658pt>
+<../Images/photoionization2.png, id=571, 548.449pt x 229.658pt>
 File: ../Images/photoionization2.png Graphic file (type png)
 <use ../Images/photoionization2.png>
-Package pdftex.def Info: ../Images/photoionization2.png  used on input line 248
+Package pdftex.def Info: ../Images/photoionization2.png  used on input line 243
 .
 (pdftex.def)             Requested size: 398.33858pt x 166.80089pt.
  [21 <../Images/photoionization2.png>]
 [22] [23]
-<../Images/ponderomotive steps.png, id=595, 1015.54407pt x 607.51968pt>
+<../Images/ponderomotive steps.png, id=617, 1015.54407pt x 607.51968pt>
 File: ../Images/ponderomotive steps.png Graphic file (type png)
 <use ../Images/ponderomotive steps.png>
 Package pdftex.def Info: ../Images/ponderomotive steps.png  used on input line 
-335.
+330.
 (pdftex.def)             Requested size: 341.43306pt x 204.24573pt.
  [24 <../Images/ponderomotive steps.png>]
-<../Images/clusterpotential.PNG, id=614, 794.97pt x 491.58656pt>
+<../Images/clusterpotential.PNG, id=635, 794.97pt x 491.58656pt>
 File: ../Images/clusterpotential.PNG Graphic file (type png)
 <use ../Images/clusterpotential.PNG>
-Package pdftex.def Info: ../Images/clusterpotential.PNG  used on input line 363
+Package pdftex.def Info: ../Images/clusterpotential.PNG  used on input line 358
 .
 (pdftex.def)             Requested size: 278.24367pt x 172.05786pt.
- [25] [26 <../Images/clusterpotential.PNG>]
-<../Images/cluster_regimes_2.png, id=638, 503.481pt x 426.393pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25]
+<../Images/cluster_regimes_2.png, id=651, 503.481pt x 426.393pt>
 File: ../Images/cluster_regimes_2.png Graphic file (type png)
 <use ../Images/cluster_regimes_2.png>
 Package pdftex.def Info: ../Images/cluster_regimes_2.png  used on input line 37
-6.
+1.
 (pdftex.def)             Requested size: 398.33858pt x 337.35426pt.
- [27 <../Images/cluster_regimes_2.png>] [28]
-<../Images/linemodelfit.png, id=658, 578.16pt x 382.42876pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <../Images/clusterpotential.PNG>] [27 <../Images/cluster_regimes_2.png>]
+[28]
+<../Images/linemodelfit.png, id=680, 578.16pt x 382.42876pt>
 File: ../Images/linemodelfit.png Graphic file (type png)
 <use ../Images/linemodelfit.png>
-Package pdftex.def Info: ../Images/linemodelfit.png  used on input line 428.
+Package pdftex.def Info: ../Images/linemodelfit.png  used on input line 423.
 (pdftex.def)             Requested size: 231.2599pt x 152.96878pt.
- [29]) [30 <../Images/linemodelfit.png (PNG copy)>]
+ [29 <../Images/linemodelfit.png (PNG copy)>]) [30]
 \openout2 = `expset.aux'.
 
  (expset.tex
@@ -1826,7 +1834,7 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: Reference `img:setup' on page 31 undefined on input line 9.
 
-<../Images/setup.png, id=679, 848.4197pt x 330.48468pt>
+<../Images/setup.png, id=700, 848.4197pt x 330.48468pt>
 File: ../Images/setup.png Graphic file (type png)
 <use ../Images/setup.png>
 Package pdftex.def Info: ../Images/setup.png  used on input line 16.
@@ -1841,14 +1849,14 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 16--17
 
 
 ] [32 <../Images/setup.png (PNG copy)>] [33]
-<../Images/oven_complete_cut_2.PNG, id=698, 611.886pt x 561.297pt>
+<../Images/oven_complete_cut_2.PNG, id=718, 611.886pt x 561.297pt>
 File: ../Images/oven_complete_cut_2.PNG Graphic file (type png)
 <use ../Images/oven_complete_cut_2.PNG>
 Package pdftex.def Info: ../Images/oven_complete_cut_2.PNG  used on input line 
 41.
 (pdftex.def)             Requested size: 227.62204pt x 208.79861pt.
  [34 <../Images/oven_complete_cut_2.PNG>] [35]
-<../Images/cel distrub vmi.png, id=714, 517.935pt x 290.58563pt>
+<../Images/cel distrub vmi.png, id=734, 517.935pt x 290.58563pt>
 File: ../Images/cel distrub vmi.png Graphic file (type png)
 <use ../Images/cel distrub vmi.png>
 Package pdftex.def Info: ../Images/cel distrub vmi.png  used on input line 73.
@@ -1862,7 +1870,7 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `img:Abel' on page 36 undefined on input line 97.
 
 [36 <../Images/cel distrub vmi.png>]
-<../Images/abel transform pbasex function.png, id=727, 802.49812pt x 542.025pt>
+<../Images/abel transform pbasex function.png, id=747, 802.49812pt x 542.025pt>
 
 File: ../Images/abel transform pbasex function.png Graphic file (type png)
 <use ../Images/abel transform pbasex function.png>
@@ -1875,7 +1883,7 @@ LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 111.
 
 [37 <../Images/abel transform pbasex function.png>]
-<../Images/MCP cut.png, id=739, 495.35063pt x 542.77782pt>
+<../Images/MCP cut.png, id=759, 495.35063pt x 542.77782pt>
 File: ../Images/MCP cut.png Graphic file (type png)
 <use ../Images/MCP cut.png>
 Package pdftex.def Info: ../Images/MCP cut.png  used on input line 130.
@@ -1889,7 +1897,7 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `img:mcp cut' on page 38 undefined on input line 135.
 
 [38 <../Images/MCP cut.png>]
-<../Images/Cup scintillator.png, id=748, 1275.26437pt x 892.08281pt>
+<../Images/Cup scintillator.png, id=768, 1275.26437pt x 892.08281pt>
 File: ../Images/Cup scintillator.png Graphic file (type png)
 <use ../Images/Cup scintillator.png>
 Package pdftex.def Info: ../Images/Cup scintillator.png  used on input line 155
@@ -1901,12 +1909,12 @@ Package pdftex.def Info: ../Images/Cup scintillator.png  used on input line 155
 
 (Methods.tex
 chapter 3.
-<../Images/Raw_He_ramdom.png, id=765, 712.16063pt x 411.03563pt>
+<../Images/Raw_He_ramdom.png, id=785, 712.16063pt x 411.03563pt>
 File: ../Images/Raw_He_ramdom.png Graphic file (type png)
 <use ../Images/Raw_He_ramdom.png>
 Package pdftex.def Info: ../Images/Raw_He_ramdom.png  used on input line 12.
 (pdftex.def)             Requested size: 298.75264pt x 172.4268pt.
-<../Images/Raw_Ne_ramdom.png, id=766, 714.41907pt x 526.21594pt>
+<../Images/Raw_Ne_ramdom.png, id=786, 714.41907pt x 526.21594pt>
 File: ../Images/Raw_Ne_ramdom.png Graphic file (type png)
 <use ../Images/Raw_Ne_ramdom.png>
 Package pdftex.def Info: ../Images/Raw_Ne_ramdom.png  used on input line 15.
@@ -1919,109 +1927,80 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ] [42 <../Images/Raw_He_ramdom.png> <../Images/Raw_Ne_ramdom.png>]
-<../Images/Trigger scheme.png, id=781, 820.9872pt x 291.0072pt>
+<../Images/Trigger scheme.png, id=802, 820.9872pt x 291.0072pt>
 File: ../Images/Trigger scheme.png Graphic file (type png)
 <use ../Images/Trigger scheme.png>
-Package pdftex.def Info: ../Images/Trigger scheme.png  used on input line 49.
+Package pdftex.def Info: ../Images/Trigger scheme.png  used on input line 50.
 (pdftex.def)             Requested size: 398.33858pt x 141.19604pt.
  [43 <../Images/Trigger scheme.png>]
-<../Images/results/mir_correlated/mir_correlated.png, id=792, 461.47406pt x 457
+<../Images/results/mir_correlated/mir_correlated.png, id=813, 461.47406pt x 457
 .71pt>
 File: ../Images/results/mir_correlated/mir_correlated.png Graphic file (type pn
 g)
 <use ../Images/results/mir_correlated/mir_correlated.png>
 Package pdftex.def Info: ../Images/results/mir_correlated/mir_correlated.png  u
-sed on input line 58.
+sed on input line 61.
 (pdftex.def)             Requested size: 256.07741pt x 253.99016pt.
  [44 <../Images/results/mir_correlated/mir_correlated.png>]
-<../images/simion_calib.png, id=799, 269.3262pt x 95.3964pt>
+<../images/simion_calib.png, id=819, 269.3262pt x 95.3964pt>
 File: ../images/simion_calib.png Graphic file (type png)
 <use ../images/simion_calib.png>
-Package pdftex.def Info: ../images/simion_calib.png  used on input line 74.
+Package pdftex.def Info: ../images/simion_calib.png  used on input line 77.
 (pdftex.def)             Requested size: 269.32555pt x 95.39613pt.
- [45 <../images/simion_calib.png>]
-<../images/potassium_calib.png, id=807, 889.4028pt x 385.9218pt>
-File: ../images/potassium_calib.png Graphic file (type png)
-<use ../images/potassium_calib.png>
-Package pdftex.def Info: ../images/potassium_calib.png  used on input line 91.
-(pdftex.def)             Requested size: 444.70032pt x 192.96042pt.
-
-Overfull \hbox (17.90897pt too wide) in paragraph at lines 91--92
- [][] 
- []
-
-
-LaTeX Warning: Citation `Becker_2018' on page 46 undefined on input line 97.
-
-[46 <../images/potassium_calib.png>]
-
-LaTeX Warning: Citation `kelbg_auger_2019' on page 47 undefined on input line 1
-18.
-
-[47]
-<../Images/abel inverse transform.png, id=825, 910.602pt x 385.44pt>
+ [45 <../images/simion_calib.png>] [46]
+<../Images/abel inverse transform.png, id=839, 910.602pt x 385.44pt>
 File: ../Images/abel inverse transform.png Graphic file (type png)
 <use ../Images/abel inverse transform.png>
 Package pdftex.def Info: ../Images/abel inverse transform.png  used on input li
 ne 124.
 (pdftex.def)             Requested size: 341.43306pt x 144.52199pt.
- [48 <../Images/abel inverse transform.png>]
-<../images/density_plot.png, id=835, 357.0138pt x 194.6472pt>
+
+Overfull \hbox (1.1486pt too wide) in paragraph at lines 133--134
+[]\T1/cmr/m/n/12 First, the Im-age-Mea-sure-ments and Com-po-nent-mea-sure-ment
+s Math-e-mat-ica`s func-
+ []
+
+[47 <../Images/abel inverse transform.png>]
+<../images/density_plot.png, id=849, 1029.446pt x 410.333pt>
 File: ../images/density_plot.png Graphic file (type png)
 <use ../images/density_plot.png>
-Package pdftex.def Info: ../images/density_plot.png  used on input line 149.
-(pdftex.def)             Requested size: 284.52756pt x 155.12988pt.
- [49]
-<../Images/rawVMIfit.PNG, id=848, 578.16pt x 481.8pt>
+Package pdftex.def Info: ../images/density_plot.png  used on input line 147.
+(pdftex.def)             Requested size: 426.79135pt x 170.11597pt.
+ [48]
+<../Images/rawVMIfit.PNG, id=860, 578.16pt x 481.8pt>
 File: ../Images/rawVMIfit.PNG Graphic file (type png)
 <use ../Images/rawVMIfit.PNG>
-Package pdftex.def Info: ../Images/rawVMIfit.PNG  used on input line 161.
+Package pdftex.def Info: ../Images/rawVMIfit.PNG  used on input line 162.
 (pdftex.def)             Requested size: 170.71393pt x 142.26208pt.
-<../Images/pesandFinder.PNG, id=849, 578.16pt x 389.455pt>
+<../Images/pesandFinder.PNG, id=861, 578.16pt x 370.38374pt>
 File: ../Images/pesandFinder.PNG Graphic file (type png)
 <use ../Images/pesandFinder.PNG>
-Package pdftex.def Info: ../Images/pesandFinder.PNG  used on input line 161.
-(pdftex.def)             Requested size: 213.39568pt x 143.74547pt.
-<../Images/density_plot_chekc.png, id=850, 277.9986pt x 206.2104pt>
+Package pdftex.def Info: ../Images/pesandFinder.PNG  used on input line 162.
+(pdftex.def)             Requested size: 213.39568pt x 136.70639pt.
+<../Images/density_plot_chekc.png, id=862, 277.9986pt x 206.2104pt>
 File: ../Images/density_plot_chekc.png Graphic file (type png)
 <use ../Images/density_plot_chekc.png>
 Package pdftex.def Info: ../Images/density_plot_chekc.png  used on input line 1
-70.
+71.
 (pdftex.def)             Requested size: 284.52756pt x 211.07439pt.
-) [50 <../images/density_plot.png>] [51 <../Images/rawVMIfit.PNG (PNG copy)> <.
-./Images/pesandFinder.PNG (PNG copy)> <../Images/density_plot_chekc.png>]
+ [49 <../images/density_plot.png> <../Images/rawVMIfit.PNG (PNG copy)> <../Imag
+es/pesandFinder.PNG (PNG copy)>]) [50 <../Images/density_plot_chekc.png>]
 \openout2 = `Results.aux'.
 
  (Results.tex
 chapter 4.
-
-LaTeX Warning: Citation `kelbg_auger_2019' on page 52 undefined on input line 6
-.
-
-
-LaTeX Warning: Citation `kelbg_comparison_2018' on page 52 undefined on input l
-ine 6.
-
-
-LaTeX Warning: Citation `oelze_correlated_2017' on page 52 undefined on input l
-ine 6.
-
-
-LaTeX Warning: Citation `nagaya_unusual_2013' on page 52 undefined on input lin
-e 6.
-
 
 Overfull \hbox (29.75917pt too wide) in paragraph at lines 6--7
 \T1/cmr/m/n/12 This ex-per-i-ment was per-formed in two laser fa-cil-i-ties. At
  The Ex-treme light Infrastructure-
  []
 
-[52
+[51
 
 
 
 ]
-<../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeBigg.png, id=869, 20
+<../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeBigg.png, id=888, 20
 36.408pt x 401.5pt>
 File: ../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeBigg.png Graphi
 c file (type png)
@@ -2029,7 +2008,7 @@ c file (type png)
 Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/RAW_NIR_HE_droplet
 sizeBigg.png  used on input line 23.
 (pdftex.def)             Requested size: 298.75264pt x 58.8991pt.
-<../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeSmall.png, id=870, 1
+<../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeSmall.png, id=889, 1
 635.711pt x 321.2pt>
 File: ../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeSmall.png Graph
 ic file (type png)
@@ -2037,14 +2016,9 @@ ic file (type png)
 Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/RAW_NIR_HE_droplet
 sizeSmall.png  used on input line 26.
 (pdftex.def)             Requested size: 298.75264pt x 58.66139pt.
-
-
-LaTeX Warning: Citation `dick_inverting_2013' on page 53 undefined on input lin
-e 36.
-
-[53 <../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeBigg.png> <../Im
-ages/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeSmall.png>]
-<../Images/results/Comparison_energyDistribution/NIr_He_12K.png, id=883, 803.0p
+ [52 <../Images/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeBigg.png> <../I
+mages/results/NI_He_Dropletsize/RAW_NIR_HE_dropletsizeSmall.png>]
+<../Images/results/Comparison_energyDistribution/NIr_He_12K.png, id=905, 803.0p
 t x 856.19875pt>
 File: ../Images/results/Comparison_energyDistribution/NIr_He_12K.png Graphic fi
 le (type png)
@@ -2053,7 +2027,7 @@ Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/NIr_He
 _12K.png  used on input line 41.
 (pdftex.def)             Requested size: 170.71393pt x 182.01494pt.
 <../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.png, 
-id=884, 722.7pt x 466.74374pt>
+id=906, 722.7pt x 466.74374pt>
 File: ../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.
 png Graphic file (type png)
 <use ../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.p
@@ -2061,17 +2035,17 @@ ng>
 Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/NIR_He
 _summed_energydist.png  used on input line 43.
 (pdftex.def)             Requested size: 251.80533pt x 162.62207pt.
- [54 <../Images/results/Comparison_energyDistribution/NIr_He_12K.png (PNG copy)
+ [53 <../Images/results/Comparison_energyDistribution/NIr_He_12K.png (PNG copy)
 > <../Images/results/Comparison_energyDistribution/NIR_He_summed_energydist.png
  (PNG copy)>]
-<../Images/results/NIR_He_intensityscan/Helec.png, id=895, 803.0pt x 511.9125pt
+<../Images/results/NIR_He_intensityscan/Helec.png, id=916, 803.0pt x 511.9125pt
 >
 File: ../Images/results/NIR_He_intensityscan/Helec.png Graphic file (type png)
 <use ../Images/results/NIR_He_intensityscan/Helec.png>
 Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/Helec.png  used
  on input line 87.
 (pdftex.def)             Requested size: 209.1301pt x 133.32063pt.
-<../Images/results/NIR_He_intensityscan/Henerg.png, id=896, 803.0pt x 540.0175p
+<../Images/results/NIR_He_intensityscan/Henerg.png, id=917, 803.0pt x 540.0175p
 t>
 File: ../Images/results/NIR_He_intensityscan/Henerg.png Graphic file (type png)
 
@@ -2079,22 +2053,22 @@ File: ../Images/results/NIR_He_intensityscan/Henerg.png Graphic file (type png)
 Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/Henerg.png  use
 d on input line 89.
 (pdftex.def)             Requested size: 209.1301pt x 140.6402pt.
-
-[55 <../Images/results/NIR_He_intensityscan/Helec.png (PNG copy)> <../Images/re
-sults/NIR_He_intensityscan/Henerg.png (PNG copy)>]
-<../Images/results/NIR_He_intensityscan/Alltogether.png, id=906, 803.0pt x 1105
-.12875pt>
+ [54 <../Images/results/NIR_He_intensityscan/Helec.png (PNG copy)> <../Images/r
+esults/NIR_He_intensityscan/Henerg.png (PNG copy)>]
+<../Images/results/NIR_He_intensityscan/Alltogether.png, id=927, 803.0pt x 1218
+.5525pt>
 File: ../Images/results/NIR_He_intensityscan/Alltogether.png Graphic file (type
  png)
 <use ../Images/results/NIR_He_intensityscan/Alltogether.png>
 Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/Alltogether.png
   used on input line 102.
-(pdftex.def)             Requested size: 213.39568pt x 293.684pt.
+(pdftex.def)             Requested size: 213.39568pt x 323.82596pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Images/results/NI_He_Dropletsize/HElectrones.png, id=909, 803.0pt x 513.92p
+[55]
+<../Images/results/NI_He_Dropletsize/HElectrones.png, id=937, 803.0pt x 513.92p
 t>
 File: ../Images/results/NI_He_Dropletsize/HElectrones.png Graphic file (type pn
 g)
@@ -2102,34 +2076,30 @@ g)
 Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/HElectrones.png  u
 sed on input line 132.
 (pdftex.def)             Requested size: 209.1301pt x 133.84344pt.
-<../Images/results/NI_He_Dropletsize/HEnerg2.png, id=910, 803.0pt x 532.99126pt
+<../Images/results/NI_He_Dropletsize/HEnerg2.png, id=938, 803.0pt x 532.99126pt
 >
 File: ../Images/results/NI_He_Dropletsize/HEnerg2.png Graphic file (type png)
 <use ../Images/results/NI_He_Dropletsize/HEnerg2.png>
 Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/HEnerg2.png  used 
 on input line 134.
 (pdftex.def)             Requested size: 209.1301pt x 138.8103pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[56]
-<../Images/results/NI_He_Dropletsize/Alltogether.png, id=919, 803.0pt x 1246.65
-75pt>
+ [56 <../Images/results/NIR_He_intensityscan/Alltogether.png (PNG copy)> <../Im
+ages/results/NI_He_Dropletsize/HElectrones.png (PNG copy)> <../Images/results/N
+I_He_Dropletsize/HEnerg2.png (PNG copy)>]
+<../Images/results/NI_He_Dropletsize/Alltogether.png, id=945, 803.0pt x 1237.62
+375pt>
 File: ../Images/results/NI_He_Dropletsize/Alltogether.png Graphic file (type pn
 g)
 <use ../Images/results/NI_He_Dropletsize/Alltogether.png>
 Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/Alltogether.png  u
 sed on input line 144.
-(pdftex.def)             Requested size: 213.39568pt x 331.29477pt.
+(pdftex.def)             Requested size: 213.39568pt x 328.89407pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[57 <../Images/results/NIR_He_intensityscan/Alltogether.png (PNG copy)> <../Ima
-ges/results/NI_He_Dropletsize/HElectrones.png (PNG copy)> <../Images/results/NI
-_He_Dropletsize/HEnerg2.png (PNG copy)>] [58 <../Images/results/NI_He_Dropletsi
-ze/Alltogether.png (PNG copy)>]
-<../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalldroplets.png, id=930, 181
+[57] [58 <../Images/results/NI_He_Dropletsize/Alltogether.png (PNG copy)>]
+<../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalldroplets.png, id=956, 181
 3.174pt x 321.2pt>
 File: ../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalldroplets.png Graphic
  file (type png)
@@ -2137,7 +2107,7 @@ File: ../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalldroplets.png Graphic
 Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalld
 roplets.png  used on input line 163.
 (pdftex.def)             Requested size: 298.75264pt x 52.9222pt.
-<../Images/results/Mir_He_Dropletsize/RAW_MIR_He_bigdroplets.png, id=931, 1811.
+<../Images/results/Mir_He_Dropletsize/RAW_MIR_He_bigdroplets.png, id=957, 1811.
 568pt x 321.2pt>
 File: ../Images/results/Mir_He_Dropletsize/RAW_MIR_He_bigdroplets.png Graphic f
 ile (type png)
@@ -2145,12 +2115,7 @@ ile (type png)
 Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/RAW_MIR_He_bigdro
 plets.png  used on input line 166.
 (pdftex.def)             Requested size: 298.75264pt x 52.9663pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[59]
-<../Images/results/Comparison_energyDistribution/MIr_He_10K5.png, id=940, 722.7
+<../Images/results/Comparison_energyDistribution/MIr_He_10K5.png, id=960, 722.7
 pt x 587.19376pt>
 File: ../Images/results/Comparison_energyDistribution/MIr_He_10K5.png Graphic f
 ile (type png)
@@ -2159,436 +2124,434 @@ Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/MIr_He
 _10K5.png  used on input line 180.
 (pdftex.def)             Requested size: 170.71393pt x 138.69838pt.
 <../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.png, 
-id=941, 803.0pt x 506.89375pt>
+id=961, 803.0pt x 506.89375pt>
 File: ../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.
 png Graphic file (type png)
 <use ../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.p
 ng>
 Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/MIR_He
-_summed_energydist.png  used on input line 182.
+_summed_energydist.png  used on input line 183.
 (pdftex.def)             Requested size: 251.80533pt x 158.95306pt.
- [60 <../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalldroplets.png> <../Im
-ages/results/Mir_He_Dropletsize/RAW_MIR_He_bigdroplets.png> <../Images/results/
-Comparison_energyDistribution/MIr_He_10K5.png (PNG copy)> <../Images/results/Co
-mparison_energyDistribution/MIR_He_summed_energydist.png (PNG copy)>]
-<../Images/results/Mir_He_Dropletsize/tof.png, id=949, 446.41782pt x 465.99094p
-t>
-File: ../Images/results/Mir_He_Dropletsize/tof.png Graphic file (type png)
-<use ../Images/results/Mir_He_Dropletsize/tof.png>
-Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/tof.png  used on 
-input line 197.
-(pdftex.def)             Requested size: 213.39568pt x 222.75586pt.
-
-[61 <../Images/results/Mir_He_Dropletsize/tof.png>]
-<../Images/results/Mir_He_Dropletsize/Helec.png, id=962, 578.16pt x 366.36874pt
->
-File: ../Images/results/Mir_He_Dropletsize/Helec.png Graphic file (type png)
-<use ../Images/results/Mir_He_Dropletsize/Helec.png>
-Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Helec.png  used o
-n input line 226.
-(pdftex.def)             Requested size: 209.1301pt x 132.51875pt.
-<../Images/results/Mir_He_Dropletsize/Henerg.png, id=963, 578.16pt x 358.33875p
-t>
-File: ../Images/results/Mir_He_Dropletsize/Henerg.png Graphic file (type png)
-<use ../Images/results/Mir_He_Dropletsize/Henerg.png>
-Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Henerg.png  used 
-on input line 229.
-(pdftex.def)             Requested size: 209.1301pt x 129.61424pt.
-<../Images/results/Mir_He_Dropletsize/Alltogether.png, id=965, 803.0pt x 1105.1
-2875pt>
-File: ../Images/results/Mir_He_Dropletsize/Alltogether.png Graphic file (type p
-ng)
-<use ../Images/results/Mir_He_Dropletsize/Alltogether.png>
-Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Alltogether.png  
-used on input line 238.
-(pdftex.def)             Requested size: 213.39568pt x 293.684pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[62 <../Images/results/Mir_He_Dropletsize/Helec.png (PNG copy)> <../Images/resu
-lts/Mir_He_Dropletsize/Henerg.png (PNG copy)>]
-<../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.png, id=972, 1626.878pt 
+[59 <../Images/results/Mir_He_Dropletsize/RAW_MIR_He_smalldroplets.png> <../Ima
+ges/results/Mir_He_Dropletsize/RAW_MIR_He_bigdroplets.png>]
+<../Images/results/Mir_He_Dropletsize/tof.png, id=971, 446.41782pt x 465.99094p
+t>
+File: ../Images/results/Mir_He_Dropletsize/tof.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/tof.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/tof.png  used on 
+input line 198.
+(pdftex.def)             Requested size: 213.39568pt x 222.75586pt.
+ [60 <../Images/results/Comparison_energyDistribution/MIr_He_10K5.png (PNG copy
+)> <../Images/results/Comparison_energyDistribution/MIR_He_summed_energydist.pn
+g (PNG copy)>]
+<../Images/results/Mir_He_Dropletsize/Helec.png, id=982, 578.16pt x 366.36874pt
+>
+File: ../Images/results/Mir_He_Dropletsize/Helec.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/Helec.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Helec.png  used o
+n input line 227.
+(pdftex.def)             Requested size: 209.1301pt x 132.51875pt.
+<../Images/results/Mir_He_Dropletsize/Henerg.png, id=983, 578.16pt x 358.33875p
+t>
+File: ../Images/results/Mir_He_Dropletsize/Henerg.png Graphic file (type png)
+<use ../Images/results/Mir_He_Dropletsize/Henerg.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Henerg.png  used 
+on input line 230.
+(pdftex.def)             Requested size: 209.1301pt x 129.61424pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Images/results/Mir_He_Dropletsize/Alltogether.png, id=985, 803.0pt x 1246.6
+575pt>
+File: ../Images/results/Mir_He_Dropletsize/Alltogether.png Graphic file (type p
+ng)
+<use ../Images/results/Mir_He_Dropletsize/Alltogether.png>
+Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/Alltogether.png  
+used on input line 239.
+(pdftex.def)             Requested size: 213.39568pt x 331.29477pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[61 <../Images/results/Mir_He_Dropletsize/tof.png>] [62 <../Images/results/Mir_
+He_Dropletsize/Helec.png (PNG copy)> <../Images/results/Mir_He_Dropletsize/Hene
+rg.png (PNG copy)> <../Images/results/Mir_He_Dropletsize/Alltogether.png (PNG c
+opy)>]
+<../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.png, id=998, 1626.878pt 
 x 804.606pt>
 File: ../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.png Graphic file (t
 ype png)
 <use ../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.png>
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.
-png  used on input line 249.
+png  used on input line 250.
 (pdftex.def)             Requested size: 256.07741pt x 126.64017pt.
+<../Images/results/MIR_He_ArDop/Henerg2.png, id=999, 578.16pt x 382.42876pt>
+File: ../Images/results/MIR_He_ArDop/Henerg2.png Graphic file (type png)
+<use ../Images/results/MIR_He_ArDop/Henerg2.png>
+Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Henerg2.png  used on in
+put line 262.
+(pdftex.def)             Requested size: 209.1301pt x 138.3278pt.
+<../Images/results/MIR_He_ArDop/Helec.png, id=1000, 578.16pt x 390.45876pt>
+File: ../Images/results/MIR_He_ArDop/Helec.png Graphic file (type png)
+<use ../Images/results/MIR_He_ArDop/Helec.png>
+Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Helec.png  used on inpu
+t line 265.
+(pdftex.def)             Requested size: 209.1301pt x 141.23233pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[63 <../Images/results/Mir_He_Dropletsize/Alltogether.png (PNG copy)>]
-<../Images/results/MIR_He_ArDop/Henerg2.png, id=979, 578.16pt x 382.42876pt>
-File: ../Images/results/MIR_He_ArDop/Henerg2.png Graphic file (type png)
-<use ../Images/results/MIR_He_ArDop/Henerg2.png>
-Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Henerg2.png  used on in
-put line 261.
-(pdftex.def)             Requested size: 209.1301pt x 138.3278pt.
-<../Images/results/MIR_He_ArDop/Helec.png, id=980, 578.16pt x 390.45876pt>
-File: ../Images/results/MIR_He_ArDop/Helec.png Graphic file (type png)
-<use ../Images/results/MIR_He_ArDop/Helec.png>
-Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Helec.png  used on inpu
-t line 264.
-(pdftex.def)             Requested size: 209.1301pt x 141.23233pt.
- [64 <../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.png> <../Images/res
-ults/MIR_He_ArDop/Henerg2.png (PNG copy)> <../Images/results/MIR_He_ArDop/Helec
-.png (PNG copy)>]
-<../Images/results/MIR_He_ArDop/Alltogether.png, id=990, 803.0pt x 1227.58624pt
->
+[63 <../Images/results/MIR_He_XeCaDop/RAW_MIR_He_alldoping.png>]
+<../Images/results/MIR_He_ArDop/Alltogether.png, id=1011, 803.0pt x 1227.58624p
+t>
 File: ../Images/results/MIR_He_ArDop/Alltogether.png Graphic file (type png)
 <use ../Images/results/MIR_He_ArDop/Alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_He_ArDop/Alltogether.png  used o
-n input line 277.
+n input line 278.
 (pdftex.def)             Requested size: 213.39568pt x 326.22664pt.
-<../Images/results/MIR_He_waterDop/Helec.png, id=991, 803.0pt x 494.84875pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Images/results/MIR_He_waterDop/Helec.png, id=1012, 803.0pt x 494.84875pt>
 File: ../Images/results/MIR_He_waterDop/Helec.png Graphic file (type png)
 <use ../Images/results/MIR_He_waterDop/Helec.png>
 Package pdftex.def Info: ../Images/results/MIR_He_waterDop/Helec.png  used on i
-nput line 289.
+nput line 290.
 (pdftex.def)             Requested size: 209.1301pt x 128.8766pt.
-<../Images/results/MIR_He_waterDop/Heberg.png, id=992, 578.16pt x 364.36125pt>
+<../Images/results/MIR_He_waterDop/Heberg.png, id=1013, 578.16pt x 364.36125pt>
+
 File: ../Images/results/MIR_He_waterDop/Heberg.png Graphic file (type png)
 <use ../Images/results/MIR_He_waterDop/Heberg.png>
 Package pdftex.def Info: ../Images/results/MIR_He_waterDop/Heberg.png  used on 
-input line 292.
+input line 293.
 (pdftex.def)             Requested size: 209.1301pt x 131.79263pt.
- [65 <../Images/results/MIR_He_ArDop/Alltogether.png (PNG copy)>]
-<../Images/results/MIR_He_waterDop/Alltogether.png, id=1000, 803.0pt x 1180.41p
-t>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[64 <../Images/results/MIR_He_ArDop/Henerg2.png (PNG copy)> <../Images/results/
+MIR_He_ArDop/Helec.png (PNG copy)>] [65 <../Images/results/MIR_He_ArDop/Alltoge
+ther.png (PNG copy)> <../Images/results/MIR_He_waterDop/Helec.png (PNG copy)> <
+../Images/results/MIR_He_waterDop/Heberg.png (PNG copy)>]
+<../Images/results/MIR_He_waterDop/Alltogether.png, id=1028, 803.0pt x 1237.623
+75pt>
 File: ../Images/results/MIR_He_waterDop/Alltogether.png Graphic file (type png)
 
 <use ../Images/results/MIR_He_waterDop/Alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_He_waterDop/Alltogether.png  use
-d on input line 307.
-(pdftex.def)             Requested size: 213.39568pt x 313.68973pt.
+d on input line 308.
+(pdftex.def)             Requested size: 213.39568pt x 328.89407pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package caption Warning: \label without proper reference on input line 318.
+Package caption Warning: \label without proper reference on input line 319.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `tab:dopXeCa' on page 66 undefined on input line 314.
+LaTeX Warning: Reference `tab:dopXeCa' on page 66 undefined on input line 315.
 
-[66 <../Images/results/MIR_He_waterDop/Helec.png (PNG copy)> <../Images/results
-/MIR_He_waterDop/Heberg.png (PNG copy)>]
+[66 <../Images/results/MIR_He_waterDop/Alltogether.png (PNG copy)>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 317.
+               Default added (so using `tbp') on input line 318.
 
-<../Images/results/MIR_He_XeCaDop/histoElectr.png, id=1010, 722.7pt x 462.72874
+<../Images/results/MIR_He_XeCaDop/histoElectr.png, id=1036, 722.7pt x 462.72874
 pt>
 File: ../Images/results/MIR_He_XeCaDop/histoElectr.png Graphic file (type png)
 <use ../Images/results/MIR_He_XeCaDop/histoElectr.png>
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/histoElectr.png  used
- on input line 336.
+ on input line 337.
 (pdftex.def)             Requested size: 209.1301pt x 133.8984pt.
-<../Images/results/MIR_He_XeCaDop/histoEnerg.png, id=1011, 722.7pt x 465.74pt>
+<../Images/results/MIR_He_XeCaDop/histoEnerg.png, id=1037, 722.7pt x 465.74pt>
 File: ../Images/results/MIR_He_XeCaDop/histoEnerg.png Graphic file (type png)
 <use ../Images/results/MIR_He_XeCaDop/histoEnerg.png>
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/histoEnerg.png  used 
-on input line 339.
+on input line 340.
 (pdftex.def)             Requested size: 209.1301pt x 134.76976pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[67 <../Images/results/MIR_He_waterDop/Alltogether.png (PNG copy)>]
-<../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png, id=1017, 669.50
+[67 <../Images/results/MIR_He_XeCaDop/histoElectr.png (PNG copy)> <../Images/re
+sults/MIR_He_XeCaDop/histoEnerg.png (PNG copy)>]
+<../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png, id=1045, 669.50
 125pt x 623.32875pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png Graphic fil
 e (type png)
 <use ../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png>
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationSignalRa
-te2.png  used on input line 349.
+te2.png  used on input line 350.
 (pdftex.def)             Requested size: 213.39568pt x 198.67984pt.
-<../Images/results/MIR_He_XeCaDop/interpolationE2.png, id=1018, 719.68875pt x 6
+<../Images/results/MIR_He_XeCaDop/interpolationE2.png, id=1046, 719.68875pt x 6
 23.32875pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationE2.png Graphic file (type p
 ng)
 <use ../Images/results/MIR_He_XeCaDop/interpolationE2.png>
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationE2.png  
-used on input line 354.
+used on input line 355.
 (pdftex.def)             Requested size: 209.1301pt x 181.13164pt.
-<../Images/results/MIR_He_XeCaDop/interpolationMax2.png, id=1019, 687.56876pt x
+<../Images/results/MIR_He_XeCaDop/interpolationMax2.png, id=1047, 687.56876pt x
  618.31pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationMax2.png Graphic file (type
  png)
 <use ../Images/results/MIR_He_XeCaDop/interpolationMax2.png>
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationMax2.png
-  used on input line 357.
+  used on input line 358.
 (pdftex.def)             Requested size: 209.1301pt x 188.06065pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[68 <../Images/results/MIR_He_XeCaDop/histoElectr.png (PNG copy)> <../Images/re
-sults/MIR_He_XeCaDop/histoEnerg.png (PNG copy)>] [69 <../Images/results/MIR_He_
-XeCaDop/interpolationSignalRate2.png (PNG copy)> <../Images/results/MIR_He_XeCa
-Dop/interpolationE2.png (PNG copy)> <../Images/results/MIR_He_XeCaDop/interpola
-tionMax2.png (PNG copy)>]
-<../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_pulsescan.png, id=1033, 1114
+ [68 <../Images/results/MIR_He_XeCaDop/interpolationSignalRate2.png (PNG copy)>
+ <../Images/results/MIR_He_XeCaDop/interpolationE2.png (PNG copy)> <../Images/r
+esults/MIR_He_XeCaDop/interpolationMax2.png (PNG copy)>]
+<../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_pulsescan.png, id=1055, 1114
 .564pt x 722.7pt>
 File: ../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_pulsescan.png Graphic f
 ile (type png)
 <use ../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_pulsescan.png>
 Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_puls
-escan.png  used on input line 378.
+escan.png  used on input line 379.
 (pdftex.def)             Requested size: 213.39568pt x 138.36203pt.
-<../Images/results/MIR_He_waterIntensityscan/Helect.png, id=1034, 519.9425pt x 
+ [69]
+<../Images/results/MIR_He_waterIntensityscan/Helect.png, id=1061, 519.9425pt x 
 354.32375pt>
 File: ../Images/results/MIR_He_waterIntensityscan/Helect.png Graphic file (type
  png)
 <use ../Images/results/MIR_He_waterIntensityscan/Helect.png>
 Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/Helect.png
-  used on input line 390.
+  used on input line 391.
 (pdftex.def)             Requested size: 209.1301pt x 142.51093pt.
 File: ../Images/results/MIR_He_waterIntensityscan/Helect.png Graphic file (type
  png)
 <use ../Images/results/MIR_He_waterIntensityscan/Helect.png>
 Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/Helect.png
-  used on input line 393.
+  used on input line 394.
 (pdftex.def)             Requested size: 209.1301pt x 142.51093pt.
- [70 <../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_pulsescan.png>]
-<../Images/results/MIR_He_waterIntensityscan/alltogether.png, id=1043, 803.0pt 
-x 1246.6575pt>
+ [70 <../Images/results/MIR_He_pulsescan/raw/RAW_MIR_He_pulsescan.png> <../Imag
+es/results/MIR_He_waterIntensityscan/Helect.png (PNG copy)>]
+<../Images/results/MIR_He_waterIntensityscan/alltogether.png, id=1070, 803.0pt 
+x 1237.62375pt>
 File: ../Images/results/MIR_He_waterIntensityscan/alltogether.png Graphic file 
 (type png)
 <use ../Images/results/MIR_He_waterIntensityscan/alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_He_waterIntensityscan/alltogethe
-r.png  used on input line 402.
-(pdftex.def)             Requested size: 213.39568pt x 331.29477pt.
+r.png  used on input line 403.
+(pdftex.def)             Requested size: 213.39568pt x 328.89407pt.
+ [71 <../Images/results/MIR_He_waterIntensityscan/alltogether.png (PNG copy)>]
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[71 <../Images/results/MIR_He_waterIntensityscan/Helect.png (PNG copy)>]
-
-Package caption Warning: \label without proper reference on input line 419.
+Package caption Warning: \label without proper reference on input line 420.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `tab:pulsepower' on page 72 undefined on input line 41
-4.
+5.
 
-[72 <../Images/results/MIR_He_waterIntensityscan/alltogether.png (PNG copy)>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 417.
+               Default added (so using `tbp') on input line 418.
 
-<../Images/results/MIR_He_pulsescan/raw/histoElec.png, id=1057, 578.16pt x 350.
+<../Images/results/MIR_He_pulsescan/raw/histoElec.png, id=1078, 578.16pt x 350.
 30875pt>
 File: ../Images/results/MIR_He_pulsescan/raw/histoElec.png Graphic file (type p
 ng)
 <use ../Images/results/MIR_He_pulsescan/raw/histoElec.png>
 Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/histoElec.png  
-used on input line 434.
+used on input line 435.
 (pdftex.def)             Requested size: 209.1301pt x 126.70972pt.
-<../Images/results/MIR_He_pulsescan/raw/histoEnergc.png, id=1058, 578.16pt x 37
+<../Images/results/MIR_He_pulsescan/raw/histoEnergc.png, id=1079, 578.16pt x 37
 6.40625pt>
 File: ../Images/results/MIR_He_pulsescan/raw/histoEnergc.png Graphic file (type
  png)
 <use ../Images/results/MIR_He_pulsescan/raw/histoEnergc.png>
 Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/histoEnergc.png
-  used on input line 437.
+  used on input line 438.
 (pdftex.def)             Requested size: 209.1301pt x 136.14941pt.
-<../Images/results/MIR_He_pulsescan/raw/Alltogether.png, id=1060, 803.0pt x 112
-8.215pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[72]
+<../Images/results/MIR_He_pulsescan/raw/Alltogether.png, id=1088, 803.0pt x 110
+5.12875pt>
 File: ../Images/results/MIR_He_pulsescan/raw/Alltogether.png Graphic file (type
  png)
 <use ../Images/results/MIR_He_pulsescan/raw/Alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/Alltogether.png
-  used on input line 450.
-(pdftex.def)             Requested size: 213.39568pt x 299.81909pt.
-[73 <../Images/results/MIR_He_pulsescan/raw/histoElec.png (PNG copy)> <../Image
-s/results/MIR_He_pulsescan/raw/histoEnergc.png (PNG copy)>] [74 <../Images/resu
-lts/MIR_He_pulsescan/raw/Alltogether.png (PNG copy)>]
-
-LaTeX Warning: Citation `karnbach_clulu:_1993' on page 75 undefined on input li
-ne 462.
-
-
-LaTeX Warning: Citation `karnbach_clulu:_1993' on page 75 undefined on input li
-ne 462.
-
-<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.png, id=1076, 648.824pt x
+  used on input line 451.
+(pdftex.def)             Requested size: 213.39568pt x 293.684pt.
+ [73 <../Images/results/MIR_He_pulsescan/raw/histoElec.png (PNG copy)> <../Imag
+es/results/MIR_He_pulsescan/raw/histoEnergc.png (PNG copy)>] [74 <../Images/res
+ults/MIR_He_pulsescan/raw/Alltogether.png (PNG copy)>]
+<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.png, id=1104, 648.824pt x
  647.218pt>
 File: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.png Graphic file (ty
 pe png)
 <use ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.p
-ng  used on input line 468.
+ng  used on input line 469.
 (pdftex.def)             Requested size: 170.71393pt x 170.28735pt.
-<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.png, id=1077, 645.612pt x 
+<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.png, id=1105, 645.612pt x 
 645.612pt>
 File: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.png Graphic file (typ
 e png)
 <use ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.pn
-g  used on input line 472.
+g  used on input line 473.
 (pdftex.def)             Requested size: 170.71393pt x 170.71202pt.
 
-Underfull \hbox (badness 1142) in paragraph at lines 478--478
+Underfull \hbox (badness 1142) in paragraph at lines 479--479
 [][][]|\T1/cmr/m/n/10.95 Typ-i-cal VMI sig-nal for small
  []
 
-<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39KHighdop.png, id=1078, 645.612pt x
+<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39KHighdop.png, id=1106, 645.612pt x
  645.612pt>
 File: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39KHighdop.png Graphic file (ty
 pe png)
 <use ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39KHighdop.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39KHighdop.p
-ng  used on input line 479.
+ng  used on input line 480.
 (pdftex.def)             Requested size: 170.71393pt x 170.71202pt.
-<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop.png, id=1079, 645.612pt x 
+<../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop.png, id=1107, 645.612pt x 
 645.612pt>
 File: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop.png Graphic file (typ
 e png)
 <use ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop.pn
-g  used on input line 483.
+g  used on input line 484.
 (pdftex.def)             Requested size: 170.71393pt x 170.71202pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[75] [76 <../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.png> <../Images/
-results/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.png> <../Images/results/MIR_Ne_XeDop_
-39K/RAw_NE_39KHighdop.png> <../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop
-.png>]
-<../Images/results/Comparison_energyDistribution/MIR_Ne_37K.png, id=1097, 722.7
+[75]
+<../Images/results/Comparison_energyDistribution/MIR_Ne_37K.png, id=1118, 722.7
 pt x 722.7pt>
 File: ../Images/results/Comparison_energyDistribution/MIR_Ne_37K.png Graphic fi
 le (type png)
 <use ../Images/results/Comparison_energyDistribution/MIR_Ne_37K.png>
 Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/MIR_Ne
-_37K.png  used on input line 498.
+_37K.png  used on input line 499.
 (pdftex.def)             Requested size: 204.85802pt x 204.85785pt.
 <../Images/results/Comparison_energyDistribution/MIR_Ne_summed_energydist.png, 
-id=1098, 722.7pt x 461.725pt>
+id=1119, 722.7pt x 461.725pt>
 File: ../Images/results/Comparison_energyDistribution/MIR_Ne_summed_energydist.
 png Graphic file (type png)
 <use ../Images/results/Comparison_energyDistribution/MIR_Ne_summed_energydist.p
 ng>
 Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/MIR_Ne
-_summed_energydist.png  used on input line 501.
+_summed_energydist.png  used on input line 502.
 (pdftex.def)             Requested size: 204.85802pt x 130.88141pt.
-<../Images/results/MIR_Ne_XeDop_39K/HElec.png, id=1100, 519.9425pt x 337.26pt>
-File: ../Images/results/MIR_Ne_XeDop_39K/HElec.png Graphic file (type png)
-<use ../Images/results/MIR_Ne_XeDop_39K/HElec.png>
-Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/HElec.png  used on 
-input line 515.
-(pdftex.def)             Requested size: 204.85802pt x 132.87917pt.
-<../Images/results/MIR_Ne_XeDop_39K/HEnergc.png, id=1101, 578.16pt x 364.36125p
-t>
-File: ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png Graphic file (type png)
-<use ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png>
-Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png  used o
-n input line 518.
-(pdftex.def)             Requested size: 204.85802pt x 129.10173pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[77 <../Images/results/Comparison_energyDistribution/MIR_Ne_37K.png (PNG copy)>
- <../Images/results/Comparison_energyDistribution/MIR_Ne_summed_energydist.png 
-(PNG copy)>]
-<../Images/results/MIR_Ne_XeDop_39K/Alltogether.png, id=1108, 803.0pt x 1103.12
-125pt>
+<../Images/results/MIR_Ne_XeDop_39K/HElec.png, id=1121, 519.9425pt x 334.24875p
+t>
+File: ../Images/results/MIR_Ne_XeDop_39K/HElec.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/HElec.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/HElec.png  used on 
+input line 516.
+(pdftex.def)             Requested size: 204.85802pt x 131.69273pt.
+<../Images/results/MIR_Ne_XeDop_39K/HEnergc.png, id=1122, 578.16pt x 364.36125p
+t>
+File: ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png Graphic file (type png)
+<use ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png>
+Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/HEnergc.png  used o
+n input line 519.
+(pdftex.def)             Requested size: 204.85802pt x 129.10173pt.
+[76 <../Images/results/MIR_Ne_XeDop_39K/RAw_NE_37KHighdop.png> <../Images/resul
+ts/MIR_Ne_XeDop_39K/RAw_NE_37Klowdop.png> <../Images/results/MIR_Ne_XeDop_39K/R
+Aw_NE_39KHighdop.png> <../Images/results/MIR_Ne_XeDop_39K/RAw_NE_39Klowdop.png>
+]
+<../Images/results/MIR_Ne_XeDop_39K/Alltogether.png, id=1132, 803.0pt x 1096.09
+5pt>
 File: ../Images/results/MIR_Ne_XeDop_39K/Alltogether.png Graphic file (type png
 )
 <use ../Images/results/MIR_Ne_XeDop_39K/Alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_XeDop_39K/Alltogether.png  us
-ed on input line 531.
-(pdftex.def)             Requested size: 213.39568pt x 293.15051pt.
- [78 <../Images/results/MIR_Ne_XeDop_39K/HElec.png (PNG copy)> <../Images/resul
-ts/MIR_Ne_XeDop_39K/HEnergc.png (PNG copy)>] [79 <../Images/results/MIR_Ne_XeDo
-p_39K/Alltogether.png (PNG copy)>]
-<../Images/results/MIR_Ne_DropletSize/HElec.png, id=1120, 519.9425pt x 337.26pt
->
+ed on input line 532.
+(pdftex.def)             Requested size: 213.39568pt x 291.28333pt.
+ [77 <../Images/results/Comparison_energyDistribution/MIR_Ne_37K.png (PNG copy)
+> <../Images/results/Comparison_energyDistribution/MIR_Ne_summed_energydist.png
+ (PNG copy)> <../Images/results/MIR_Ne_XeDop_39K/HElec.png (PNG copy)> <../Imag
+es/results/MIR_Ne_XeDop_39K/HEnergc.png (PNG copy)>] [78 <../Images/results/MIR
+_Ne_XeDop_39K/Alltogether.png (PNG copy)>]
+<../Images/results/MIR_Ne_DropletSize/HElec.png, id=1144, 519.9425pt x 334.2487
+5pt>
 File: ../Images/results/MIR_Ne_DropletSize/HElec.png Graphic file (type png)
 <use ../Images/results/MIR_Ne_DropletSize/HElec.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/HElec.png  used o
-n input line 548.
-(pdftex.def)             Requested size: 204.85802pt x 132.87917pt.
-<../Images/results/MIR_Ne_DropletSize/HEnergc.png, id=1121, 578.16pt x 364.3612
+n input line 549.
+(pdftex.def)             Requested size: 204.85802pt x 131.69273pt.
+<../Images/results/MIR_Ne_DropletSize/HEnergc.png, id=1145, 578.16pt x 364.3612
 5pt>
 File: ../Images/results/MIR_Ne_DropletSize/HEnergc.png Graphic file (type png)
 <use ../Images/results/MIR_Ne_DropletSize/HEnergc.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/HEnergc.png  used
- on input line 551.
+ on input line 552.
 (pdftex.def)             Requested size: 204.85802pt x 129.10173pt.
-<../Images/results/MIR_Ne_DropletSize/alltogether.png, id=1124, 803.0pt x 1078.
-0275pt>
+<../Images/results/MIR_Ne_DropletSize/alltogether.png, id=1148, 803.0pt x 1237.
+62375pt>
 File: ../Images/results/MIR_Ne_DropletSize/alltogether.png Graphic file (type p
 ng)
 <use ../Images/results/MIR_Ne_DropletSize/alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/alltogether.png  
-used on input line 561.
-(pdftex.def)             Requested size: 213.39568pt x 286.48195pt.
- [80 <../Images/results/MIR_Ne_DropletSize/HElec.png (PNG copy)> <../Images/res
-ults/MIR_Ne_DropletSize/HEnergc.png (PNG copy)>] [81 <../Images/results/MIR_Ne_
+used on input line 562.
+(pdftex.def)             Requested size: 213.39568pt x 328.89407pt.
+ [79 <../Images/results/MIR_Ne_DropletSize/HElec.png (PNG copy)> <../Images/res
+ults/MIR_Ne_DropletSize/HEnergc.png (PNG copy)>] [80 <../Images/results/MIR_Ne_
 DropletSize/alltogether.png (PNG copy)>]
-<../Images/results/MIR_Ne_pulseduration/HElec.png, id=1138, 578.16pt x 376.4062
+<../Images/results/MIR_Ne_pulseduration/HElec.png, id=1163, 578.16pt x 376.4062
 5pt>
 File: ../Images/results/MIR_Ne_pulseduration/HElec.png Graphic file (type png)
 <use ../Images/results/MIR_Ne_pulseduration/HElec.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/HElec.png  used
- on input line 596.
+ on input line 597.
 (pdftex.def)             Requested size: 204.85802pt x 133.36955pt.
-<../Images/results/MIR_Ne_pulseduration/HEnerg.png, id=1139, 578.16pt x 363.357
+<../Images/results/MIR_Ne_pulseduration/HEnerg.png, id=1164, 578.16pt x 363.357
 5pt>
 File: ../Images/results/MIR_Ne_pulseduration/HEnerg.png Graphic file (type png)
 
 <use ../Images/results/MIR_Ne_pulseduration/HEnerg.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/HEnerg.png  use
-d on input line 599.
+d on input line 600.
 (pdftex.def)             Requested size: 204.85802pt x 128.74608pt.
-<../Images/results/MIR_Ne_pulseduration/Alltogether.png, id=1141, 803.0pt x 112
-8.215pt>
+ [81 <../Images/results/MIR_Ne_pulseduration/HElec.png (PNG copy)> <../Images/r
+esults/MIR_Ne_pulseduration/HEnerg.png (PNG copy)>]
+<../Images/results/MIR_Ne_pulseduration/Alltogether.png, id=1172, 803.0pt x 110
+5.12875pt>
 File: ../Images/results/MIR_Ne_pulseduration/Alltogether.png Graphic file (type
  png)
 <use ../Images/results/MIR_Ne_pulseduration/Alltogether.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/Alltogether.png
-  used on input line 609.
-(pdftex.def)             Requested size: 213.39568pt x 299.81909pt.
- [82 <../Images/results/MIR_Ne_pulseduration/HElec.png (PNG copy)> <../Images/r
-esults/MIR_Ne_pulseduration/HEnerg.png (PNG copy)>] [83 <../Images/results/MIR_
-Ne_pulseduration/Alltogether.png (PNG copy)>]) [84]
+  used on input line 610.
+(pdftex.def)             Requested size: 213.39568pt x 293.684pt.
+ [82 <../Images/results/MIR_Ne_pulseduration/Alltogether.png>]) [83]
 \openout2 = `summary.aux'.
 
  (summary.tex
 chapter 5.
 <../Images/results/Comparison_energyDistribution/Comp_Laser intensity.png, id=1
-159, 803.0pt x 1208.515pt>
+185, 803.0pt x 1208.515pt>
 File: ../Images/results/Comparison_energyDistribution/Comp_Laser intensity.png 
 Graphic file (type png)
 <use ../Images/results/Comparison_energyDistribution/Comp_Laser intensity.png>
 Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/Comp_L
 aser intensity.png  used on input line 23.
 (pdftex.def)             Requested size: 204.85802pt x 308.30556pt.
-<../Images/results/Comparison_energyDistribution/Comp_pulseduration.png, id=116
-0, 803.0pt x 1208.515pt>
+<../Images/results/Comparison_energyDistribution/Comp_pulseduration.png, id=118
+6, 803.0pt x 1115.16624pt>
 File: ../Images/results/Comparison_energyDistribution/Comp_pulseduration.png Gr
 aphic file (type png)
 <use ../Images/results/Comparison_energyDistribution/Comp_pulseduration.png>
 Package pdftex.def Info: ../Images/results/Comparison_energyDistribution/Comp_p
 ulseduration.png  used on input line 27.
-(pdftex.def)             Requested size: 204.85802pt x 308.30556pt.
+(pdftex.def)             Requested size: 204.85802pt x 284.49126pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[85
+[84
 
 
 
-] [86 <../Images/results/Comparison_energyDistribution/Comp_Laser intensity.png
+] [85 <../Images/results/Comparison_energyDistribution/Comp_Laser intensity.png
  (PNG copy)> <../Images/results/Comparison_energyDistribution/Comp_pulseduratio
 n.png (PNG copy)>]
-<../Images/results/Comparison_energyDistribution/Comp_clusterSize.png, id=1174,
+<../Images/results/Comparison_energyDistribution/Comp_clusterSize.png, id=1200,
  803.0pt x 1115.16624pt>
 File: ../Images/results/Comparison_energyDistribution/Comp_clusterSize.png Grap
 hic file (type png)
@@ -2600,9 +2563,9 @@ lusterSize.png  used on input line 49.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[87] [88 <../Images/results/Comparison_energyDistribution/Comp_clusterSize.png 
+[86] [87 <../Images/results/Comparison_energyDistribution/Comp_clusterSize.png 
 (PNG copy)>]
-<../Images/results/Comparison_energyDistribution/Comp_AllDoping.png, id=1185, 8
+<../Images/results/Comparison_energyDistribution/Comp_AllDoping.png, id=1211, 8
 03.0pt x 1115.16624pt>
 File: ../Images/results/Comparison_energyDistribution/Comp_AllDoping.png Graphi
 c file (type png)
@@ -2612,9 +2575,9 @@ llDoping.png  used on input line 66.
 (pdftex.def)             Requested size: 256.07741pt x 355.63533pt.
 
 
-LaTeX Warning: Citation `.' on page 89 undefined on input line 70.
+LaTeX Warning: Citation `.' on page 88 undefined on input line 70.
 
-<../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png, id=1189, 659.463
+<../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png, id=1215, 659.463
 75pt x 623.32875pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png Graphic file
  (type png)
@@ -2622,7 +2585,7 @@ File: ../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png Graphic file
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationSignalRa
 te.png  used on input line 78.
 (pdftex.def)             Requested size: 204.85802pt x 193.62938pt.
-<../Images/results/MIR_He_XeCaDop/interpolationSignalRatelines.png, id=1190, 57
+<../Images/results/MIR_He_XeCaDop/interpolationSignalRatelines.png, id=1216, 57
 8.16pt x 387.4475pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationSignalRatelines.png Graphic
  file (type png)
@@ -2633,9 +2596,9 @@ telines.png  used on input line 82.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[89] [90 <../Images/results/Comparison_energyDistribution/Comp_AllDoping.png (P
+[88] [89 <../Images/results/Comparison_energyDistribution/Comp_AllDoping.png (P
 NG copy)>]
-<../Images/results/MIR_He_XeCaDop/interpolationElectr.png, id=1204, 698.61pt x 
+<../Images/results/MIR_He_XeCaDop/interpolationElectr.png, id=1230, 698.61pt x 
 619.31375pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationElectr.png Graphic file (ty
 pe png)
@@ -2643,7 +2606,7 @@ pe png)
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationElectr.p
 ng  used on input line 95.
 (pdftex.def)             Requested size: 204.85802pt x 181.60922pt.
-<../Images/results/MIR_He_XeCaDop/interpolationEleclines.png, id=1205, 578.16pt
+<../Images/results/MIR_He_XeCaDop/interpolationEleclines.png, id=1231, 578.16pt
  x 369.38pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationEleclines.png Graphic file 
 (type png)
@@ -2655,7 +2618,7 @@ s.png  used on input line 99.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Images/results/MIR_He_XeCaDop/interpolationMax.png, id=1207, 701.62125pt x 
+<../Images/results/MIR_He_XeCaDop/interpolationMax.png, id=1233, 701.62125pt x 
 623.32875pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationMax.png Graphic file (type 
 png)
@@ -2663,7 +2626,7 @@ png)
 Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationMax.png 
  used on input line 114.
 (pdftex.def)             Requested size: 204.85802pt x 181.99716pt.
-<../Images/results/MIR_He_XeCaDop/interpolationMaxlines.png, id=1208, 578.16pt 
+<../Images/results/MIR_He_XeCaDop/interpolationMaxlines.png, id=1234, 578.16pt 
 x 374.39874pt>
 File: ../Images/results/MIR_He_XeCaDop/interpolationMaxlines.png Graphic file (
 type png)
@@ -2674,25 +2637,25 @@ Package pdftex.def Info: ../Images/results/MIR_He_XeCaDop/interpolationMaxlines
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[91 <../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png (PNG copy)> <
+[90 <../Images/results/MIR_He_XeCaDop/interpolationSignalRate.png (PNG copy)> <
 ../Images/results/MIR_He_XeCaDop/interpolationSignalRatelines.png (PNG copy)>]
-[92 <../Images/results/MIR_He_XeCaDop/interpolationElectr.png (PNG copy)> <../I
+[91 <../Images/results/MIR_He_XeCaDop/interpolationElectr.png (PNG copy)> <../I
 mages/results/MIR_He_XeCaDop/interpolationEleclines.png (PNG copy)> <../Images/
 results/MIR_He_XeCaDop/interpolationMax.png (PNG copy)> <../Images/results/MIR_
 He_XeCaDop/interpolationMaxlines.png (PNG copy)>]
 
-LaTeX Warning: Reference `fig:caxeinter' on page 93 undefined on input line 134
+LaTeX Warning: Reference `fig:caxeinter' on page 92 undefined on input line 134
 .
 
-[93]
-<../Images/results/NI_He_Dropletsize/vinned.png, id=1222, 803.0pt x 534.99875pt
+[92]
+<../Images/results/NI_He_Dropletsize/vinned.png, id=1248, 803.0pt x 534.99875pt
 >
 File: ../Images/results/NI_He_Dropletsize/vinned.png Graphic file (type png)
 <use ../Images/results/NI_He_Dropletsize/vinned.png>
 Package pdftex.def Info: ../Images/results/NI_He_Dropletsize/vinned.png  used o
 n input line 142.
 (pdftex.def)             Requested size: 277.41176pt x 184.82782pt.
-<../Images/results/NIR_He_intensityscan/binned.png, id=1223, 803.0pt x 534.9987
+<../Images/results/NIR_He_intensityscan/binned.png, id=1249, 803.0pt x 534.9987
 5pt>
 File: ../Images/results/NIR_He_intensityscan/binned.png Graphic file (type png)
 
@@ -2700,16 +2663,16 @@ File: ../Images/results/NIR_He_intensityscan/binned.png Graphic file (type png)
 Package pdftex.def Info: ../Images/results/NIR_He_intensityscan/binned.png  use
 d on input line 149.
 (pdftex.def)             Requested size: 277.41176pt x 184.82782pt.
- [94 <../Images/results/NI_He_Dropletsize/vinned.png (PNG copy)> <../Images/res
+ [93 <../Images/results/NI_He_Dropletsize/vinned.png (PNG copy)> <../Images/res
 ults/NIR_He_intensityscan/binned.png (PNG copy)>]
-<../Images/results/Mir_He_Dropletsize/binned.png, id=1231, 803.0pt x 519.9425pt
+<../Images/results/Mir_He_Dropletsize/binned.png, id=1257, 803.0pt x 519.9425pt
 >
 File: ../Images/results/Mir_He_Dropletsize/binned.png Graphic file (type png)
 <use ../Images/results/Mir_He_Dropletsize/binned.png>
 Package pdftex.def Info: ../Images/results/Mir_He_Dropletsize/binned.png  used 
 on input line 165.
 (pdftex.def)             Requested size: 204.85802pt x 132.64308pt.
-<../Images/results/MIR_He_pulsescan/raw/binned.png, id=1232, 803.0pt x 502.8787
+<../Images/results/MIR_He_pulsescan/raw/binned.png, id=1258, 803.0pt x 502.8787
 5pt>
 File: ../Images/results/MIR_He_pulsescan/raw/binned.png Graphic file (type png)
 
@@ -2717,26 +2680,26 @@ File: ../Images/results/MIR_He_pulsescan/raw/binned.png Graphic file (type png)
 Package pdftex.def Info: ../Images/results/MIR_He_pulsescan/raw/binned.png  use
 d on input line 169.
 (pdftex.def)             Requested size: 204.85802pt x 128.28993pt.
- [95 <../Images/results/Mir_He_Dropletsize/binned.png (PNG copy)> <../Images/re
+ [94 <../Images/results/Mir_He_Dropletsize/binned.png (PNG copy)> <../Images/re
 sults/MIR_He_pulsescan/raw/binned.png (PNG copy)>]
-<../Images/results/MIR_Ne_pulseduration/binned2.png, id=1239, 803.0pt x 509.905
+<../Images/results/MIR_Ne_pulseduration/binned2.png, id=1265, 803.0pt x 509.905
 pt>
 File: ../Images/results/MIR_Ne_pulseduration/binned2.png Graphic file (type png
 )
 <use ../Images/results/MIR_Ne_pulseduration/binned2.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_pulseduration/binned2.png  us
 ed on input line 183.
-(pdftex.def)             Requested size: 204.85802pt x 130.0824pt.
-<../Images/results/MIR_Ne_DropletSize/binned.png, id=1240, 803.0pt x 509.905pt>
+(pdftex.def)             Requested size: 196.32687pt x 124.66716pt.
+<../Images/results/MIR_Ne_DropletSize/binned.png, id=1266, 803.0pt x 509.905pt>
 
 File: ../Images/results/MIR_Ne_DropletSize/binned.png Graphic file (type png)
 <use ../Images/results/MIR_Ne_DropletSize/binned.png>
 Package pdftex.def Info: ../Images/results/MIR_Ne_DropletSize/binned.png  used 
 on input line 187.
-(pdftex.def)             Requested size: 204.85802pt x 130.0824pt.
-) [96 <../Images/results/MIR_Ne_pulseduration/binned2.png (PNG copy)> <../Image
-s/results/MIR_Ne_DropletSize/binned.png (PNG copy)>]
-(MSc_CristianMedina.lof [97
+(pdftex.def)             Requested size: 196.32687pt x 124.66716pt.
+ [95 <../Images/results/MIR_Ne_pulseduration/binned2.png (PNG copy)> <../Images
+/results/MIR_Ne_DropletSize/binned.png (PNG copy)>])
+[96] (MSc_CristianMedina.lof [97
 
 
 ] [98])
@@ -2812,26 +2775,26 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 ...Rubidium}-dotierten Helium-Nanotropfchen}
+l.178 ...Rubidium}-dotierten Helium-Nanotropfchen}
                                                   .
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 8019) in paragraph at lines 167--172
+Underfull \hbox (badness 8019) in paragraph at lines 176--181
 []\T1/cmr/m/sc/12 Fechner\T1/cmr/m/n/12 , L. :  \T1/cmr/m/it/12 Auf-bau eines V
 elocity-Map-Imaging-Spektrometersund
  []
 
 
-Underfull \hbox (badness 7203) in paragraph at lines 167--172
+Underfull \hbox (badness 7203) in paragraph at lines 176--181
 \T1/cmr/m/it/12 winke-laufgel oste Spek-troskopie anRubidium-dotierten Helium-N
 anotropfchen\T1/cmr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--172
+Underfull \hbox (badness 10000) in paragraph at lines 176--181
 []$\T1/cmtt/m/n/12 http : / / hacol13 . physik . uni -[] freiburg . de / fp / V
 ersuche / FP2 / FP2 -[] 21 -[]
  []
@@ -2839,7 +2802,7 @@ ersuche / FP2 / FP2 -[] 21 -[]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.194 \newblock DOI 10.1007/978--3--642--56800--8_
+l.203 \newblock DOI 10.1007/978--3--642--56800--8_
                                                   57. --
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2847,7 +2810,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.196 
+l.205 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2855,7 +2818,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.196 
+l.205 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2866,7 +2829,7 @@ my insertion and my current dilemma will both disappear.
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.196 
+l.205 
       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2883,19 +2846,33 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.294 ...k Viscosity of Liquid Helium below the λ
+l.303 ...k Viscosity of Liquid Helium below the λ
                                                   -Point.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [104] [105]
-Underfull \hbox (badness 10000) in paragraph at lines 406--410
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
 []$\T1/cmtt/m/n/12 https : / / www . pks . mpg . de / mpi -[] doc / rostgruppe 
 / dissertation / mikaberidze _
  []
 
-[106]
+[106] [107]
+
+! Package inputenc Error: Unicode char μ (U+3BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.585   \textit{μ}
+                   m.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 ! Package inputenc Error: Unicode char ∕ (U+2215)
 (inputenc)                not set up for use with LaTeX.
@@ -2904,25 +2881,25 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.551   self-assembled free, mixed Ar∕
+l.632   self-assembled free, mixed Ar∕
                                         Xe clusters.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[107]
-Underfull \hbox (badness 2790) in paragraph at lines 616--622
+[108]
+Underfull \hbox (badness 2790) in paragraph at lines 697--703
 []\T1/cmr/m/sc/12 Weinberger\T1/cmr/m/n/12 , P. :  The dis-cov-ery of ther-mo-d
 y-nam-ics.  93, Nr. 20,
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 616--622
+Underfull \hbox (badness 2689) in paragraph at lines 697--703
 \T1/cmr/m/n/12 2576--2612.  []$\T1/cmtt/m/n/12 http : / / dx . doi . org / 10 .
  1080 / 14786435 . 2013 . 784402$[]\T1/cmr/m/n/12 . --  DOI
  []
 
-[108]
+[109]
 
 ! Package inputenc Error: Unicode char   (U+2009)
 (inputenc)                not set up for use with LaTeX.
@@ -2931,37 +2908,37 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.657 \newblock Femtochemistry: 
+l.738 \newblock Femtochemistry: 
                                    Atomic-Scale Dynamics of the Chemical Bond.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [109] [110
+) [110] [111
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
- [111]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+ [112]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
  (MSc_CristianMedina.aux (Introduction.aux) (Theorie.aux)
 (expset.aux) (Methods.aux) (Results.aux) (summary.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `MSc_CristianMedina.out' has not changed.
-(rerunfilecheck)             Checksum: 9197FAD55E3CFB02262396C0E4B1C8DE;3224.
+(rerunfilecheck)             Checksum: 7B745AE3EFD91A1E9E4FE43864FE9CBF;3279.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 27048 strings out of 493305
- 512553 string characters out of 3130238
- 662139 words of memory out of 3000000
- 29841 multiletter control sequences out of 15000+200000
+ 27061 strings out of 493305
+ 512785 string characters out of 3130238
+ 662372 words of memory out of 3000000
+ 29846 multiletter control sequences out of 15000+200000
  550839 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,16n,71p,9099b,929s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,16n,71p,9099b,927s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 crm0800.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\eccc1200.pk> <C:\Users\nano\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
@@ -2992,9 +2969,9 @@ ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users
 ne10.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
 sfonts/symbols/msam10.pfb><C:/Users/nano/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on MSc_CristianMedina.pdf (111 pages, 25303745 bytes).
+Output written on MSc_CristianMedina.pdf (112 pages, 25210802 bytes).
 PDF statistics:
- 2217 PDF objects out of 2487 (max. 8388607)
- 388 named destinations out of 1000 (max. 500000)
- 861 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2264 PDF objects out of 2487 (max. 8388607)
+ 396 named destinations out of 1000 (max. 500000)
+ 864 words of extra memory for PDF output out of 10000 (max. 10000000)
 
